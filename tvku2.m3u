@@ -1,63 +1,63 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="BeIN Sport 1 ID" tvg-logo="",BeIN Sport 1 ID
-http://tvku.live:8888/empaklopoa/11des..../728
-#EXTINF:-1 tvg-id="beINSports2.id" tvg-name="BeIN Sport 2 ID" tvg-logo="",BeIN Sport 2 ID
-http://tvku.live:8888/empaklopoa/11des..../729
-#EXTINF:-1 tvg-id="beINSports3.id" tvg-name="BeIN Sport 3 ID" tvg-logo="",BeIN Sport 3 ID
-http://tvku.live:8888/empaklopoa/11des..../730
+#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="Bein Sports1 ID" tvg-logo="",Bein Sports 1 Usee TV
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/728
+#EXTINF:-1 tvg-id="beINSports2.id" tvg-name="Bein Sports2 ID" tvg-logo="",Bein Sports 2 Usee TV
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/729
+#EXTINF:-1 tvg-id="beINSports3.id" tvg-name="Bein Sports3 ID" tvg-logo="",Bein Sports 3 Usee TV
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/730
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 Malaysia" tvg-logo="",Fox Sports 1 Malaysia
-http://tvku.live:8888/empaklopoa/11des..../911
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/911
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 Malaysia" tvg-logo="",Fox Sports 2 Malaysia
-http://tvku.live:8888/empaklopoa/11des..../895
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/895
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 Malaysia" tvg-logo="",Fox Sports 3 Malaysia
-http://tvku.live:8888/empaklopoa/11des..../913
-#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro Super Sports 1" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png",Astro Super Sports 1
-http://tvku.live:8888/empaklopoa/11des..../882
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro Super Sports 2" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/833_300.png",Astro Super Sports 2
-http://tvku.live:8888/empaklopoa/11des..../892
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro Super Sports 3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/834_300.png",Astro Super Sports 3
-http://tvku.live:8888/empaklopoa/11des..../893
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro Super Sports 4" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/836_300.png",Astro Super Sports 4
-http://tvku.live:8888/empaklopoa/11des..../894
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/913
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="ASSP 1" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png",ASSP 1
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/882
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="ASSP 2" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/833_300.png",ASSP 2
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/892
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP 3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/834_300.png",ASSP 3
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/893
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP 4" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/836_300.png",ASSP 4
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/894
 #EXTINF:-1 tvg-id="" tvg-name="Movie Channel" tvg-logo="https://mncvision.id/userfiles/image/channel/update_june_moviechannel.jpg",Movie Channel
-http://tvku.live:8888/empaklopoa/11des..../958
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/958
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy" tvg-logo="",Galaxy
-http://tvku.live:8888/empaklopoa/11des..../872
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/872
 #EXTINF:-1 tvg-id="" tvg-name="Gold Diamond" tvg-logo="",Gold Diamond
-http://tvku.live:8888/empaklopoa/11des..../959
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/959
 #EXTINF:-1 tvg-id="" tvg-name="Avava Bollywood" tvg-logo="https://ganteng.stream/screen-5.jpg",Avava Bollywood
-http://tvku.live:8888/empaklopoa/11des..../956
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/956
 #EXTINF:-1 tvg-id="" tvg-name="Avava Diamond" tvg-logo="https://ganteng.stream/adti.jpg",Avava Diamond
-http://tvku.live:8888/empaklopoa/11des..../957
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/957
 #EXTINF:-1 tvg-id="FOXMovies.id" tvg-name="FOX Movies HD" tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg",FOX Movies HD
-http://tvku.live:8888/empaklopoa/11des..../98
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/98
 #EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX Action Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg",FOX Action Movies HD
-http://tvku.live:8888/empaklopoa/11des..../99
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/99
 #EXTINF:-1 tvg-id="FOXFamilyMovies.id" tvg-name="FOX Family Movies HD" tvg-logo="http://whatson.dens.tv/media/img/fox-family-movies.jpg",FOX Family Movies HD
-http://tvku.live:8888/empaklopoa/11des..../100
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/100
 #EXTINF:-1 tvg-id="" tvg-name="FOX Crime HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/51/Fox_Crime_2012.png/revision/latest?cb=20140414172042",FOX Crime HD
-http://tvku.live:8888/empaklopoa/11des..../763
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/763
 #EXTINF:-1 tvg-id="FoxLife.id" tvg-name="FOX Life HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/82/FOXlife3DLA.png",FOX Life HD
-http://tvku.live:8888/empaklopoa/11des..../94
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/94
 #EXTINF:-1 tvg-id="FOX.id" tvg-name="FOX HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png",FOX HD
-http://tvku.live:8888/empaklopoa/11des..../95
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/95
 #EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png",FX HD
-http://tvku.live:8888/empaklopoa/11des..../776
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/776
 #EXTINF:-1 tvg-id="Diva.hr" tvg-name="Diva HD" tvg-logo="https://www.irisprize.org/wp-content/uploads/2017/05/DIVA_logo-big.png",Diva HD
-http://tvku.live:8888/empaklopoa/11des..../841
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/841
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png",HBO HD
-http://tvku.live:8888/empaklopoa/11des..../210
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/210
 #EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits
-http://tvku.live:8888/empaklopoa/11des..../591
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/591
 #EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",HBO Family
-http://tvku.live:8888/empaklopoa/11des..../592
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/592
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="",HBO Signature
-http://tvku.live:8888/empaklopoa/11des..../873
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/873
 #EXTINF:-1 tvg-id="RED.id" tvg-name="Red by HBO" tvg-logo="",Red by HBO
-http://tvku.live:8888/empaklopoa/11des..../874
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/874
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://images.bwwstatic.com/columnpic10/6803ACE1125-983F-B566-75A8F9947649FB1A.jpg",Cinemax
-http://tvku.live:8888/empaklopoa/11des..../796
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/796
 #EXTINF:-1 tvg-id="" tvg-name="Celestial Classic Movies" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/321_300.png",Celestial Classic Movies
-http://tvku.live:8888/empaklopoa/11des..../953
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/953
 #EXTINF:-1 tvg-id="" tvg-name="HITS" tvg-logo="",HITS
-http://tvku.live:8888/empaklopoa/11des..../932
+http://tvku.live:8888/v6rsw2hFsC/k1SgkfDeET/932
