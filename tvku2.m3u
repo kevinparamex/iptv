@@ -23,3 +23,9 @@ http://27.254.211.55:9981/stream/channelid/134952867?ticket=4E75F8740BC6511C0148
 http://27.254.211.55:9981/stream/channelid/1881731005?ticket=E39FCDFFE073D506BFBD8F890DBFB66090544BFD&profile=pass
 #EXTINF:-1 tvg-id="61ad4fd08d7fac7dba2568372b7760dc",SKYNET SPORTS PLUS
 http://27.254.211.55:9981/stream/channelid/1347399009?ticket=D8C4D676B4F385D556EC414901132069A892CD40&profile=pass
+#EXTINF:-1,True Sports 7
+http://27.254.149.109:8081/tumlive/tsp7/playlist.m3u8
+#EXTINF:-1,True Sports 6
+http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
+#EXTINF:-1,True Sports 5
+http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
