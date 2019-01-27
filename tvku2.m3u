@@ -31,15 +31,3 @@ http://27.254.149.109:8081/tumlive/tsp7/playlist.m3u8
 http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
 #EXTINF:-1,True Sports 5
 http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
-#EXTINF:-1,True Asian Series HD
-http://61.90.226.113:1935/stream/channelid/1916800694
-#EXTINF:-1,True Asian Series
-http://61.90.226.113:1935/stream/channelid/1165412672
-#EXTINF:-1,Fox
-http://61.90.226.113:1935/stream/channelid/2128251805
-#EXTINF:-1,True Visions
-http://61.90.226.113:1935/stream/channelid/983536006
-#EXTINF:-1,True Visions
-http://61.90.226.113:1935/stream/channelid/1621864748
-#EXTINF:-1,True Music
-http://61.90.226.113:1935/stream/channelid/406017691
