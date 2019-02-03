@@ -43,3 +43,9 @@ http://27.254.149.109:8081/tumlive/tsp7/playlist.m3u8
 http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
 #EXTINF:-1,True Sports 5
 http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
+#EXTINF:-1, MTV CHINA
+http://27.254.211.55:9981/stream/channelid/971093642
+#EXTINF:-1, MTV SEA
+http://27.254.211.55:9981/stream/channelid/726033681
+#EXTINF:-1, MTV LIVE HD
+http://27.254.211.55:9981/stream/channelid/843581623
