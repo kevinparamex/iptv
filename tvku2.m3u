@@ -49,3 +49,11 @@ http://61.90.226.112:1935/stream/channelid/983536006
 http://61.90.226.112:1935/stream/channelid/1621864748
 #EXTINF:-1,True Music
 http://61.90.226.112:1935/stream/channelid/406017691
+#EXTINF:-1, SBS VICELAND
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/801312212
+#EXTINF:-1, SBS VICELAND HD
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/1801528487
+#EXTINF:-1, SBS ONE SD
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/923270076
+#EXTINF:-1, SBS ONE HD
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/392679965
