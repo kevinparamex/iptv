@@ -59,3 +59,5 @@ http://kodi:kodi@61.245.139.132:9981/stream/channelid/923270076
 http://kodi:kodi@61.245.139.132:9981/stream/channelid/392679965
 #EXTINF:-1, МАТЧ!
 http://217.107.192.37:9981/stream/channelid/650081956
+#EXTINF:-1, BEIN SPORTS 1 HD
+http://www.freeiptvdaily.net:8000/live/HNIjlggJeh/freeiptvdaily.tv/1.ts
