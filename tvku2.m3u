@@ -57,5 +57,5 @@ http://kodi:kodi@61.245.139.132:9981/stream/channelid/1801528487
 http://kodi:kodi@61.245.139.132:9981/stream/channelid/923270076
 #EXTINF:-1, SBS ONE HD
 http://kodi:kodi@61.245.139.132:9981/stream/channelid/392679965
-#EXTINF:-1,МАТЧ! Белгород
+#EXTINF:-1, МАТЧ! Белгород
 http://217.107.192.37:9981/stream/channelid/650081956
