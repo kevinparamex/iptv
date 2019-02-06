@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="d19940d7fd649c8744cb5436481665a4",EUROSPORT
 http://27.254.211.55:9981/stream/channelid/1463851473?ticket=DCFC5246619CDABA1ABC50A7ECEC119D3A3F6AE1&profile=pass
-#EXTINF:-1, EDGE SPORT
+#EXTINF:-1,EDGE SPORT
 http://27.254.211.55:9981/stream/channelid/1275216089
 #EXTINF:-1 tvg-id="7def04ebe2ac5b3b6f1c983feb6669a7",FOX SPORTS 1
 http://27.254.211.55:9981/stream/channelid/1795485565?ticket=69B131B1EA98F2AEF5C8470163FF69807126F6D2&profile=pass
@@ -57,5 +57,5 @@ http://kodi:kodi@61.245.139.132:9981/stream/channelid/1801528487
 http://kodi:kodi@61.245.139.132:9981/stream/channelid/923270076
 #EXTINF:-1, SBS ONE HD
 http://kodi:kodi@61.245.139.132:9981/stream/channelid/392679965
-#EXTINF:-1, МАТЧ! Белгород
+#EXTINF:-1, МАТЧ!
 http://217.107.192.37:9981/stream/channelid/650081956
