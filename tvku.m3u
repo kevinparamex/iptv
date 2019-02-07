@@ -1,15 +1,3 @@
 #EXTM3U
-#EXTINF:-1,ASTRO SUPERSPORTS 1 FHD MY
-http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/18623
-#EXTINF:-1,ASTRO SUPERSPORTS 2 FHD MY
-http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/18622
-#EXTINF:-1,ASTRO SUPERSPORTS 3 FHD MY
-http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/18621
-#EXTINF:-1,ASTRO SUPERSPORTS 4 FHD MY
-http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/18620
-#EXTINF:-1,FOX SPORTS 1 MY
-http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/18589
-#EXTINF:-1,FOX SPORTS 2 MY
-http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/18588
-#EXTINF:-1,FOX SPORTS 3 MY
-http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/18587
+#EXTINF:-1, МАТЧ!
+http://217.107.192.37:9981/stream/channelid/650081956
