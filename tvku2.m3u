@@ -61,11 +61,3 @@ http://kodi:kodi@61.245.139.132:9981/stream/channelid/392679965
 http://217.107.192.37:9981/stream/channelid/650081956
 #EXTINF:-1, Channels [V]
 http://27.254.211.55:9981/stream/channelid/1613494992
-#EXTINF:-1,J-SPORTS 1
-http://122.155.180.8:5021/live/415
-#EXTINF:-1,J-SPORTS 2
-http://122.155.180.8:5021/live/416
-#EXTINF:-1,J-SPORTS 3
-http://122.155.180.8:5021/live/410
-#EXTINF:-1,J-SPORTS 4
-http://122.155.180.8:5021/live/411
