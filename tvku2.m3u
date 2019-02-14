@@ -61,5 +61,3 @@ http://kodi:kodi@61.245.139.132:9981/stream/channelid/392679965
 http://217.107.192.37:9981/stream/channelid/650081956
 #EXTINF:-1, Channels [V]
 http://27.254.211.55:9981/stream/channelid/1613494992
-#EXTINF:-1, Sony Ten 1
-http://103.205.133.14/hls/ten1.m3u8
