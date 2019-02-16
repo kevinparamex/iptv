@@ -71,3 +71,15 @@ http://49.49.126.236:9981/stream/channelid/1029878427
 http://49.49.126.236:9981/stream/channelid/110864444
 #EXTINF:-1, True Sports 2 HD
 http://49.49.126.236:9981/stream/channelid/1475006971
+#EXTINF:-1, HBO HD
+http://27.254.211.55:9981/stream/channelid/1637231993
+#EXTINF:-1, HBO SD
+http://27.254.211.55:9981/stream/channelid/1429466993
+#EXTINF:-1, SKYNET MOVIES HD
+http://27.254.211.55:9981/stream/channelid/1752776926
+#EXTINF:-1,CINEMAX
+http://27.254.211.55:9981/stream/channelid/620651492
+#EXTINF:-1,FOX MOVIES
+http://27.254.211.55:9981/stream/channelid/1259026117
+#EXTINF:-1, ASIAN MOVIES
+http://27.254.211.55:9981/stream/channelid/863021690
