@@ -83,3 +83,9 @@ http://27.254.211.55:9981/stream/channelid/620651492
 http://27.254.211.55:9981/stream/channelid/1259026117
 #EXTINF:-1, ASIAN MOVIES
 http://27.254.211.55:9981/stream/channelid/863021690
+#EXTINF:-1, Bein Sports 1 HD Indo
+rtmp://118.97.96.17:1935/discover/beib1_4
+#EXTINF:-1, Bein Sports 2 HD Indo
+rtmp://118.97.96.17:1935/discover/beib2_4
+#EXTINF:-1, Bein Sports 3 HD Indo
+rtmp://118.97.96.17:1935/discover/beib3_4
