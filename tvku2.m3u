@@ -89,13 +89,3 @@ rtsp://118.97.96.17:1935/discover/beib1_4
 rtsp://118.97.96.17:1935/discover/beib2_4
 #EXTINF:-1, Bein Sports 3 HD Indo
 rtsp://118.97.96.17:1935/discover/beib3_4
-#EXTINF:-1 tvg-id="1b171283475abe20b9f237c97919d74f",Bein1
-http://49.49.126.236:9981/stream/channelid/51517211?profile=pass
-#EXTINF:-1 tvg-id="f7b3fc363220b01012aaa217f2eebb2e",Bein2
-http://49.49.126.236:9981/stream/channelid/922530807?profile=pass
-#EXTINF:-1 tvg-id="9bb2623dcebaaa4ba584b6ed2ba6b157",Bein3
-http://49.49.126.236:9981/stream/channelid/1029878427?profile=pass
-#EXTINF:-1 tvg-id="3ca89b063371f4fa246767abb79b4979",Bein4
-http://49.49.126.236:9981/stream/channelid/110864444?profile=pass
-#EXTINF:-1 tvg-id="fbd1ead738e60a5fb531ae269326a569",true hd2
-http://49.49.126.236:9981/stream/channelid/1475006971?profile=pass
