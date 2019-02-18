@@ -89,3 +89,5 @@ rtsp://118.97.96.17:1935/discover/beib1_4
 rtsp://118.97.96.17:1935/discover/beib2_4
 #EXTINF:-1, Bein Sports 3 HD Indo
 rtsp://118.97.96.17:1935/discover/beib3_4
+#EXTINF:-1, MY TV
+http://103.242.13.90:5555/udp/239.4.1.56:10000
