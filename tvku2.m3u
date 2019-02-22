@@ -91,3 +91,5 @@ rtsp://118.97.96.17:1935/discover/beib2_4
 rtsp://118.97.96.17:1935/discover/beib3_4
 #EXTINF:-1, ASSP 1
 http://203.154.243.89:1206
+#EXTINF:-1,Sony Ten 2
+http://103.205.133.19/hls/ten2.m3u8
