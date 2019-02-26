@@ -93,5 +93,7 @@ rtsp://118.97.96.17:1935/discover/beib3_4
 http://203.154.243.89:1206
 #EXTINF:-1,Sony Ten 2
 http://103.205.133.19/hls/ten2.m3u8
-#EXTINF:-1, PPTV HD
+#EXTINF:-1, PPTV HD 576
 http://183.88.38.22:8000/play/a00z
+#EXTINF:-1, PPTV HD 1080
+http://49.231.4.246:9981/stream/channelid/124747937
