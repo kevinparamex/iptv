@@ -31,24 +31,6 @@ http://27.254.211.55:9981/stream/channelid/971093642
 http://27.254.211.55:9981/stream/channelid/726033681
 #EXTINF:-1, MTV LIVE HD
 http://27.254.211.55:9981/stream/channelid/843581623
-#EXTINF:-1,True Sports 7
-http://27.254.149.109:8081/tumlive/tsp7/playlist.m3u8
-#EXTINF:-1,True Sports 6
-http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
-#EXTINF:-1,True Sports 5
-http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
-#EXTINF:-1,True Asian Series HD
-http://61.90.226.112:1935/stream/channelid/1916800694
-#EXTINF:-1,True Asian Series SD
-http://61.90.226.112:1935/stream/channelid/1165412672
-#EXTINF:-1,Fox
-http://61.90.226.112:1935/stream/channelid/2128251805
-#EXTINF:-1,True Visions
-http://61.90.226.112:1935/stream/channelid/983536006
-#EXTINF:-1,TrueVisions 2
-http://61.90.226.112:1935/stream/channelid/1621864748
-#EXTINF:-1,True Music
-http://61.90.226.112:1935/stream/channelid/406017691
 #EXTINF:-1, SBS
 http://kodi:kodi@61.245.139.132:9981/stream/channelid/801312212
 #EXTINF:-1, SBS VICELAND HD
@@ -61,16 +43,6 @@ http://kodi:kodi@61.245.139.132:9981/stream/channelid/392679965
 http://217.107.192.37:9981/stream/channelid/650081956
 #EXTINF:-1, Channels [V]
 http://27.254.211.55:9981/stream/channelid/1613494992
-#EXTINF:-1, Bein 1 HD Thai
-http://49.49.126.236:9981/stream/channelid/51517211
-#EXTINF:-1, Bein 2 HD Thai
-http://49.49.126.236:9981/stream/channelid/922530807
-#EXTINF:-1, Bein 3 HD Thai
-http://49.49.126.236:9981/stream/channelid/1029878427
-#EXTINF:-1, Bein 4 HD Thai
-http://49.49.126.236:9981/stream/channelid/110864444
-#EXTINF:-1, True Sports 2 HD
-http://49.49.126.236:9981/stream/channelid/1475006971
 #EXTINF:-1, HBO HD
 http://27.254.211.55:9981/stream/channelid/1637231993
 #EXTINF:-1, HBO SD
@@ -83,15 +55,5 @@ http://27.254.211.55:9981/stream/channelid/620651492
 http://27.254.211.55:9981/stream/channelid/1259026117
 #EXTINF:-1, ASIAN MOVIES
 http://27.254.211.55:9981/stream/channelid/863021690
-#EXTINF:-1, Bein Sports 1 HD Indo
-rtsp://118.97.96.17:1935/discover/beib1_4
-#EXTINF:-1, Bein Sports 2 HD Indo
-rtsp://118.97.96.17:1935/discover/beib2_4
-#EXTINF:-1, Bein Sports 3 HD Indo
-rtsp://118.97.96.17:1935/discover/beib3_4
-#EXTINF:-1,Sony Ten 2
-http://103.205.133.19/hls/ten2.m3u8
-#EXTINF:-1, PPTV HD 576
-http://183.88.38.22:8000/play/a00n
 #EXTINF:-1, PPTV HD 1080
 http://49.231.4.246:9981/stream/channelid/124747937
