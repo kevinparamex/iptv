@@ -49,3 +49,5 @@ http://49.49.125.7:9981/stream/channelid/1886797932?profile=pass
 http://49.49.125.7:9981/stream/channelid/925645014?profile=pass
 #EXTINF:-1 tvg-id="e56fea21005a0da5f4a191c8af413158",True Sport7
 http://49.49.125.7:9981/stream/channelid/569012197?profile=pass
+#EXTINF:-1, МАТЧ!
+http://217.107.192.37:9981/stream/channelid/650081956
