@@ -51,3 +51,50 @@ http://newhostshare.ddns.net:9981/stream/channelid/925645014?profile=pass
 http://newhostshare.ddns.net:9981/stream/channelid/569012197?profile=pass
 #EXTINF:-1, МАТЧ! [KP]
 http://217.107.192.37:9981/stream/channelid/650081956
+#EXTINF:-1 tvg-id="c61fbf8918b813b28edf5251f37c4153" tvg-chno="1",10 BOLD [KP]
+http://101.188.71.170:9981/stream/channelid/163520454?profile=pass
+#EXTINF:-1 tvg-id="f540a1bfdbbfa32aa5a8d82f811833d2" tvg-chno="2",ABC [KP]
+http://101.188.71.170:9981/stream/channelid/1067532533?profile=pass
+#EXTINF:-1 tvg-id="e771c381b0164b3d8b2be890ec6befd5" tvg-chno="3",SBS ONE [KP]
+http://101.188.71.170:9981/stream/channelid/29585895?profile=pass
+#EXTINF:-1 tvg-id="3e8793826bf8b4e03dd3be2a7939c190" tvg-chno="7",7 Melbourne [KP]
+http://101.188.71.170:9981/stream/channelid/43222846?profile=pass
+#EXTINF:-1 tvg-id="32f225e855d295c53cde6b921400171a" tvg-chno="9",Channel 9 Melbourne [KP]
+http://101.188.71.170:9981/stream/channelid/1747317298?profile=pass
+#EXTINF:-1 tvg-id="08277cb2acc926697639265cae209ac6" tvg-chno="10",10 [KP]
+http://101.188.71.170:9981/stream/channelid/846997256?profile=pass
+#EXTINF:-1 tvg-id="543623b65411dd6cb2f9eb41ad2f8d52" tvg-chno="11",10 Peach [KP]
+http://101.188.71.170:9981/stream/channelid/908277332?profile=pass
+#EXTINF:-1 tvg-id="0fa6101ef0b8c3b1c00623dd7d057b35" tvg-chno="13",10 HD [KP]
+#EXTINF:-1 tvg-id="6769de7db27c357c2ed55ddce25e945e" tvg-chno="20",ABC HD [KP]
+http://101.188.71.170:9981/stream/channelid/2111727975?profile=pass
+#EXTINF:-1 tvg-id="b580bde17cc5c3c014a0d1c4afa9aad4" tvg-chno="22",ABCComedy/Kids [KP]
+http://101.188.71.170:9981/stream/channelid/1639809205?profile=pass
+#EXTINF:-1 tvg-id="d64e439bb983538d5f04254939f7ba67" tvg-chno="23",ABC ME [KP]
+http://101.188.71.170:9981/stream/channelid/457395926?profile=pass
+#EXTINF:-1 tvg-id="0161eb5d6336e87e01cfcb0ce60938f9" tvg-chno="30",SBS ONE HD [KP]
+http://101.188.71.170:9981/stream/channelid/1575706881?profile=pass
+#EXTINF:-1 tvg-id="3ba0d1635c353dc12bc7c8e1a02ca33d" tvg-chno="31",SBS VICELAND HD [KP]
+http://101.188.71.170:9981/stream/channelid/1674682427?profile=pass
+#EXTINF:-1 tvg-id="a75301e6c68617c4f0b0700cce6f32ca" tvg-chno="32",SBS VICELAND [KP]
+http://101.188.71.170:9981/stream/channelid/1711362983?profile=pass
+#EXTINF:-1 tvg-id="d6ef3ebb383b6f4c9ea93c146e4e2ed4" tvg-chno="70",7HD Melbourne [KP]
+http://101.188.71.170:9981/stream/channelid/993980374?profile=pass
+#EXTINF:-1 tvg-id="e5a59fc6b8a38296178e5f15959551bc" tvg-chno="72",7TWO Melbourne [KP]
+http://101.188.71.170:9981/stream/channelid/1184867813?profile=pass
+#EXTINF:-1 tvg-id="b1e475fc074aee6a78f36bb73129a148" tvg-chno="73",7mate Melbourne [KP]
+http://101.188.71.170:9981/stream/channelid/2088101041?profile=pass
+#EXTINF:-1 tvg-id="e6131f60e519a7dcf8f0f4f84ea85c97" tvg-chno="74",7food network [KP]
+http://101.188.71.170:9981/stream/channelid/1612649446?profile=pass
+#EXTINF:-1 tvg-id="2f71a0188c707dadd96653b5ef4e7d82" tvg-chno="76",7flix Melbourne [KP]
+http://101.188.71.170:9981/stream/channelid/413167919?profile=pass
+#EXTINF:-1 tvg-id="a44ede5667e18f0ff4ae2e1cc921ff84" tvg-chno="78",RACING.COM [KP]
+http://101.188.71.170:9981/stream/channelid/1457409700?profile=pass
+#EXTINF:-1 tvg-id="d353768d09dfa543b16aa40e516acfb3" tvg-chno="90",9HD Melbourne [KP]
+http://101.188.71.170:9981/stream/channelid/225858515?profile=pass
+#EXTINF:-1 tvg-id="627cb9ea4b15ef6162c55b630dfcc149" tvg-chno="92",9Gem [KP]
+http://101.188.71.170:9981/stream/channelid/1790540898?profile=pass
+#EXTINF:-1 tvg-id="82aece0cb81a308ab69b1c2f13453450" tvg-chno="93",9Go! [KP]
+http://101.188.71.170:9981/stream/channelid/214871682?profile=pass
+#EXTINF:-1 tvg-id="7faade7478a6dce87665b459ffe3db5e" tvg-chno="94",9Life [KP]
+http://101.188.71.170:9981/stream/channelid/1960749695?profile=pass
