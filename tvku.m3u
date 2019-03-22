@@ -54,7 +54,7 @@ http://217.107.192.37:9981/stream/channelid/650081956
 #EXTINF:-1 tvg-id="c61fbf8918b813b28edf5251f37c4153" tvg-chno="1",10 BOLD [KP]
 http://101.188.71.170:9981/stream/channelid/163520454?profile=pass
 #EXTINF:-1 tvg-id="f540a1bfdbbfa32aa5a8d82f811833d2" tvg-chno="2",ABC [KP]
-http://203.213.16.202:9981/stream/channelid/983136971?ticket=3113B4D89BB086443149583B0C51F395D32F7F0C&profile=matroska
+http://101.188.71.170:9981/stream/channelid/1067532533
 #EXTINF:-1 tvg-id="e771c381b0164b3d8b2be890ec6befd5" tvg-chno="3",SBS ONE [KP]
 http://101.188.71.170:9981/stream/channelid/29585895?profile=pass
 #EXTINF:-1 tvg-id="08277cb2acc926697639265cae209ac6" tvg-chno="10",10 [KP]
