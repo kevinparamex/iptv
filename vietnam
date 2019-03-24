@@ -17,8 +17,6 @@ http://203.153.218.26:9981/stream/channelid/1764566305?ticket=0375608AD364B56455
 http://203.153.218.26:9981/stream/channelid/2032967620?ticket=4C29E0C2CD2A1CE67190CB6FD8A0419B7FAA11C5&profile=pass
 #EXTINF:-1 logo="http://tv.dekagon.id/logo/cinemax_asia.png" tvg-id="b9791283a47d42c28266afa945ca5b64",Cinemax
 http://203.153.218.26:9981/stream/channelid/51542457?ticket=D002463AA5EAE85AB32909C9D2DD6FB74BA78E13&profile=pass
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/fox_sports_global.png" tvg-id="94ff3d36474953d4249331b61ffd9031",FOX Sports
-http://203.153.218.26:9981/stream/channelid/910032788?ticket=1EC246EC76E1C7DB1336E41BE7C895E56C700F0E&profile=pass
 #EXTINF:-1 logo="http://tv.dekagon.id/logo/history_us.png" tvg-id="fbd303b30ae4cb8e3ad9b70dc26c5b01",History Channel
 http://203.153.218.26:9981/stream/channelid/855888891?ticket=7DB73F091AFAE9C2D5A07A2947D8DAB80893579F&profile=pass
 #EXTINF:-1 logo="http://tv.dekagon.id/logo/disney_junior_us.png" tvg-id="276cc1833c28d82ea5411b15b713f971",Disney Junior
