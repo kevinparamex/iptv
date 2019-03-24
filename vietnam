@@ -1,59 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="858c34b27b150ea3a265eb20824f26e9",CHANNEL NEWS ASIA
-http://123.27.207.68:9981/stream/channelid/93074610?ticket=9D09D9A9280B611D459D8033855655D2AD2BB163&profile=pass
-#EXTINF:-1 tvg-id="e614f700c02e28ab77c6b7a220f05d91",CHANNEL V
-http://123.27.207.68:9981/stream/channelid/1712649984?ticket=31721B78A7E85DD6104E4DF265B2FC04A8FEE2DD&profile=pass
-#EXTINF:-1 tvg-id="f3a8590bb4ac1db8c11c795bea5086f3",DIVA
-http://123.27.207.68:9981/stream/channelid/1940412683?ticket=E9AC2073A3C5A1E748FAC53B9C5F64A376D19B01&profile=pass
-#EXTINF:-1 tvg-id="7992920ff8ff3c12016d4846984af55e",DW
-http://123.27.207.68:9981/stream/channelid/2039648783?ticket=0423360098FD72A5FFF95EEB7C9F70DDF3F6CCFA&profile=pass
-#EXTINF:-1 tvg-id="2ba46884fa159efd8feb39e71426e1bf",FOXLIFE
-http://123.27.207.68:9981/stream/channelid/732194948?ticket=C7BFA17A496EF72F593AAB1138CBE6EDCE4EA434&profile=pass
-#EXTINF:-1 tvg-id="e7ab9577c2741895825f048750dde8bb",GEM
-http://123.27.207.68:9981/stream/channelid/1739298167?ticket=FBD9D0DFE95B2D8E807E532BCF1F9D316691DE9E&profile=pass
-#EXTINF:-1 tvg-id="a83b59ab23663635c9cdb80a1abf3ab8",MTV
-http://123.27.207.68:9981/stream/channelid/674978219?ticket=FC49A05F9D2D4F5C9DBB977C7C369F5ADBA50B7D&profile=pass
-#EXTINF:-1 tvg-id="2c9992fe06f899e45443b85f90df97a9",NGC
-http://123.27.207.68:9981/stream/channelid/748262142?ticket=51E7EC2035D6D7BD77A7BFC55A68D0D3C7BE8BC8&profile=pass
-#EXTINF:-1 tvg-id="141c52ff735f0ae2ffda1474fd65ea44",NGP
-http://123.27.207.68:9981/stream/channelid/337400575?ticket=5A6EB097958BC7C11CC7969625326F86BF9172FD&profile=pass
-#EXTINF:-1 tvg-id="8fe3fecb7212a34a7918cf5c8acc3522",NGW
-http://123.27.207.68:9981/stream/channelid/266600139?ticket=D0AB14B757636819E520941C1C7E866C1D8B84C1&profile=pass
-#EXTINF:-1 tvg-id="24b7c998af3a665514efbfffae8a92e4",OUTDOOR CHANNEL
-http://123.27.207.68:9981/stream/channelid/616024472?ticket=B1B184497AEC9F2C9527C602A0566FAC7D54772E&profile=pass
-#EXTINF:-1 tvg-id="5bf548cc067bafa50829d333d40300cf",RED BY HBO
-http://123.27.207.68:9981/stream/channelid/1542801612?ticket=0B517885AD9A4934133AB2ED01506B6E468CCC57&profile=pass
-#EXTINF:-1 tvg-id="ca9eb068d54ad581f6163cfa889b7ad1",STARWORLD
-http://123.27.207.68:9981/stream/channelid/1251913832?ticket=4FE10061586F43D40F9694DCFBE1E69B41D7F667&profile=pass
-#EXTINF:-1 tvg-id="b1005b66f8faa1a45dfd4d33968a5e53",TLC
-http://123.27.207.68:9981/stream/channelid/822106982?ticket=97E349CC418B060FF08F731944B52ACA86BB74DF&profile=pass
-#EXTINF:-1 tvg-id="5f1a603cb220fb1f7c8fdee4bf15f249",VTC 1
-http://123.27.207.68:9981/stream/channelid/1595564092?ticket=D644A57DB0B668BDDCF8E82229167B879033D6A1&profile=pass
-#EXTINF:-1 tvg-id="149b29658adc92b8d3ced274d98ec1c7",VTV 1
-http://123.27.207.68:9981/stream/channelid/345712997?ticket=75D41340D979BDA0126EF1D2AC2D0113E1734010&profile=pass
-#EXTINF:-1 tvg-id="a97ecbbfdf508a20f2707c7faab973e6",VTV 2
-http://123.27.207.68:9981/stream/channelid/696175551?ticket=7B86DF33CB94E9A0A651F9A4E8663D8856A0F129&profile=pass
-#EXTINF:-1 tvg-id="9458c7b1ee022fb8984a9f731dbe93e2",VTV 3
-http://123.27.207.68:9981/stream/channelid/341362609?ticket=592E607A64FA9A65D8C0E7346547DF2A0CE0B389&profile=pass
-#EXTINF:-1 tvg-id="8a28e573bd35a18af0e03487eddbf70d",VTV 4
-http://123.27.207.68:9981/stream/channelid/170452339?ticket=DB4A52F531857C037B4FB21FE2B020629E52C5AD&profile=pass
-#EXTINF:-1 tvg-id="cd412db2e8012455cd3c3ccd8155f649",VTV 5
-http://123.27.207.68:9981/stream/channelid/1296117170?ticket=381CE2E9B4F242CE9451DF7E7A3D4831C550BC50&profile=pass
-#EXTINF:-1 tvg-id="76b1820c2e7a44734eea92c52f8fc0f0",VTV 6
-http://123.27.207.68:9981/stream/channelid/1991344652?ticket=5A582AB73603A6E4B0E38D178DAE8926339C3778&profile=pass
-#EXTINF:-1 tvg-id="423d1b3f14d3a73beef729aef9f57142",AXN
-http://123.27.207.68:9981/stream/channelid/1111300927?ticket=8BDD904C136BCAA0CCF10159609D0A0573ECBDF7&profile=pass
-#EXTINF:-1 tvg-id="111db5a27bf8d814afd3af5ada2e535c",DISCOVERY
-http://123.27.207.68:9981/stream/channelid/287159714?ticket=78B87D5F035D9CF2CB5FA49256629536E76A819B&profile=pass
-#EXTINF:-1 tvg-id="922222013efdee371b33f44b0e1a4ea4",FASHION
-http://123.27.207.68:9981/stream/channelid/304226817?ticket=A7F77ACA40F15C1B4B53C8E98FC99F60D839891B&profile=pass
-#EXTINF:-1 tvg-id="a9e4d6a0c4f609ab529b742b610255fb",FOX MOVIES
-http://123.27.207.68:9981/stream/channelid/702863008?ticket=01DBCDA7D6BBE7365A580748AE07713D45DEDE36&profile=pass
-#EXTINF:-1 tvg-id="783d1e185bda1abfcfaca687305c683a",HBO
-http://123.27.207.68:9981/stream/channelid/2017271320?ticket=945ED58F10AC2860C1B2E5C8CE922B1D17993059&profile=pass
-#EXTINF:-1 tvg-id="c2ebc6f114181f86653f8730573dc64f",MAX BY HBO
-http://123.27.207.68:9981/stream/channelid/1122748145?ticket=5AFC9C5883E03736A434270A4BBFFEC9FA5B0AAB&profile=pass
-#EXTINF:-1 tvg-id="d43ecad143ced99860f7e085cea29cd0",VTC 3
-http://123.27.207.68:9981/stream/channelid/1413401297?ticket=C9D37D40BC061F1F29A931F7A20C314F14C4FD5A&profile=pass
-#EXTINF:-1 tvg-id="bc333522aab68836c031a1c226548c71",WB
-http://123.27.207.68:9981/stream/channelid/1009988898?ticket=9D16C690C4C4E955A1168FB3EC760F273399917E&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/hbo_asia.png" tvg-id="c4379d13572d085312ffef2cd5d4a7a7",HBO HD
+http://203.153.218.26:9981/stream/channelid/329070532?ticket=468CD322BD2DDA74431F8F0D948026F6091FEB01&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/hbo_hits.png" tvg-id="216ad7670aeac0b23e11fdbc13200c7f",HBO Hits
+http://203.153.218.26:9981/stream/channelid/1742170657?ticket=E26E997D81DCA80B4B22E0E3C6F6CD102D2AD1B4&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/hbo_family_asia.png" tvg-id="bd833b39257c35def3eff69f74d1d7e2",HBO Family
+http://203.153.218.26:9981/stream/channelid/960201661?ticket=367576F64D7777642CDA607001892BB2EDD70A15&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/blue-ant-extreme-ca.png" tvg-id="b57c2f8768bcfdba104c35a8dd8b6639",Blue Ant Extreme
+http://203.153.218.26:9981/stream/channelid/120552629?ticket=5ECFCA83D043976F302E734AD9B4015A62B00400&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/fox_global.png" tvg-id="59732413cf986964787adfb05e71d108",FOX
+http://203.153.218.26:9981/stream/channelid/321155929?ticket=DAB810ECF8F1C852D1EA9EF989D39CA0DBA764F8&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/fox_movies_family.png" tvg-id="2c3bbeac9d7621a579b275bc2ed6f67b",FOX Family Movies
+http://203.153.218.26:9981/stream/channelid/750664492?ticket=DDCF726E0242C700F5D8EA661A1ECBB7696DD4DA&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/fox_movies_action.png" tvg-id="21252d69f4203ee24552bb350a0b4880",FOX Action Movies
+http://203.153.218.26:9981/stream/channelid/1764566305?ticket=0375608AD364B564557F13F8B908EB7499E687A0&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/axn_global.png" tvg-id="c49f2c797fcd666531a473f4b459d32a",AXN
+http://203.153.218.26:9981/stream/channelid/2032967620?ticket=4C29E0C2CD2A1CE67190CB6FD8A0419B7FAA11C5&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/cinemax_asia.png" tvg-id="b9791283a47d42c28266afa945ca5b64",Cinemax
+http://203.153.218.26:9981/stream/channelid/51542457?ticket=D002463AA5EAE85AB32909C9D2DD6FB74BA78E13&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/fox_sports_global.png" tvg-id="94ff3d36474953d4249331b61ffd9031",FOX Sports
+http://203.153.218.26:9981/stream/channelid/910032788?ticket=1EC246EC76E1C7DB1336E41BE7C895E56C700F0E&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/history_us.png" tvg-id="fbd303b30ae4cb8e3ad9b70dc26c5b01",History Channel
+http://203.153.218.26:9981/stream/channelid/855888891?ticket=7DB73F091AFAE9C2D5A07A2947D8DAB80893579F&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/disney_junior_us.png" tvg-id="276cc1833c28d82ea5411b15b713f971",Disney Junior
+http://203.153.218.26:9981/stream/channelid/63007783?ticket=BFB50644B9B7A2DAFB3FB0E35E006A682F05C0C5&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/discovery_global_us.png" tvg-id="75ddf7f494fce3f70baa15f9b0f31d3d",Discovery Channel
+http://203.153.218.26:9981/stream/channelid/1962401141?ticket=8DE436134F8A2717CA03A8B38A13A3E89ACF7392&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/nat_geo_wild_us.png" tvg-id="6d7217574bc1970e8b152657fb354b7b",NAT GEO Wild
+http://203.153.218.26:9981/stream/channelid/1461154413?ticket=99CD0772C4208FFFB4D1D0F533A508BFD9781E67&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/nat_geo_people_asia.png" tvg-id="31392caa0cf1109c49a675d48b70fedf",NAT GEO People
+http://203.153.218.26:9981/stream/channelid/707541297?ticket=B56F9CAB3A4FDA129243F4FBCB51DAE9506E2BD2&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/nat_geo_us.png" tvg-id="caf21dc58bc94e97a7f5db16c098d274",National Geographic
+http://203.153.218.26:9981/stream/channelid/1159590602?ticket=66443F5194DB5B2B1A5DAAD19BB0697C25DD7097&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/discovery_global_us.png" tvg-id="b0bfd941e035c6b032d2785586389809",Discovery Channel
+http://203.153.218.26:9981/stream/channelid/1104789424?ticket=CC4BCA43D4416C0653FEC162F866AE34FA6AC118&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/cartoon_network_global.png" tvg-id="b45a655c749810baf6d4c29a3f55f172",Cartoon Network
+http://203.153.218.26:9981/stream/channelid/1550146228?ticket=54B03161380665201239553C005187941D5494FF&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/nickelodeon_us.png" tvg-id="18ace557a0cc99741f9cbbbaf2bda4d1",Nickelodeon Asia
+http://203.153.218.26:9981/stream/channelid/1474669592?ticket=E20E01C4E33FD3C0A16118A3643901F58783C5E2&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/disney_channel_global.png" tvg-id="3766117da69ce90f5cb3f0ea09df5f80",Disney Channel
+http://203.153.218.26:9981/stream/channelid/2098292279?ticket=FCD1A86833A3E3C9D24C1D2D794F0201AFDFC954&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/hbo_signature_asia.png" tvg-id="5f1d99ff7a0407de4f70a6d15a27cb7a",HBO Signature
+http://203.153.218.26:9981/stream/channelid/2140740959?ticket=0D8F16255E27A418B40FB4D051D37246722088FF&profile=pass
