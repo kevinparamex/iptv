@@ -52,16 +52,16 @@ http://223.205.66.248:9981/stream/channelid/569012197?profile=pass
 #EXTINF:-1, МАТЧ! [KP]
 http://217.107.192.37:9981/stream/channelid/650081956
 #EXTINF:-1 tvg-id="c61fbf8918b813b28edf5251f37c4153" tvg-chno="1",10 BOLD [KP]
-http://101.188.71.170:9981/stream/channelid/163520454?profile=pass
+http://223.204.155.63:9981/stream/channelid/163520454?profile=pass
 #EXTINF:-1 tvg-id="f540a1bfdbbfa32aa5a8d82f811833d2" tvg-chno="2",ABC [KP]
-http://101.188.71.170:9981/stream/channelid/1067532533
+http://223.204.155.63:9981/stream/channelid/1067532533
 #EXTINF:-1 tvg-id="e771c381b0164b3d8b2be890ec6befd5" tvg-chno="3",SBS ONE [KP]
-http://101.188.71.170:9981/stream/channelid/29585895?profile=pass
+http://223.204.155.63:9981/stream/channelid/29585895?profile=pass
 #EXTINF:-1 tvg-id="08277cb2acc926697639265cae209ac6" tvg-chno="10",10 [KP]
-http://101.188.71.170:9981/stream/channelid/846997256?profile=pass
+http://223.204.155.63:9981/stream/channelid/846997256?profile=pass
 #EXTINF:-1 tvg-id="0161eb5d6336e87e01cfcb0ce60938f9" tvg-chno="30",SBS ONE HD [KP]
-http://101.188.71.170:9981/stream/channelid/1575706881?profile=pass
+http://223.204.155.63:9981/stream/channelid/1575706881?profile=pass
 #EXTINF:-1 tvg-id="3ba0d1635c353dc12bc7c8e1a02ca33d" tvg-chno="31",SBS VICELAND HD [KP]
-http://101.188.71.170:9981/stream/channelid/1674682427?profile=pass
+http://223.204.155.63:9981/stream/channelid/1674682427?profile=pass
 #EXTINF:-1 tvg-id="a75301e6c68617c4f0b0700cce6f32ca" tvg-chno="32",SBS VICELAND [KP]
-http://101.188.71.170:9981/stream/channelid/1711362983?profile=pass
+http://223.204.155.63:9981/stream/channelid/1711362983?profile=pass
