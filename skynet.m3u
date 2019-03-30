@@ -65,3 +65,5 @@ http://101.188.71.170:9981/stream/channelid/1575706881?profile=pass
 http://101.188.71.170:9981/stream/channelid/1674682427?profile=pass
 #EXTINF:-1 tvg-id="a75301e6c68617c4f0b0700cce6f32ca" tvg-chno="32",SBS VICELAND [KP]
 http://101.188.71.170:9981/stream/channelid/1711362983?profile=pass
+#EXTINF:-1,PPTV HD
+http://180.183.119.209:8000/play/a00n
