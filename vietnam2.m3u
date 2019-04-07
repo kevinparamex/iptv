@@ -39,11 +39,11 @@ http://get.indotv.live:9889/live/untuk/kita/18.ts
 http://get.indotv.live:9889/live/untuk/kita/17.ts
 #EXTINF:-1,UseeSports
 http://get.indotv.live:9889/live/untuk/kita/24.ts
-#EXTINF:-1,(ID) beINSPORTS 1
+#EXTINF:-1,Bein 1 Indo
 http://get.indotv.live:9889/live/untuk/kita/25.ts
-#EXTINF:-1,(ID) beINSPORTS 2
+#EXTINF:-1,Bein 2 Indo
 http://get.indotv.live:9889/live/untuk/kita/26.ts
-#EXTINF:-1,(ID) beINSPORTS 3
+#EXTINF:-1,Bein 3 Indo
 http://get.indotv.live:9889/live/untuk/kita/27.ts
 #EXTINF:-1,Foxsport1
 http://get.indotv.live:9889/live/untuk/kita/28.ts
@@ -67,26 +67,6 @@ http://get.indotv.live:9889/live/untuk/kita/34.ts
 http://get.indotv.live:9889/live/untuk/kita/35.ts
 #EXTINF:-1,(AR) BEINSP1
 http://get.indotv.live:9889/live/untuk/kita/79.ts
-#EXTINF:-1,(AR) BEINSP2
-http://get.indotv.live:9889/live/untuk/kita/80.ts
-#EXTINF:-1,(AR) BEINSP3
-http://get.indotv.live:9889/live/untuk/kita/81.ts
-#EXTINF:-1,(AR) BEINSP4
-http://get.indotv.live:9889/live/untuk/kita/82.ts
-#EXTINF:-1,(AR) BEINSP5
-http://get.indotv.live:9889/live/untuk/kita/83.ts
-#EXTINF:-1,(AR) BEINSP6
-http://get.indotv.live:9889/live/untuk/kita/84.ts
-#EXTINF:-1,(AR) BEINSP7
-http://get.indotv.live:9889/live/untuk/kita/85.ts
-#EXTINF:-1,(AR) BEINSP8
-http://get.indotv.live:9889/live/untuk/kita/86.ts
-#EXTINF:-1,(AR) BEINSP9
-http://get.indotv.live:9889/live/untuk/kita/87.ts
-#EXTINF:-1,(AR) BEINSP10
-http://get.indotv.live:9889/live/untuk/kita/88.ts
-#EXTINF:-1,SETANTA SPORTS
-http://get.indotv.live:9889/live/untuk/kita/78.ts
 #EXTINF:-1,TVRI Sport HD
 http://get.indotv.live:9889/live/untuk/kita/37.ts
 #EXTINF:-1,MNCSPORTS
