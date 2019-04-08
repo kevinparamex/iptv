@@ -39,11 +39,11 @@ http://get.indotv.live:9889/live/untuk/kitasemua/18.ts
 http://get.indotv.live:9889/live/untuk/kitasemua/17.ts
 #EXTINF:-1,UseeSports
 http://get.indotv.live:9889/live/untuk/kitasemua/24.ts
-#EXTINF:-1,(ID) beINSPORTS 1
+#EXTINF:-1,Bein 1 Useetv
 http://get.indotv.live:9889/live/untuk/kitasemua/25.ts
-#EXTINF:-1,(ID) beINSPORTS 2
+#EXTINF:-1,Bein 2 Useetv
 http://get.indotv.live:9889/live/untuk/kitasemua/26.ts
-#EXTINF:-1,(ID) beINSPORTS 3
+#EXTINF:-1,Bein 3 Useetv
 http://get.indotv.live:9889/live/untuk/kitasemua/27.ts
 #EXTINF:-1,Foxsport1
 http://get.indotv.live:9889/live/untuk/kitasemua/28.ts
@@ -65,26 +65,26 @@ http://get.indotv.live:9889/live/untuk/kitasemua/13.ts
 http://get.indotv.live:9889/live/untuk/kitasemua/34.ts
 #EXTINF:-1,Pramborstv
 http://get.indotv.live:9889/live/untuk/kitasemua/35.ts
-#EXTINF:-1,(AR) BEINSP1
+#EXTINF:-1,Bein 1 Arab
 http://get.indotv.live:9889/live/untuk/kitasemua/79.ts
-#EXTINF:-1,(AR) BEINSP2
-http://get.indotv.live:9889/live/untuk/kitasemua/80.ts
-#EXTINF:-1,(AR) BEINSP3
-http://get.indotv.live:9889/live/untuk/kitasemua/81.ts
-#EXTINF:-1,(AR) BEINSP4
-http://get.indotv.live:9889/live/untuk/kitasemua/82.ts
-#EXTINF:-1,(AR) BEINSP5
-http://get.indotv.live:9889/live/untuk/kitasemua/83.ts
-#EXTINF:-1,(AR) BEINSP6
-http://get.indotv.live:9889/live/untuk/kitasemua/84.ts
-#EXTINF:-1,(AR) BEINSP7
-http://get.indotv.live:9889/live/untuk/kitasemua/85.ts
-#EXTINF:-1,(AR) BEINSP8
-http://get.indotv.live:9889/live/untuk/kitasemua/86.ts
-#EXTINF:-1,(AR) BEINSP9
-http://get.indotv.live:9889/live/untuk/kitasemua/87.ts
-#EXTINF:-1,(AR) BEINSP10
-http://get.indotv.live:9889/live/untuk/kitasemua/88.ts
+#EXTINF:-1,Bein 2
+ Arabhttp://get.indotv.live:9889/live/untuk/kitasemua/80.ts
+#EXTINF:-1,Bein 3
+ Arabhttp://get.indotv.live:9889/live/untuk/kitasemua/81.ts
+#EXTINF:-1,Bein 4
+ Arabhttp://get.indotv.live:9889/live/untuk/kitasemua/82.ts
+#EXTINF:-1,Bein 5
+ Arabhttp://get.indotv.live:9889/live/untuk/kitasemua/83.ts
+#EXTINF:-1,Bein 6
+ Arabhttp://get.indotv.live:9889/live/untuk/kitasemua/84.ts
+#EXTINF:-1,Bein 7
+ Arabhttp://get.indotv.live:9889/live/untuk/kitasemua/85.ts
+#EXTINF:-1,Bein 8
+ Arabhttp://get.indotv.live:9889/live/untuk/kitasemua/86.ts
+#EXTINF:-1,Bein 9
+ Arabhttp://get.indotv.live:9889/live/untuk/kitasemua/87.ts
+#EXTINF:-1,Bein 10
+ Arabhttp://get.indotv.live:9889/live/untuk/kitasemua/88.ts
 #EXTINF:-1,SETANTA SPORTS
 http://get.indotv.live:9889/live/untuk/kitasemua/78.ts
 #EXTINF:-1,TVRI Sport HD
