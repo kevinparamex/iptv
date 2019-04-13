@@ -1,0 +1,139 @@
+#EXTM3U
+#EXTINF:-1 logo="http://113.174.191.98:9981/imagecache/724" tvg-id="6121690c1694828ce0d30cc6d147e793",SKYNET SPORTS 1
+http://113.174.191.98:9981/stream/channelid/208216417?profile=pass
+#EXTINF:-1 logo="http://113.174.191.98:9981/imagecache/860" tvg-id="7195e9c07ecec17bc3758f0b71e6cd2a",SKYNET SPORTS 2
+http://113.174.191.98:9981/stream/channelid/1089049969?profile=pass
+#EXTINF:-1 logo="http://113.174.191.98:9981/imagecache/834" tvg-id="5e1b4fb0128c725ab39f6f754adb9dd5",SKYNET SPORTS 3
+http://113.174.191.98:9981/stream/channelid/810490718?profile=pass
+#EXTINF:-1 logo="http://113.174.191.98:9981/imagecache/941" tvg-id="0934cf2f62c35385a4e9e5f35ee1daac",SKYNET SPORTS 4
+http://113.174.191.98:9981/stream/channelid/802108425?profile=pass
+#EXTINF:-1 logo="http://113.174.191.98:9981/imagecache/800" tvg-id="7ccf0291fd0570b65084bad39d12042f",SKYNET SPORTS 5
+http://113.174.191.98:9981/stream/channelid/285396860?profile=pass
+#EXTINF:-1 logo="http://113.174.191.98:9981/imagecache/961" tvg-id="17216b34fa13d67a5c16d92eea2e9dbf",SKYNET SPORTS 6
+http://113.174.191.98:9981/stream/channelid/879436055?profile=pass
+#EXTINF:-1 logo="http://113.174.191.98:9981/imagecache/914" tvg-id="eae19eebbdf842baf4f140b8ff479094",SKYNET SPORTS HD
+http://113.174.191.98:9981/stream/channelid/1805574634?profile=pass
+#EXTINF:-1 logo="http://113.174.191.98:9981/imagecache/903" tvg-id="5dfcea627ffbbcd1f299470faed6f5c3",SKYNET SPORTS PLUS
+http://113.174.191.98:9981/stream/channelid/1659567197?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/K_1.png" tvg-id="eee669df8fe83b83deeeabb3a0f7b20d" tvg-chno="1",K+1
+http://113.174.191.98:9981/stream/channelid/1600775918?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/K_1.png" tvg-id="bf8faec87b27deae3d416fa7039f6e05" tvg-chno="1",K+1 HD
+http://113.174.191.98:9981/stream/channelid/1219399615?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/K_NS.png" tvg-id="f573e405c731cfcb0dca34ed8d672c12" tvg-chno="1",K+NS
+http://113.174.191.98:9981/stream/channelid/98857973?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/K_NS.png" tvg-id="bdc675ad8b35037e6d69acd1e5172672" tvg-chno="1",K+NS HD
+http://113.174.191.98:9981/stream/channelid/762693309?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/K_PC.png" tvg-id="03540a8b41a716e9787e6172de665209" tvg-chno="1",K+PC
+http://113.174.191.98:9981/stream/channelid/185226243?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/K_PC.png" tvg-id="67bb1a47afce137abe3c057b502d9c80" tvg-chno="1",K+PC HD
+http://113.174.191.98:9981/stream/channelid/1192934247?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/K_PM.png" tvg-id="af7faf41302e9918b4d6545f11d26027" tvg-chno="1",K+PM
+http://113.174.191.98:9981/stream/channelid/1102020527?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/K_PM.png" tvg-id="abd6223a37845784a97899db3f5ae497" tvg-chno="1",K+PM HD
+http://113.174.191.98:9981/stream/channelid/975361707?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTV1_HD.png" tvg-id="fdc46d1853aac12f1335cbf71b76d6bb",VTV1 HD
+http://113.174.191.98:9981/stream/channelid/409847037?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTV2.png" tvg-id="1f1390698d37219f3e2f09591bd4778c",VTV2 HD
+http://113.174.191.98:9981/stream/channelid/1771049759?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTV3_HD.png" tvg-id="e2a90973fe51a3ee8aa65ee6e305ded1",VTV3 HD
+http://113.174.191.98:9981/stream/channelid/1930013154?profile=pass
+#EXTINF:-1 logo="http://113.174.191.98:9981/imagecache/1025" tvg-id="30d6048dee6fa040ac3a4afc4fe166e3",VTV4
+http://113.174.191.98:9981/stream/channelid/218420784?profile=pass
+#EXTINF:-1 logo="http://113.174.191.98:9981/imagecache/994" tvg-id="e6b90e1d234cf9d0621cc1fe13a18d66",VTV4
+http://113.174.191.98:9981/stream/channelid/487504358?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTV4.png" tvg-id="fa410c3a042f4a827703919739f7c080",VTV4 HD
+http://113.174.191.98:9981/stream/channelid/973881850?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTV6_HD.png" tvg-id="47c8d2604fc22017613973a6916bd170",VTV6 HD
+http://113.174.191.98:9981/stream/channelid/1624426567?profile=pass
+#EXTINF:-1 logo="http://tduc.tk/logo/vtv8hd.png" tvg-id="206b6866bfa74de7716df90286f96c03",VTV8 HD
+http://113.174.191.98:9981/stream/channelid/1718119200?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTV9.png" tvg-id="891b6b4df0e1e6c175f0b00d9e0f922a",VTV9 HD
+http://113.174.191.98:9981/stream/channelid/1298865033?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab1_Giai_Tri_TV.png" tvg-id="5804bb5524e9a8da8696c01fcc482424",VTVCab1 - Giải trí TV
+http://113.174.191.98:9981/stream/channelid/1438319704?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab10_O2TV.png" tvg-id="40f3d06e4dd2905f501bff33f32b15ff",VTVCab10 - O2TV
+http://113.174.191.98:9981/stream/channelid/1859187520?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab12_Style_TV.png" tvg-id="e8270ff186811eff91242918a47cca9c",VTVCab12 - Style TV
+http://113.174.191.98:9981/stream/channelid/1896818664?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab16_Bong_da_TV.png" tvg-id="ec02294c6313863666f9dbc25562e906",VTVCab16 - Bóng Đá TV
+http://113.174.191.98:9981/stream/channelid/1277756140?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab17_yeah1_TV.png" tvg-id="2a213b5e4d6b11bbf234bec9b7253fb6",VTVCab17 - yeah1 TV
+http://113.174.191.98:9981/stream/channelid/1580933418?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab2_Phim_Viet.png" tvg-id="34dad4daa7ee7904b0480d2d2d422751",VTVCab2 - Phim Việt
+http://113.174.191.98:9981/stream/channelid/1523898932?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab20.png" tvg-id="61c43d24f3a9f6c40fd45270ef480c54",VTVCab20 - VFamily
+http://113.174.191.98:9981/stream/channelid/608027745?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab3_The_thao_TV.png" tvg-id="3f214917ffa6b404d8b95673d01e616c",VTVCab3 - Thể Thao TV
+http://113.174.191.98:9981/stream/channelid/390668607?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab4_Kenh_17.png" tvg-id="7b5f98a4565cb5b89da471c36a0bbed2",VTVCab4 - Kênh 17
+http://113.174.191.98:9981/stream/channelid/613965691?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab5_E_Channel.png" tvg-id="702c86c9fde7776d34be9db653ce3184",VTVCab5 - E Channel
+http://113.174.191.98:9981/stream/channelid/1233529968?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab6_Hay_TV.png" tvg-id="6b78c18ee60371707b0e84bd94ff18f9",VTVCab6 - Hay TV
+http://113.174.191.98:9981/stream/channelid/247560299?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab7_Dramas.png" tvg-id="6ea4681b21c718a3fd0a02bd5606736e",VTVCab7 - Dramas
+http://113.174.191.98:9981/stream/channelid/459842670?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab8_BiBi.png" tvg-id="938a76fd68388d28b7cfa83b2942c42e",VTVCab8 - BiBi
+http://113.174.191.98:9981/stream/channelid/2104920723?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Vinh_Long_TV1.png" tvg-id="82ed686988a17a36f392ed8da3c544f5",Vĩnh Long 1
+http://113.174.191.98:9981/stream/channelid/1768484226?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Vinh_Phuc_TV.png" tvg-id="e8774a6b338d898bfbe61aecec5e438a",Vĩnh Phúc
+http://113.174.191.98:9981/stream/channelid/1800042472?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/MTV.png" tvg-id="15e764dd314df9083a94858b5c1e8b59",MTV
+http://113.174.191.98:9981/stream/channelid/1566893845?profile=pass
+#EXTINF:-1 logo="http://113.174.191.98:9981/imagecache/990" tvg-id="b223b28065769bb4d63ac6cf37f13092",MTV CHINA
+http://113.174.191.98:9981/stream/channelid/11674546?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/MTV_HD.png" tvg-id="5472b2ac4b5dc32478ff712b4b9d5881",MTV HD
+http://113.174.191.98:9981/stream/channelid/749892180?profile=pass
+#EXTINF:-1 logo="http://113.174.191.98:9981/imagecache/879" tvg-id="e08cde5169ebda2477bb95975e4ca7e1",MTV LIVE HD
+http://113.174.191.98:9981/stream/channelid/1373539552?profile=pass
+#EXTINF:-1 logo="http://113.174.191.98:9981/imagecache/1028" tvg-id="dc97bc0d52dc2aceb8ca021883ff9176",MTV SEA
+http://113.174.191.98:9981/stream/channelid/230463452?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/FOX_SPORTS_2.png" tvg-id="85fc407092b98d04aa5080abae1a6cc3",FOX SPORT 2 HD
+http://113.174.191.98:9981/stream/channelid/1883307141?profile=pass
+#EXTINF:-1 logo="http://113.174.191.98:9981/imagecache/922" tvg-id="2aecec783608440f0b090f577c2f61dc",FOX SPORTS 1
+http://113.174.191.98:9981/stream/channelid/2028792874?profile=pass
+#EXTINF:-1 logo="http://113.174.191.98:9981/imagecache/832" tvg-id="92af96afdd89e1e57e681880c31f9706",FOX SPORTS 2
+http://113.174.191.98:9981/stream/channelid/798404498?profile=pass
+#EXTINF:-1 logo="http://113.174.191.98:9981/imagecache/741" tvg-id="f71fc92ca9f40ec4783e7618eace5175",FOX SPORTS 3
+http://113.174.191.98:9981/stream/channelid/751378423?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/FOX_SPORTS.png" tvg-id="796af3fd075ddf2672524b89983297ff" tvg-chno="1",FOX SPORT HD
+http://113.174.191.98:9981/stream/channelid/2113104505?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/FOX_SPORTS.png" tvg-id="e1549ac2b90f93be460e3d055f93dbb1" tvg-chno="1",FOX SPORTS
+http://113.174.191.98:9981/stream/channelid/1117410529?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/FOX_SPORTS_2.png" tvg-id="c0b0189d98f9f15bce85b66f811a6e60" tvg-chno="1",FOX SPORTS 2
+http://113.174.191.98:9981/stream/channelid/488157376?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Channel_V.png" tvg-id="7f8ba4d2ff77639bb78018ae2515b8de",Channel V
+http://113.174.191.98:9981/stream/channelid/1386515327?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Channel_V.png" tvg-id="75089c3bb7b096ed63cadbb64880c445",CHANNEL V HD
+http://113.174.191.98:9981/stream/channelid/1000081525?profile=pass
+#EXTINF:-1 tvg-id="8fff8fe45e1c6e0730051c81a0d1b92d",Bein1 Thai [KP]
+http://223.204.152.163:9981/stream/channelid/1687158671?profile=pass
+#EXTINF:-1 tvg-id="2d182a06a73ab802a02ec3cd3ffc2282",Bein2 Thai [KP]
+http://223.204.152.163:9981/stream/channelid/103421997?profile=pass
+#EXTINF:-1 tvg-id="7dd195d738a969c2f844bd2a58ebe061",Bein3 Thai [KP]
+http://223.204.152.163:9981/stream/channelid/1469436285?profile=pass
+#EXTINF:-1 tvg-id="c5a01b3ca1c8a8e0f6674ad85e1e72a1",Bein4 Thai [KP]
+http://223.204.152.163:9981/stream/channelid/1008443589?profile=pass
+#EXTINF:-1 tvg-id="635151290aa5593b28bff014e0a95dbd",MOTOR VISION [KP]
+http://223.204.152.163:9981/stream/channelid/693195107?profile=pass
+#EXTINF:-1 tvg-id="c1f5d561e1b84abba51439bde0878d44",OUTDOOR CHANNEL [KP]
+http://223.204.152.163:9981/stream/channelid/1641412033?profile=pass
+#EXTINF:-1 tvg-id="f81069827235472d9b1888d765697e11",True HD 1 [KP]
+http://223.204.152.163:9981/stream/channelid/40440056?profile=pass
+#EXTINF:-1 tvg-id="7e163f94d1d5f7bd9964236793a44376",True HD 2 [KP]
+http://223.204.152.163:9981/stream/channelid/339678846?profile=pass
+#EXTINF:-1 tvg-id="485755b08d29f9c11b6d3b2b0f6d734d",True HD 3 [KP]
+http://223.204.152.163:9981/stream/channelid/810899272?profile=pass
+#EXTINF:-1 tvg-id="b0e483c09397f261de85845afdbf07c2",True HD 4 [KP]
+http://223.204.152.163:9981/stream/channelid/1082385584?profile=pass
+#EXTINF:-1 tvg-id="071c749159aa0def908d53a3ff865074",True Sport 2 [KP]
+http://223.204.152.163:9981/stream/channelid/292822023?profile=pass
+#EXTINF:-1 tvg-id="27e0ccbc5f8f1df9b12374d3c631125c",True Sport 5 [KP]
+http://223.204.152.163:9981/stream/channelid/1020059687?profile=pass
+#EXTINF:-1 tvg-id="bedb5f9145f9674e87f958701c61268f",True Sport 6 [KP]
+http://223.204.152.163:9981/stream/channelid/291494846?profile=pass
+#EXTINF:-1 tvg-id="7f572b6a15f4bad43b2f99073b5d723f",True Sport 7 [KP]
+http://223.204.152.163:9981/stream/channelid/1781225343?profile=pass
+#EXTINF:-1 tvg-id="83169ed300479c093570d2be158ec945",TRUE TENNIS HD [KP]
+http://223.204.152.163:9981/stream/channelid/1402869379?profile=pass
