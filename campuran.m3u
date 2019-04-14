@@ -107,33 +107,33 @@ http://113.174.191.98:9981/stream/channelid/488157376?profile=pass
 http://113.174.191.98:9981/stream/channelid/1386515327?profile=pass
 #EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Channel_V.png" tvg-id="75089c3bb7b096ed63cadbb64880c445",CHANNEL V HD
 http://113.174.191.98:9981/stream/channelid/1000081525?profile=pass
-#EXTINF:-1 tvg-id="8fff8fe45e1c6e0730051c81a0d1b92d",Bein1 Thai [KP]
-http://223.204.152.163:9981/stream/channelid/378126844?profile=pass
-#EXTINF:-1 tvg-id="2d182a06a73ab802a02ec3cd3ffc2282",Bein2 Thai [KP]
-http://223.204.152.163:9981/stream/channelid/832148382?profile=pass
-#EXTINF:-1 tvg-id="7dd195d738a969c2f844bd2a58ebe061",Bein3 Thai [KP]
-http://223.204.152.163:9981/stream/channelid/1779702348?profile=pass
-#EXTINF:-1 tvg-id="c5a01b3ca1c8a8e0f6674ad85e1e72a1",Bein4 Thai [KP]
-http://223.204.152.163:9981/stream/channelid/922884608?profile=pass
-#EXTINF:-1 tvg-id="635151290aa5593b28bff014e0a95dbd",MOTOR VISION [KP]
-http://223.204.152.163:9981/stream/channelid/373607056?profile=pass
-#EXTINF:-1 tvg-id="c1f5d561e1b84abba51439bde0878d44",OUTDOOR CHANNEL [KP]
-http://223.204.152.163:9981/stream/channelid/1144857754?profile=pass
-#EXTINF:-1 tvg-id="f81069827235472d9b1888d765697e11",True HD 1 [KP]
-http://223.204.152.163:9981/stream/channelid/1041113772?profile=pass
-#EXTINF:-1 tvg-id="7e163f94d1d5f7bd9964236793a44376",True HD 2 [KP]
-http://223.204.152.163:9981/stream/channelid/1323909761?profile=pass
-#EXTINF:-1 tvg-id="485755b08d29f9c11b6d3b2b0f6d734d",True HD 3 [KP]
-http://223.204.152.163:9981/stream/channelid/1767381971?profile=pass
-#EXTINF:-1 tvg-id="b0e483c09397f261de85845afdbf07c2",True HD 4 [KP]
-http://223.204.152.163:9981/stream/channelid/38300338?profile=pass
-#EXTINF:-1 tvg-id="071c749159aa0def908d53a3ff865074",True Sport 2 [KP]
-http://223.204.152.163:9981/stream/channelid/156932417?profile=pass
-#EXTINF:-1 tvg-id="27e0ccbc5f8f1df9b12374d3c631125c",True Sport 5 [KP]
-http://223.204.152.163:9981/stream/channelid/891487899?profile=pass
-#EXTINF:-1 tvg-id="bedb5f9145f9674e87f958701c61268f",True Sport 6 [KP]
-http://223.204.152.163:9981/stream/channelid/767590574?profile=pass
-#EXTINF:-1 tvg-id="7f572b6a15f4bad43b2f99073b5d723f",True Sport 7 [KP]
-http://223.204.152.163:9981/stream/channelid/490210529?profile=pass
-#EXTINF:-1 tvg-id="83169ed300479c093570d2be158ec945",TRUE TENNIS HD [KP]
-http://223.204.152.163:9981/stream/channelid/1265106742?profile=pass
+#EXTINF:-1,Bein1 Thai [KP]
+http://223.204.152.163:9981/stream/channelid/848060391
+#EXTINF:-1,Bein2 Thai [KP]
+http://223.204.152.163:9981/stream/channelid/1269115036
+#EXTINF:-1,Bein3 Thai [KP]
+http://223.204.152.163:9981/stream/channelid/155226985
+#EXTINF:-1,Bein4 Thai [KP]
+http://223.204.152.163:9981/stream/channelid/841031377
+#EXTINF:-1,MOTOR VISION [KP]
+http://223.204.152.163:9981/stream/channelid/983314100
+#EXTINF:-1,OUTDOOR CHANNEL [KP]
+http://223.204.152.163:9981/stream/channelid/1267100789
+#EXTINF:-1,True HD1 [KP]
+http://223.204.152.163:9981/stream/channelid/1403241061
+#EXTINF:-1,True HD2 [KP]
+http://223.204.152.163:9981/stream/channelid/1230939313
+#EXTINF:-1,True HD3 [KP]
+http://223.204.152.163:9981/stream/channelid/2048065143
+#EXTINF:-1,True HD4 [KP]
+http://223.204.152.163:9981/stream/channelid/1769275567
+#EXTINF:-1,True Sport2 [KP]
+http://223.204.152.163:9981/stream/channelid/228796859
+#EXTINF:-1,True Sport5 [KP]
+http://223.204.152.163:9981/stream/channelid/1399922393
+#EXTINF:-1,True Sport6 [KP]
+http://223.204.152.163:9981/stream/channelid/2030110293
+#EXTINF:-1,True Sport7 [KP]
+http://223.204.152.163:9981/stream/channelid/1527013773
+#EXTINF:-1,TRUE TENNIS HD [KP]
+http://223.204.152.163:9981/stream/channelid/1135828031
