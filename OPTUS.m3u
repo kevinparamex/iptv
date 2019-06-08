@@ -1,201 +1,77 @@
-#EXTM3U
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/8/8c/ABC_HD_Australia_logo.png" tvg-id="5d9e80873f453827d413049c3e558849",ABC HD
-http://admin:admin@203.7.112.74:9981/stream/channelid/125869661?ticket=6BDE2E78BCE953E5ADE7C42F3B2004CE32157444&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/66" tvg-id="5d3bff810c37048f74f55da277635b0b",ABC
-http://admin:admin@203.7.112.74:9981/stream/channelid/33504093?ticket=EC44C881EDEBCAC623707E0B784F73C03B39D47B&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/66" tvg-id="495bac2bf1a45a108c7b15334ad5a7f9",ABC
-http://admin:admin@203.7.112.74:9981/stream/channelid/732715849?ticket=17961532CD92CB26D7818AD829FC53429A90A44B&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/66" tvg-id="660a745817c1bcad743e093c1ada5915",ABC
-http://admin:admin@203.7.112.74:9981/stream/channelid/1483999846?ticket=DE098B375151CC749E14F44E9DB7FF77FF68F0C6&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/3/35/ABC2_2015_logo.png" tvg-id="a6868209cc0732ff017942d83a2035c1",ABCComedy/Kids
-http://admin:admin@203.7.112.74:9981/stream/channelid/159549094?ticket=677EB8FF670E7A91900A23ED9B1C6F20E15DC5F6&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/3/3e/ABC_ME_logo.png" tvg-id="aee5f8cddf202a83377a1d3c0d37d2e6",ABC ME
-http://admin:admin@203.7.112.74:9981/stream/channelid/1308157358?ticket=76A34B5AE02F9EFF773E566F5C097CAD7636418E&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/61" tvg-id="d976f261572dbaaeb9ca3bc077705663",SBS ONE
-http://admin:admin@203.7.112.74:9981/stream/channelid/1643280089?ticket=B151DA6443765724D5A124695EDEAAA83F4184E5&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/6/6d/ABC_News_24_logo.png" tvg-id="e2673f6d84cec295bc0e8dfc45d2de88",ABC NEWS
-http://admin:admin@203.7.112.74:9981/stream/channelid/1832871906?ticket=F1E586993D45C3356452F33504FC83E6C8B74EF0&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/60" tvg-id="ca7b8da635760cabbe4477f595962e5d",Nine Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/646806474?ticket=5712B2934C09DC1DC4166B7E1E6A684B96BF86FA&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/60" tvg-id="46611a2b369f3cef4c4197c9e0d02123",Nine Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/723149126?ticket=39E6585B7960EF38C8A19F2A7378E630F52E2E16&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/60" tvg-id="496c3ac57f6dcccca41728b5da2cebe3",Nine Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/1161456713?ticket=0DDE11597D16680EE38A872B6E9C87030E033FAF&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/8/85/SBS_HD_2015_logo.png" tvg-id="a88701bc9beb223e09cf8c753fc7cdf4",SBS ONE HD
-http://admin:admin@203.7.112.74:9981/stream/channelid/1006733224?ticket=83F9BD06EB3486481F777AD835A9D1A54C69DD12&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/6/6a/SBS_Viceland_logo_2016.png" tvg-id="92a980ca479268e38314c5bc20af32c1",SBS VICELAND HD
-http://admin:admin@203.7.112.74:9981/stream/channelid/1249946002?ticket=7FA7B5C76EBBF9D5F62EB05016A2136E023BEF48&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/c/ca/SBS_Food_Network_logo.png" tvg-id="ab793cf23043eb8735b10d8de4db42f4",SBS Food
-http://admin:admin@203.7.112.74:9981/stream/channelid/1916565931?ticket=41FBE33D5E35885F562794998B8B76E2777C6325&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/2/27/NITV_logo_2016.png" tvg-id="fc090b3c069322aec6bc407efee67fa6",NITV
-http://admin:admin@203.7.112.74:9981/stream/channelid/1007356412?ticket=EA7A5AE9CBD358B445E31B11C3DA98FE8A10C804&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/52" tvg-id="4956f60487fcba17caaeade5da4d4749",WIN Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/83252809?ticket=C5A4BB14F75ADB64EECE0129EE1B87AD8EF21CBB&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/52" tvg-id="df9c8ace3a328f35ae026e6d98c5d243",WIN Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/1317706975?ticket=3A8D63AD63E12D840AE53585FF2BF462BCF6CE8A&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/52" tvg-id="394244fe0b153d662a35a383f5c9a46e",WIN Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/2118402617?ticket=1DBFCE74A5663222C43F5148C3992AAC73B5E5B3&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/7/7f/Nine_HD_logo_2015.png" tvg-id="db82f64d07ab7964207521f14ed0e590",9HD Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/1308000987?ticket=B78180830CDA3BA0129DA2B0E397CFCB7F3E018B&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png" tvg-id="17bc9ac37e5f1c4e20334aef4c4dfff5",9Gem
-http://admin:admin@203.7.112.74:9981/stream/channelid/1134214167?ticket=6E055A5E299154E3B381C4A2B213F0C9870D04FF&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/a/ad/9Go%21_logo.png" tvg-id="594dc0832925e6894fe6d037fad8af4a",9Go!
-http://admin:admin@203.7.112.74:9981/stream/channelid/62934361?ticket=8B03E9537BF94EF7BBC452573771EF370426F678&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png" tvg-id="971de703532108e74a82f8351486ea70",9Life
-http://admin:admin@203.7.112.74:9981/stream/channelid/65478039?ticket=60C7A49BD13AD83A86399FFD47222A1EB47985AF&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/5/55/TEN_HD_logo_2016.png" tvg-id="6010ad55fdd14f8f710b3e811545b864",WIN HD Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/1437405280?ticket=4A74F36BD15CEBDD355750D16C435B2E51A0CF7A&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Eleven_logo.svg/480px-Eleven_logo.svg.png" tvg-id="df0295bba3c00e2c42d46db378cde1cd",PEACH Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/999621343?ticket=E0C31EEE6C84CD5766FB308E1C6EEB41D265F645&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/One_HD_%28logo%29.svg/478px-One_HD_%28logo%29.svg.png" tvg-id="486f6822ea2ba41636c40b5c79d3f6b6",ONE Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/577269576?ticket=64529A8BA84F2CA211FA7BF9F6F5149FD8E9831D&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Prime7.svg/320px-Prime7.svg.png" tvg-id="679771f83a3f21eb46a4fcb5576e4d99",PRIME7 Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/2020710247?ticket=6E76856A567B56E52A3F9BE37DCE17C52466C3AF&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/SevenTwo.svg/320px-SevenTwo.svg.png" tvg-id="ee26a3408e603775c8bb52ed68b79a49",7TWO Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/1084434158?ticket=71AF3101F4F9F592EE7DBD9976DF48AE84B8E146&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/7mate_%28logo%29.svg/320px-7mate_%28logo%29.svg.png" tvg-id="87d13f595941d1ea2f588d0ab85db507",7mate Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/1497354631?ticket=3F067918B3241540F84794345337513E506F3B80&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/8/8a/RACING.COM_logo.png" tvg-id="26769a057722aced03018f41d982f007",RACING.COM
-http://admin:admin@203.7.112.74:9981/stream/channelid/94008870?ticket=4692ED1847B97F3A89532B485C2604DD551B90FA&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/3" tvg-id="bbda778571b83b93f3060cc40e9938a7",ABC HD
-http://admin:admin@203.7.112.74:9981/stream/channelid/91740859?ticket=28B202774F9D719A9736D2FC35777E954BBE932E&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/3" tvg-id="59bc020df5a001cc359c39deff688f8e",ABC HD
-http://admin:admin@203.7.112.74:9981/stream/channelid/218283097?ticket=4B0706EAEF1D0D1E1B628754CC73CA98B3A9535F&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/65" tvg-id="a570c2f53890a0357776b3ba00465f3f",ABC
-http://admin:admin@203.7.112.74:9981/stream/channelid/1975677093?ticket=FADE1CA1F9F6AC915969392E821E95D338F373DE&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/65" tvg-id="0dea997de314d37d8ace654228a138aa",ABC
-http://admin:admin@203.7.112.74:9981/stream/channelid/2107238925?ticket=BA25E73B7F9B9D1DD59ACE1A11BCBB048F885D34&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/65" tvg-id="079737fe7f50014a4e5686de281c7190",ABC
-http://admin:admin@203.7.112.74:9981/stream/channelid/2117572359?ticket=AAC14C80307BAA32A2C44544961DE14B5A4CEF92&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/5" tvg-id="69698ac775790b1c07e396f5df246dcb",ABCComedy/Kids
-http://admin:admin@203.7.112.74:9981/stream/channelid/1200253289?ticket=C01318DB133100134474C9E3A52672E5D63CE828&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/5" tvg-id="26b1797b8627f6cde62e2bdc5ef99075",ABCComedy/Kids
-http://admin:admin@203.7.112.74:9981/stream/channelid/2071572774?ticket=96A3306F22F480D1C26044500015E7A6C183265C&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/4" tvg-id="5afb218a9824fdd9e38460622fd11818",ABC ME
-http://admin:admin@203.7.112.74:9981/stream/channelid/169999194?ticket=B7C2C9F3B0197CAA4708241A0E681B4B891BA662&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/4" tvg-id="554b9b747916686f090e7f8005e23529",ABC ME
-http://admin:admin@203.7.112.74:9981/stream/channelid/1956334421?ticket=470D48F5F1E66C5CE2E7974953AAE40D246DFD0A&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/6" tvg-id="75d0d88d85412a2cace90ab46de984a0",ABC NEWS
-http://admin:admin@203.7.112.74:9981/stream/channelid/232312949?ticket=A470AE96EC588BFC52A65F753F8EA56CA0BDDE0D&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/6" tvg-id="39b9b536250c6d2c2b3fa2d36ea8b1ab",ABC NEWS
-http://admin:admin@203.7.112.74:9981/stream/channelid/917879097?ticket=64E01127A53A316A4F98E782918F1BC175C26D11&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/10" tvg-id="d6506e454e794bf3732085a3095b0a8c",SBS VICELAND
-http://admin:admin@203.7.112.74:9981/stream/channelid/1164857558?ticket=B4599A73D18B0DAC4B53F491850FA29535910E59&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/62" tvg-id="f27dc409d5ea2c23c91758157d210ab9",SBS Arabic24
-http://admin:admin@203.7.112.74:9981/stream/channelid/163872242?ticket=84890AB9F044CA7EE74827BBD5D90783CA294893&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/15" tvg-id="266dd2a3a2646bdecc2a9272fb9e7929",9HD Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/600993062?ticket=F3FA8B982555DFF1F81CA03CA67AA51BE918DEBB&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/15" tvg-id="597d4a3f1dd3441758576bc3d66c741e",9HD Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/1061846361?ticket=922010686E0209F1419897EB75E9015C3463282E&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/59" tvg-id="6a2ef62fdb2189e90e7308fb198b85e4",Nine Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/804662890?ticket=4449CC169C831556EC3816C317A660FBB70575F3&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/59" tvg-id="21c49cd6f1fd0fe6db9ab476a01b7ca6",Nine Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/1453114401?ticket=20EF01FA1824E61EC9AF0C68FBECD09655C06C50&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/59" tvg-id="39e549f2f4165ddabcc5270e64e11cb6",Nine Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/1917445433?ticket=6DDDE906316EDF3727E948FF755C19C97D52291E&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/17" tvg-id="aa57a4acdb3e5899267f15d284552ca7",9Gem
-http://admin:admin@203.7.112.74:9981/stream/channelid/748967850?ticket=766D1A0E5E7AA27AE51DB1E0FE027232315476F5&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/17" tvg-id="a662904fa78398b3aeccd95b7b98e84a",9Gem
-http://admin:admin@203.7.112.74:9981/stream/channelid/1334862502?ticket=173D2294687184D242CCFE8737F4EA1C4F0B4996&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/16" tvg-id="06c09ba34b4952cb72cc17d297516ac4",9Go!
-http://admin:admin@203.7.112.74:9981/stream/channelid/597409798?ticket=F6016B6694A90C5EF49F47C2AA9FF11C307F4D20&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/16" tvg-id="142c04346545e85ed02bc84971330c90",9Go!
-http://admin:admin@203.7.112.74:9981/stream/channelid/872688660?ticket=6618BB01FCFA35DDEF39E54F30353209086D4DD5&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/14" tvg-id="4ae75c0d9f871da2fef47febbb1c02c2",9Life
-http://admin:admin@203.7.112.74:9981/stream/channelid/224192330?ticket=4B343905D5EE2ABBB0B7C9A3C20A339335E5D2A4&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/14" tvg-id="85f461900d6679edf352cfb8c29284db",9Life
-http://admin:admin@203.7.112.74:9981/stream/channelid/274855045?ticket=B99B74FD6B8E7424D47010C0F6DC941A2D9BCB6E&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/58" tvg-id="c3d6d2039f12e48b78366a442e16fd93",SBN
-http://admin:admin@203.7.112.74:9981/stream/channelid/64149187?ticket=F2EA15D510A1B14FB5646305E02891B8117E6ED1&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/58" tvg-id="f717c19d32b9797ae5ea53874ace8462",SBN
-http://admin:admin@203.7.112.74:9981/stream/channelid/499193847?ticket=9600E581C9D73F44790415EF7C4B7EEE36FB871B&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/58" tvg-id="9a94e824e5d4f50bd82e282069b63792",SBN
-http://admin:admin@203.7.112.74:9981/stream/channelid/619222170?ticket=03B04D7922B2846C4C15D672A2B497FC6C32852F&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/26" tvg-id="21788425ea1fdbadf72f8d08e07fa6b0",Aspire
-http://admin:admin@203.7.112.74:9981/stream/channelid/629438497?ticket=A41749E5A8A56DE68FA38B9F0DCFEDEE73E34428&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/26" tvg-id="1ee72842c49c788eeb638606581f032e",Aspire
-http://admin:admin@203.7.112.74:9981/stream/channelid/1109976862?ticket=B14D15C61F7522AF6345FCAA0C5E3DF8E8C71042&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/26" tvg-id="578e2943310fe3662dfec7267dd7c4d6",Aspire
-http://admin:admin@203.7.112.74:9981/stream/channelid/1126796887?ticket=7FF041EBD28F9800E5CA26FE6404C7DB99C4A4E0&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/21" tvg-id="0877e36c4d9b5501e45bd68c328580b4",PRIME7 HD Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/1826846472?ticket=EE2CEB8F249AED0493791DEE4724ECBC914F609D&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/20" tvg-id="25647ad3febac304bd762fd209ccc511",PRIME7 Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/1400529957?ticket=BE15E4E229FB2D91957F80D7544BABEA4D967A44&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/64" tvg-id="3f3b00529d1257b5fbeb9e696015c3d4",ishoptv
-http://admin:admin@203.7.112.74:9981/stream/channelid/1375746879?ticket=AFB92B1CD9BD447388DC6DA8D39296396BF0F904&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/74" tvg-id="b134707299e96b2cc2b062712df4cace",7flix
-http://admin:admin@203.7.112.74:9981/stream/channelid/1919956145?ticket=7D76E762C67FA5D7E3CD09A98980FA90DE61D8D7&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/11" tvg-id="7caa8ecc84b4a3281a14e4885ff87958",WIN HD Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/1284418172?ticket=0EACBB158526F163E655668D4FF2589068CAEDAF&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/11" tvg-id="e2892cf5dc9031d59301911cab275123",WIN HD Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/1965853154?ticket=1C6C6921F28760A0B59FCCC19C771086ABA91AE5&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/53" tvg-id="789c1783d8f067fc79c5102918214629",BOLD Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/51879032?ticket=EF8269CC8C883CD411D89DB9F5A559572821AEE1&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/53" tvg-id="d3ec6a13c151beaa106dd7e8f7dde873",BOLD Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/325774547?ticket=B6D2213FD5D6F23F2CFA0645CAB3120964688F73&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/53" tvg-id="6c87ebe293e0c59929493d4796ab872e",BOLD Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/1659602796?ticket=26AADE205AE6EBBD52C1A05E1E5022D60A97F6DD&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/12" tvg-id="2e73a7ba16d39b5fd67c5f202e6a5aef",PEACH Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/984052526?ticket=252B745571E29F4B9A4E11FBC90590A15A9C7F78&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/12" tvg-id="0a1d0de69cd09a891cc83788f78213ee",PEACH Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/1712135434?ticket=7588CC7F15BD543590FFE984A56193E2A18FC3EB&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/57" tvg-id="6ed4f99ffd616ad3779b37fb343aff2c",Sky News on WIN
-http://admin:admin@203.7.112.74:9981/stream/channelid/536466542?ticket=68EA274C039F559E8065B980D686EA49BBAF43C6&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/57" tvg-id="f8c9dbcb7246cef095c2be4b289fa2d9",Sky News on WIN
-http://admin:admin@203.7.112.74:9981/stream/channelid/1272695288?ticket=6B72D291FDDDF9E8A6A6A796988A58E8DA72A4A8&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/57" tvg-id="07778d768c9da687a90cdd3e9df01981",Sky News on WIN
-http://admin:admin@203.7.112.74:9981/stream/channelid/1988982535?ticket=BE7B8505826267A4F19680F9F662A5238830A473&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/56" tvg-id="4a487017402b0d5c51ec7d450b12f405",TVSN
-http://admin:admin@203.7.112.74:9981/stream/channelid/393234506?ticket=5E86C8DF64F3F259D9AC7ED55EB6D8E7D253B905&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/56" tvg-id="bf1b1d45736e97d960b4d1a6bdd8d41d",TVSN
-http://admin:admin@203.7.112.74:9981/stream/channelid/1159535551?ticket=B8EBE847EBC148BC3451DFBA740452C7097A71E4&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/56" tvg-id="f40ac5ffdd05e0544a91f72e8e2bcd43",TVSN
-http://admin:admin@203.7.112.74:9981/stream/channelid/2143619828?ticket=6FDD5AC54C7E9CBBDD29D075B184FEDA79CAEDC1&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/55" tvg-id="f260c0bbcea7ddc3df12a3ac1ac3962b",GOLD
-http://admin:admin@203.7.112.74:9981/stream/channelid/1002463474?ticket=C69B92CD1A98DE1FE8D6FD2B14AB24DAB33B1B74&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/55" tvg-id="28e36f527b9f8fa9484220beba1ff291",GOLD
-http://admin:admin@203.7.112.74:9981/stream/channelid/1383064360?ticket=BD85CE15FC3A12F6EA780AD712E25426C796229F&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/55" tvg-id="09f0ae5cf6c7bd3a69c99bcc870fdc8e",GOLD
-http://admin:admin@203.7.112.74:9981/stream/channelid/1554968585?ticket=1140395870E5889BD65140384863195B0BE8060C&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/13" tvg-id="707e7f11c3545deb983487369461a7d8",ONE Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/293568112?ticket=226B85326C222E3D84FB1220E2E289FB05E92A40&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/13" tvg-id="7ec3e7bc83007a0084beedaf613e2f25",ONE Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/1021821822?ticket=07C4DCA58A185B8ABC6A086F0F19BB3AE11EFA0F&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/54" tvg-id="c401940b9711d413302ccf0e0a52d004",WIN Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/194249156?ticket=11AED34DD891E82CEC983CD4CECB362C88748826&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/54" tvg-id="d698e010776e2e03c952622689d06a5f",WIN Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/283154646?ticket=AC181199174109824E054B1E07F11E2F2669E93D&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/54" tvg-id="8a78379d1fb13806591fee9ecce6239e",WIN Canberra
-http://admin:admin@203.7.112.74:9981/stream/channelid/490174602?ticket=C8B28DBAAFE59BA25457A0581FCFC8AE59CD3E3E&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/2" tvg-id="b7eb6ed2ac1aaae1a59ea730b8003f29",Double J
-http://admin:admin@203.7.112.74:9981/stream/channelid/1383001015?ticket=3C938C22C012EA772F77950C0099D1C4BD7449F1&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/2" tvg-id="2545a35dc11b2e682ffdfe3f5b530eda",Double J
-http://admin:admin@203.7.112.74:9981/stream/channelid/1570981157?ticket=F80E2D7A8E4E266EA8CF3CECC798ABCCB3209473&profile=pass
-#EXTINF:-1 logo="https://media.info/i/l/300/1430597833/5666.png" tvg-id="a07b46f4414b7e6a080bd5bd318e9d92",Double J
-http://admin:admin@203.7.112.74:9981/stream/channelid/1950776224?ticket=317B9BD7DBCF8D986CF3EEC2AAEFE923C9761AFB&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/1" tvg-id="ab70acaf6129b675ecb73fd25c1f0e01",ABC Jazz
-http://admin:admin@203.7.112.74:9981/stream/channelid/799830187?ticket=9B36A685B06DC66645E851FA2FF0E4FC87AA3175&profile=pass
-#EXTINF:-1 logo="http://cdn-radiotime-logos.tunein.com/s44935q.png" tvg-id="badf45c9b1ace49e4fa31af3a7e379ab",ABC Jazz
-http://admin:admin@203.7.112.74:9981/stream/channelid/1229316026?ticket=DEB5FDB8205D65FD2099A3329CE51789BC1C7551&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/1" tvg-id="077dd5d7f71b992a6a6abc97fc8621d2",ABC Jazz
-http://admin:admin@203.7.112.74:9981/stream/channelid/1473608967?ticket=54F1DA46B011DFCE36C508B8B8C36C5DF023F723&profile=pass
-#EXTINF:-1 logo="http://www.sbs.com.au/radio/sites/sbs.com.au.radio/files/shorthand/6173/media/sbsradio_hor_lge_black_200_6xfiz6o.png" tvg-id="9fb2fce96dc16704ccda22dbddfac3db",SBS Radio 1
-http://admin:admin@203.7.112.74:9981/stream/channelid/1778168479?ticket=387D00B780C076FD6B95219E41486F76A288FBCF&profile=pass
-#EXTINF:-1 logo="http://www.sbs.com.au/radio/sites/sbs.com.au.radio/files/shorthand/6173/media/sbsradio_hor_lge_black_200_6xfiz6o.png" tvg-id="a0599ce184f728ad06f1972c1430cff5",SBS Radio 2
-http://admin:admin@203.7.112.74:9981/stream/channelid/1637636512?ticket=7AF19BA7D2C4EF88305F86BACBD1452CAC13C547&profile=pass
-#EXTINF:-1 logo="http://www.sbs.com.au/radio/sites/sbs.com.au.radio/files/shorthand/6173/media/sbsradio_hor_lge_black_200_6xfiz6o.png" tvg-id="a8054440b2230d3f6c51d3498427f2b2",SBS Chill
-http://admin:admin@203.7.112.74:9981/stream/channelid/1078199720?ticket=A93E85BD36E52963B68D07B10254C36FF20FC709&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/67" tvg-id="ac239e2398c9b11cad3c1d2d8e1e8998",SBS Radio 1
-http://admin:admin@203.7.112.74:9981/stream/channelid/597566380?ticket=CE1E9F8F22842C776A13A8EFE14B1925106CF66C&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/68" tvg-id="df0bb31c9aeecd10a3865deeaa449859",SBS Radio 2
-http://admin:admin@203.7.112.74:9981/stream/channelid/481496031?ticket=9E17D9D2C42F5B44F37E04EDFC55B34AA9DCA070&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/69" tvg-id="6ee9431006b6341027375960ba547530",SBS Radio 3
-http://admin:admin@203.7.112.74:9981/stream/channelid/272886126?ticket=11E15D908158A24D55CBC99A580BE6212B85A31F&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/70" tvg-id="05df9c807990312667c2aeb4f4483be6",SBS Arabic24
-http://admin:admin@203.7.112.74:9981/stream/channelid/10280709?ticket=EDB318B7541621BBA6D07F4AA08F9A116E74925F&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/71" tvg-id="626f88e31b1436190582095e61816e53",SBS PopDesi
-http://admin:admin@203.7.112.74:9981/stream/channelid/1669885794?ticket=A0CAED8257D8AA886754C7ABB0BB35533C29AB00&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/72" tvg-id="76574c99cbfac113cdc45209cec51c3d",SBS Chill
-http://admin:admin@203.7.112.74:9981/stream/channelid/424433526?ticket=1A96007DB4B47D1884E7014F5D36C06A441CA2C6&profile=pass
-#EXTINF:-1 logo="http://admin:admin@203.7.112.74:9981/imagecache/73" tvg-id="5d90978015bd1b1b3fd62e3777192aac",SBS PopAsia
-http://admin:admin@203.7.112.74:9981/stream/channelid/9932893?ticket=09C49D313B9F4E4C0B513157042F195AD48A37B2&profile=pass
+#EXTM3U 
+#EXTINF:-1 tvg-id="d48c7770f75218924f0420822862937d",10 BOLD [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/1886883028?ticket=93CD5B69BFD48A66D8E75B823258F843A073F7C7&profile=pass 
+#EXTINF:-1 tvg-id="208ec920b33fdc6ef0616e34070209a9",ABC SD [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/550080032?ticket=CCB501B2151B8674EE6992C29CF485A04432E593&profile=pass 
+#EXTINF:-1 tvg-id="bcfb073764427b56a60379e09321559d",SBS ONE SD [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/923270076?ticket=0964053684843EABCDB987D73B743A45D8F71C75&profile=pass 
+#EXTINF:-1 tvg-id="8863a97e215effefd9e5467a14e46d07",7 Perth [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/2125030280?ticket=FDEF890703E84273F673FAA84AEFB19FE61D5B27&profile=pass 
+#EXTINF:-1 tvg-id="ebd9d528fb042f69b4dcf0150d1b78cc",Channel 9 Perth [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/685103595?ticket=3CABC64F98A35C2A270EBAD18871077131DF60C3&profile=pass 
+#EXTINF:-1 tvg-id="820305726c522f2be65d1ceaa544a7bc",10 [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/1912931202?ticket=6DBD6F264C7E8E1E75FEE872C4A08376DC6BD2B3&profile=pass 
+#EXTINF:-1 tvg-id="2cbf12684b780304eb2246708ece1a29",10 Peach [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/1746059052?ticket=EE651D9557B0484A56279F0EF6CC71FC34A452C1&profile=pass 
+#EXTINF:-1 tvg-id="2c25fc97586b9e5d54589bea252696b0",10 BOLD [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/402400556?ticket=4DC342C22539A625982FE5F7B87E314B1B4DDA93&profile=pass 
+#EXTINF:-1 tvg-id="8e4dea7c2c0e266dc90aa2ba498ea841",10 HD [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/2095730062?ticket=76E19CFE4324E195EBC335A0AC9178F11C1FC06A&profile=pass 
+#EXTINF:-1 tvg-id="d67744c97ac98519a18248e1222bf7d7",TVSN [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/1229223894?ticket=C90CE5B62E34E0022AE67D8F9039A3C0F62844C3&profile=pass 
+#EXTINF:-1 tvg-id="8b1549dc76f9ed2aff26f3e468c073cb",SpreeTV [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/1548293515?ticket=963B6F3B5EDC02783DCC35DD7E900C7AA17815BD&profile=pass 
+#EXTINF:-1 tvg-id="2ae3c8fd953f38cc0b1740daec5ad70a",ABC HD [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/2110317354?ticket=88AAB05D9A774F2EB3E4C55356924EFDB2E0A65B&profile=pass 
+#EXTINF:-1 tvg-id="3fe4da499e8d40bb5ad8a2ca2807a574",ABC [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/1239082047?ticket=D6444121A10D3EB807950AC846AD6928FF9D7A50&profile=pass 
+#EXTINF:-1 tvg-id="fc368191022e62329455c41e03d0a5c9",ABCComedy/Kids [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/293680892?ticket=BC66D8318439F9EF487BDDA835FE26D293ECB9B0&profile=pass 
+#EXTINF:-1 tvg-id="19d47946278e52baf468e7ab0c2fb3a5",ABC ME [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/1182389273?ticket=EA51B2A5BB3352D4C5FB0B6C60495217EBE48593&profile=pass 
+#EXTINF:-1 tvg-id="1d10158a301ac7f7520966da1c02d2e9",ABC NEWS [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/169152541?ticket=69CB5D57FA4336FDAF861F164140A183E0C2AA66&profile=pass 
+#EXTINF:-1 tvg-id="1dd2671790f68eb8314198506707dfad",SBS ONE HD [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/392679965?ticket=6F846FE75B7BBF6AA7033CB8C45E79E42D4488C3&profile=pass 
+#EXTINF:-1 tvg-id="a72461eb3f68b9a287e6dc9ea32db0a9",SBS VICELAND HD [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/1801528487?ticket=4A8378BD2196FC97CDF8435EEC7B3D4F0F75D890&profile=pass 
+#EXTINF:-1 tvg-id="d40dc3afd3eca01567008f67082bc94f",SBS VICELAND [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/801312212?ticket=8EE0C84440C686803FDBC522EF0306C3AA57399D&profile=pass 
+#EXTINF:-1 tvg-id="b537cd5ea3bb0dd437b16504e7611f22",SBS Food [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/1590507445?ticket=B839613DAAA96128BEEEAB279051403EF5EC2EB8&profile=pass 
+#EXTINF:-1 tvg-id="d9a74f90c21a9700d2e94917a531b95d",NITV [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/273655769?ticket=6D926765369940C0FBCF7E8BCFFD64BDD58EA7E9&profile=pass 
+#EXTINF:-1 tvg-id="2fb92f442dd05e7aacc2577225d8027c",SBS Chill [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/1143978287?ticket=20FB700DD38DB0CD1FD651857DC3DFEB73E147F1&profile=pass 
+#EXTINF:-1 tvg-id="b5d93309f82d1107c5bf9452e1ddb2eb",West TV [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/154393013?ticket=66AE9FC42BC144706123115541D1D698F393D5A1&profile=pass 
+#EXTINF:-1 tvg-id="ed3137d234dd1d6ea250f1ab1bae34ed",7HD Perth [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/1379348973?ticket=130EDA2DE76127CCFFD4A8C2C21BF5A5A1F9508B&profile=pass 
+#EXTINF:-1 tvg-id="1542c5d3b79a4f5208d45ca98a695219",7 Perth [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/1405436437?ticket=BDECBC2940DDC30D5071085C3AE42ED77102D0A5&profile=pass 
+#EXTINF:-1 tvg-id="163144945ff8b233722040e6142877ef",7TWO Perth [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/340013334?ticket=969DDE1666EEFADDB90D23768C52EA8E97BC5D6F&profile=pass 
+#EXTINF:-1 tvg-id="e7df0bb653d4b050cecd2fa09b246d69",7mate Perth [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/906747879?ticket=AE45AB87CD3D7E74A954C43C423C1C34C6E4C982&profile=pass 
+#EXTINF:-1 tvg-id="fe00bb20a8922d698c6e6f5268359988",7flix Perth [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/549126398?ticket=0A6392066C74CB10190592FC8A3809DB420A7343&profile=pass 
+#EXTINF:-1 tvg-id="81459ead1b3687fe0a6c305bab8b3f40",RACING.COM [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/765347201?ticket=782FAAB29DCAA084C1B8FE05A2082962361995F1&profile=pass 
+#EXTINF:-1 tvg-id="6f7d8719ca38978bee461bc67937d059",9HD Perth [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/428309871?ticket=C92748D22EF5951DB0325AE637ADAB5D23FFA672&profile=pass 
+#EXTINF:-1 tvg-id="f792b6822ee9755aec1caf501665ffe6",Channel 9 Perth [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/45519607?ticket=6F1B4DB465441E7141B3EF9275383EF49FA500C2&profile=pass 
+#EXTINF:-1 tvg-id="ce64d2aac1fc68d48a739bf0a3921417",9Gem [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/718431438?ticket=ABC6F60E7A24D5D0F9204FA17DC740FD4036EA4C&profile=pass 
+#EXTINF:-1 tvg-id="dff64df3b37f6d4f74984ee8595fa95b",9Go! [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/1934489311?ticket=5981AC7E3ED1DCFFB49E5575B7BC076AEAB26CD8&profile=pass 
+#EXTINF:-1 tvg-id="5bae438cfc8a7a290402ad372694f35e",9Life [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/205762139?ticket=BA20A11377AEFEE768305B7F989B90983E1FAC8E&profile=pass 
+#EXTINF:-1 tvg-id="160054b1d569c02a454defd5acf0201c",Your Money [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/827588630?ticket=84DB54727CB490F0B97D12D7274DFBEA5673A246&profile=pass 
+#EXTINF:-1 tvg-id="2942a0da4068af492341c9e05391dc14",9Go! [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/1520452137?ticket=3C3F1DF114E484E2333BD993F1B4274284778C32&profile=pass 
+#EXTINF:-1 tvg-id="90437b205e92cfa69bf8808034d7a1d6",Double J [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/544949136?ticket=AC1A860C84BDA09926D1C3C3F6AD9FD0FD8B95E9&profile=pass 
+#EXTINF:-1 tvg-id="68bbf07d37774ebb8117b74c3ea6e57f",ABC Jazz [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/2112928616?ticket=22F11038CD1F373BDFB62A1B0803B89D8E547EF2&profile=pass 
