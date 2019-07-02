@@ -1,0 +1,765 @@
+#EXTM3U
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/138" tvg-id="d35e93027bf7c94c311064b1e9f9fc3b",ABC HD C-sat
+http://lehuong.duckdns.org:9981/stream/channelid/43212499?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/An_Giang_TV1.png" tvg-id="f28a84dd2a4707e8237f41781808c1c6",An Giang 1
+http://lehuong.duckdns.org:9981/stream/channelid/1568967410?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/148" tvg-id="86318dcb875f155972c3f8e77bba0391",Ani+Plus HD C-sat
+http://lehuong.duckdns.org:9981/stream/channelid/1267544454?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/An_ninh_TV.png" tvg-id="06a8f7ba44a283be032a5eebef9326e0",ANTV
+http://lehuong.duckdns.org:9981/stream/channelid/989308934?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/An_ninh_TV.png" tvg-id="dffa386cc5a10c21db109028abf4ebe7",ANTV
+http://lehuong.duckdns.org:9981/stream/channelid/1815673567?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/arirang.png" tvg-id="48bd1e17f03f3690301a4fda297788c4",Arirang
+http://lehuong.duckdns.org:9981/stream/channelid/387890504?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/arirang.png" tvg-id="11ffd94694e51f71f2e6067448fc2f9e",Arirang
+http://lehuong.duckdns.org:9981/stream/channelid/1188691729?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Asian_Food_Channel.png" tvg-id="59a670382e9fcee3f5d08cc5109044ea",Asian Food Channel
+http://lehuong.duckdns.org:9981/stream/channelid/946906713?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Asian_Food_Channel.png" tvg-id="037fecffe180e7981ccac9db87b5b327",Asian Food Channel
+http://lehuong.duckdns.org:9981/stream/channelid/2146205443?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/AXN.png" tvg-id="a263124e0d885a7439e0a903549262da",AXN
+http://lehuong.duckdns.org:9981/stream/channelid/1309828002?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/AXN.png" tvg-id="6d5419fbd00a68d390d04c39238b9162",AXN
+http://lehuong.duckdns.org:9981/stream/channelid/2065257581?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/144" tvg-id="27ba391654af942ce451f29b346794a2",Baby Plus HD C-sat
+http://lehuong.duckdns.org:9981/stream/channelid/372881959?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/BabyTV.png" tvg-id="a1539f239452bfc6bcfd6f2ff872b6cd",BABYTV HD
+http://lehuong.duckdns.org:9981/stream/channelid/597644193?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/BBC.png" tvg-id="b6a4d4b4d73ad8176a1705fe9e7251b7",BBC
+http://lehuong.duckdns.org:9981/stream/channelid/886351030?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/216" tvg-id="9328b96757a6d2f165d0a3fe5517b5c3",BBC World News
+http://lehuong.duckdns.org:9981/stream/channelid/1740187795?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/108" tvg-id="846480e48d0f9f52029e4770f0193fb8",BBTV CH7
+http://lehuong.duckdns.org:9981/stream/channelid/1686135940?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/187" tvg-id="ba23c61da90abd2fd1be2f6291e33cd9",BBTV7
+http://lehuong.duckdns.org:9981/stream/channelid/499524538?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Bloomberg.png" tvg-id="e6aaaf2708f97a0dca09c19cd0d46c9f",Bloomberg
+http://lehuong.duckdns.org:9981/stream/channelid/665823974?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Bloomberg.png" tvg-id="1e7b5cd3bd1c0efb535b61af5218a31b",Bloomberg
+http://lehuong.duckdns.org:9981/stream/channelid/1398569758?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Bloomberg.png" tvg-id="a46b4af725b5fcc4ee1e1d397f3ee2bd",Bloomberg
+http://lehuong.duckdns.org:9981/stream/channelid/2001365924?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/162" tvg-id="c8b87c999fd43db95c54ae765978a384",BRIGHT
+http://lehuong.duckdns.org:9981/stream/channelid/427604168?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Ba_Ria_TV.png" tvg-id="b8baa1d477c14e2ba281b16b5bb7b7ed",Bà Rịa - Vũng Tàu
+http://lehuong.duckdns.org:9981/stream/channelid/1419885240?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Binh_Duong_TV1.png" tvg-id="8b4069ca7ccaafeb69aae8495ff52462",Bình Dương 1
+http://lehuong.duckdns.org:9981/stream/channelid/1248411787?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Binh_Duong_TV1.png" tvg-id="c52aeee6fa8f50c13c1443a6100f4063",Bình Dương 1
+http://lehuong.duckdns.org:9981/stream/channelid/1726884549?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Binh_Duong_TV2.png" tvg-id="2930161bf9c581c929a2d8173b58f2d2",Bình Dương 2
+http://lehuong.duckdns.org:9981/stream/channelid/454438953?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Binh_Duong_TV2.png" tvg-id="ea6413bc40fc7968e56c8f5ae9f44b25",Bình Dương 2
+http://lehuong.duckdns.org:9981/stream/channelid/1007903978?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/BTV4_iMovie_TV.png" tvg-id="bb8c42bbd32e8d01c257b1fe9a0a75b2",Bình Dương 4 - iMovie TV
+http://lehuong.duckdns.org:9981/stream/channelid/994217147?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Binh_Phuoc_TV1.png" tvg-id="be9a6413171a5583efb212a312500b60",Bình Phước 1
+http://lehuong.duckdns.org:9981/stream/channelid/325360318?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Binh_Phuoc_TV1.png" tvg-id="402c92ea4306c146aa8fff1253ba9531",Bình Phước 1
+http://lehuong.duckdns.org:9981/stream/channelid/1787964480?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Binh_Thuan_TV.png" tvg-id="d10fc58272d9ac826d2e64e4db695e94",Bình Thuận
+http://lehuong.duckdns.org:9981/stream/channelid/46469073?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Binh_Thuan_TV.png" tvg-id="358c067e98be005bfe1af016364b5b60",Bình Thuận
+http://lehuong.duckdns.org:9981/stream/channelid/2114358325?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Binh_Dinh_TV.png" tvg-id="615f3893064c4d275d8bb2c8f8f5cdcd",Bình Định
+http://lehuong.duckdns.org:9981/stream/channelid/322461537?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Binh_Dinh_TV.png" tvg-id="ea68a9c9a7dc402ac5d108eceff811e2",Bình Định
+http://lehuong.duckdns.org:9981/stream/channelid/1235839210?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Bac_Lieu_TV.png" tvg-id="da70d5912beab47f399752d2c0f86c95",Bạc Liêu
+http://lehuong.duckdns.org:9981/stream/channelid/299200730?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Bac_Lieu_TV.png" tvg-id="abb428ba46022444dcf1ef406afb2382",Bạc Liêu
+http://lehuong.duckdns.org:9981/stream/channelid/975746219?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Bac_Giang_TV.png" tvg-id="fc4331009d708ddd59fc22a8a8686e87",Bắc Giang
+http://lehuong.duckdns.org:9981/stream/channelid/3228668?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Bac_Giang_TV.png" tvg-id="41fa5ce10eb951c4de649ea429657e11",Bắc Giang
+http://lehuong.duckdns.org:9981/stream/channelid/1633483329?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Bac_Kan_TV.png" tvg-id="a82de83809c610edb31bf1e296bcf965",Bắc Kạn
+http://lehuong.duckdns.org:9981/stream/channelid/954740136?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Bac_Ninh_TV.png" tvg-id="a5ea01ab954ba704f76a60ade734f563",Bắc Ninh
+http://lehuong.duckdns.org:9981/stream/channelid/721545893?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Bac_Ninh_TV.png" tvg-id="45e9962e9e57dcebffd0c0d83bfbd32a",Bắc Ninh
+http://lehuong.duckdns.org:9981/stream/channelid/781642053?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Ben_Tre_TV.png" tvg-id="780e8b8ea7a2a7e360cb671504e5ff53",Bến Tre
+http://lehuong.duckdns.org:9981/stream/channelid/243994232?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Ben_Tre_TV.png" tvg-id="a40a8c192fabeaa8d16209bce044b4c8",Bến Tre
+http://lehuong.duckdns.org:9981/stream/channelid/428608164?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Cao_Bang_TV.png" tvg-id="912513561caa280d81d9e1c19ab5fc90",Cao Bằng
+http://lehuong.duckdns.org:9981/stream/channelid/1444095377?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Cao_Bang_TV.png" tvg-id="3c92445e381d8afff515a37f234188e3",Cao Bằng
+http://lehuong.duckdns.org:9981/stream/channelid/1581552188?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Cartoon_Network.png" tvg-id="c716885a0149810564dc5161326b98d7",CARTOON NETWORK
+http://lehuong.duckdns.org:9981/stream/channelid/1518868167?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/157" tvg-id="e1e99e803f26d7eaba5a5af2f685c546",CCTV 4A
+http://lehuong.duckdns.org:9981/stream/channelid/10414561?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/104" tvg-id="f756abd3e3feee10fa406c33254a3e5f",CH8
+http://lehuong.duckdns.org:9981/stream/channelid/1403737847?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Channel_NewsAsia.png" tvg-id="5e4f63b8d5a4b503ffe42b5a41082838",Channel News Asia
+http://lehuong.duckdns.org:9981/stream/channelid/946032478?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Channel_NewsAsia.png" tvg-id="9b90367fc0b0ddfda23b35e90f20b5bc",Channel News Asia
+http://lehuong.duckdns.org:9981/stream/channelid/2134282395?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Channel_NewsAsia.png" tvg-id="bab2bd94314b2d1f7cf4a8767879afb9",CHANNEL NEWS ASIA HD
+http://lehuong.duckdns.org:9981/stream/channelid/347976378?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Channel_V.png" tvg-id="d57d884dac3fd3849794d770dd40f01b",Channel V
+http://lehuong.duckdns.org:9981/stream/channelid/1300790741?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Channel_V.png" tvg-id="c57579c355b81c2b23d44c854ae071ef",CHANNEL V HD
+http://lehuong.duckdns.org:9981/stream/channelid/1132033477?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/CINEMAX.png" tvg-id="9d0c126f1f1e67affa0e776a97eb8910",CINEMAX
+http://lehuong.duckdns.org:9981/stream/channelid/1863453853?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/154" tvg-id="f56912213b2f9c6e6f5fe2b3149b4fba",CNAI HD 1080i 25
+http://lehuong.duckdns.org:9981/stream/channelid/554854901?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/214" tvg-id="b4a34651de0340a091b837378d22821a",CNBC
+http://lehuong.duckdns.org:9981/stream/channelid/1363583924?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/CNN.png" tvg-id="7a8aa48d49c03a1c50d3734dd0c737df",CNN
+http://lehuong.duckdns.org:9981/stream/channelid/228887162?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Ca_Mau_TV.png" tvg-id="4089171a3df16d5881d793cca052e9c9",Cà Mau
+http://lehuong.duckdns.org:9981/stream/channelid/437750080?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Ca_Mau_TV.png" tvg-id="f3f1d8bb67dc691b69fadd431e28f3db",Cà Mau
+http://lehuong.duckdns.org:9981/stream/channelid/1004073459?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/THTPCT.png" tvg-id="378caa17a0bf2ca66468277c6c626811",Cần Thơ
+http://lehuong.duckdns.org:9981/stream/channelid/397052983?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/THTPCT.png" tvg-id="994ad31c5d13104b93cd9e8f16d28839",Cần Thơ
+http://lehuong.duckdns.org:9981/stream/channelid/483609241?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Da_Vinci_Learning.png" tvg-id="f18b48a7dab55c08ffea203401671b87",Da Vinci Learning
+http://lehuong.duckdns.org:9981/stream/channelid/659065841?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Da_Vinci_Learning.png" tvg-id="7ae4fcbf92a0542acbf96fb593012d6d",Da Vinci Learning
+http://lehuong.duckdns.org:9981/stream/channelid/1073538170?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Da_Vinci_Learning.png" tvg-id="5a911d520fb0035140228f73ca698bac",DA VINCI LEARNING HD
+http://lehuong.duckdns.org:9981/stream/channelid/1377669466?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Discovery_Channel.png" tvg-id="4cd6035bf423863fc6e0e5c52630ea18",Discovery Channel
+http://lehuong.duckdns.org:9981/stream/channelid/1526978124?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Discovery_Channel.png" tvg-id="c488625dbeec3eb8e6a4b35e32834a1c",Discovery Channel
+http://lehuong.duckdns.org:9981/stream/channelid/1566738628?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Disney_Channel.png" tvg-id="0e7e97968d95c0dce2e13a521f1803e5",Disney
+http://lehuong.duckdns.org:9981/stream/channelid/379026958?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Disney_Channel.png" tvg-id="10647339c5596aaae07a859ce27d16be",Disney
+http://lehuong.duckdns.org:9981/stream/channelid/963863568?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Disney_Channel.png" tvg-id="0f6fc1a9914e4e3a81f06a14e9f9f19d",DISNEY CHANNEL HD
+http://lehuong.duckdns.org:9981/stream/channelid/700542735?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Disney_Junior.png" tvg-id="64b66013036c4f2f58ec19336c92ca11",Disney Junior
+http://lehuong.duckdns.org:9981/stream/channelid/325105252?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Disney_Junior.png" tvg-id="2c99666e5978d0187a48ae3e785eba9c",Disney Junior
+http://lehuong.duckdns.org:9981/stream/channelid/1852217644?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/221" tvg-id="735fcdf5b2ae85fe1e06f16042331a6b",DIVA
+http://lehuong.duckdns.org:9981/stream/channelid/1976393587?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Diva_Universal.png" tvg-id="44993e9367e361cb9e7e55c0d8f9573d",Diva Universal
+http://lehuong.duckdns.org:9981/stream/channelid/322869572?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Diva_Universal.png" tvg-id="bb31d42ab20a7b15fd4c1da7c512546f",Diva Universal
+http://lehuong.duckdns.org:9981/stream/channelid/718549435?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Diva_Universal.png" tvg-id="caa00ba67924ea0ff1100079dac9fa78",DIVA UNIVERSAL HD
+http://lehuong.duckdns.org:9981/stream/channelid/638296266?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/153" tvg-id="bd790e573a82bcca09aed2a4c92c4b28",DW (English)
+http://lehuong.duckdns.org:9981/stream/channelid/1460566461?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/DW-TV.png" tvg-id="5aef5fdffccb0d47a5094346ce635531",DW-TV
+http://lehuong.duckdns.org:9981/stream/channelid/1600122714?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/DW-TV.png" tvg-id="7cd37c6904017e3b8a0d0c7a5e262814",DW-TV HD
+http://lehuong.duckdns.org:9981/stream/channelid/1769788284?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/114" tvg-id="629dd0fe1bb2e81e0ef9f3013a9fadd5",EDGE SPORT
+http://lehuong.duckdns.org:9981/stream/channelid/2127600994?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/106" tvg-id="e43398e1f4d9394d6034476df1954923",EUROSPORT
+http://lehuong.duckdns.org:9981/stream/channelid/1637364708?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Fashion.png" tvg-id="4e2bf37799abb242ad879fa211167065",FASHION
+http://lehuong.duckdns.org:9981/stream/channelid/2012425038?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/97" tvg-id="07308cbae8b5f9d315c9548d21d2d8ee",FIGHT SPORTS HD
+http://lehuong.duckdns.org:9981/stream/channelid/982265863?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/FOX.png" tvg-id="c909ee934c5389b4a0f28948f1f42b3e",FOX
+http://lehuong.duckdns.org:9981/stream/channelid/334367177?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/115" tvg-id="27f10cff6db7d408a79d084df0ba1c48",FOX Action Movies
+http://lehuong.duckdns.org:9981/stream/channelid/2131554599?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/88" tvg-id="888cb227c63b33b87346fb4918f2ec1a",FOX HD
+http://lehuong.duckdns.org:9981/stream/channelid/666012808?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/211" tvg-id="312ac933529b565cc6a93ef89aeb4d66",FOX Movies
+http://lehuong.duckdns.org:9981/stream/channelid/868821553?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/FOX_SPORTS_2.png" tvg-id="263db123e679105929e1ac81b8aa5a2b",FOX SPORT 2 HD
+http://lehuong.duckdns.org:9981/stream/channelid/598818086?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/FOX_SPORTS.png" tvg-id="e1549ac2b90f93be460e3d055f93dbb1",FOX SPORTS
+http://lehuong.duckdns.org:9981/stream/channelid/1117410529?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/113" tvg-id="2aecec783608440f0b090f577c2f61dc",FOX SPORTS 1
+http://lehuong.duckdns.org:9981/stream/channelid/2028792874?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/FOX_SPORTS_2.png" tvg-id="c0b0189d98f9f15bce85b66f811a6e60",FOX Sports 2
+http://lehuong.duckdns.org:9981/stream/channelid/488157376?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/92" tvg-id="92af96afdd89e1e57e681880c31f9706",FOX SPORTS 2
+http://lehuong.duckdns.org:9981/stream/channelid/798404498?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/91" tvg-id="f71fc92ca9f40ec4783e7618eace5175",FOX Sports 3
+http://lehuong.duckdns.org:9981/stream/channelid/751378423?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/105" tvg-id="1aee305bcd34f09583860ad646c98fb2",FOXLIFE HD
+http://lehuong.duckdns.org:9981/stream/channelid/1529933338?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/151" tvg-id="f0d767c640659aa6e84224f3528c5d40",France 24 HD (in
+http://lehuong.duckdns.org:9981/stream/channelid/1181210608?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/188" tvg-id="d2bfcae28466e9bbe2c5ecea594b8a97",Future Ch
+http://lehuong.duckdns.org:9981/stream/channelid/1657454546?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/207" tvg-id="27e40a8e69017803d6c8f2c58a6bc5d1",GEM
+http://lehuong.duckdns.org:9981/stream/channelid/235594791?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/100" tvg-id="b06abb46c3a91cd66190ac1e2941b944",GMM25
+http://lehuong.duckdns.org:9981/stream/channelid/1186687664?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/140" tvg-id="07f5269d86c3cca6a6acbd5c972987e5",GOBA TV
+http://lehuong.duckdns.org:9981/stream/channelid/489092359?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/89" tvg-id="4e63a12ab7cb4ded4015b4f58b489350",GOLF
+http://lehuong.duckdns.org:9981/stream/channelid/715219790?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Hanoi_HD.png" tvg-id="9c6109e18ee618aa085b6b5262ed221f",HANOI 1 HD
+http://lehuong.duckdns.org:9981/stream/channelid/1628004764?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Hanoi2_HD.png" tvg-id="b0e84d514886053d9cc1855ef92767c6",HANOI 2 HD
+http://lehuong.duckdns.org:9981/stream/channelid/1364060336?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/134" tvg-id="6976ed1ea48c70a8cf1bfa87b4daeb8e",HBO
+http://lehuong.duckdns.org:9981/stream/channelid/518878825?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HBO.png" tvg-id="9873a4a61df184caad61c7e52d6bf212",HBO
+http://lehuong.duckdns.org:9981/stream/channelid/648311704?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HBO.png" tvg-id="97739fcbac04c99a5d0eaf947774ce83",HBO
+http://lehuong.duckdns.org:9981/stream/channelid/1268741015?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HCaTV_HiTV.png" tvg-id="ba112535c06356790905b42190eda337",HCaTV - HITV
+http://lehuong.duckdns.org:9981/stream/channelid/891621818?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/135" tvg-id="317fc25b2356ade4bc5c5cbe90d9733e",HISTORY
+http://lehuong.duckdns.org:9981/stream/channelid/1539473201?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HTV_The_Thao.png" tvg-id="90e348b408a3fed11287e4205e550dbb",HTV - Thể Thao
+http://lehuong.duckdns.org:9981/stream/channelid/877192080?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HTV1.png" tvg-id="638b1b84d51ca6f5262c83a4e56bd90f",HTV1
+http://lehuong.duckdns.org:9981/stream/channelid/68914019?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HTV1.png" tvg-id="56f98928ac4ee988adaf711775b538c5",HTV1
+http://lehuong.duckdns.org:9981/stream/channelid/680130902?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HTV2.png" tvg-id="4aa33bb3846d4901172e6410029a7061",HTV2
+http://lehuong.duckdns.org:9981/stream/channelid/859546442?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HTV2.png" tvg-id="b903186592d68d5345568a5135ff9706",HTV2
+http://lehuong.duckdns.org:9981/stream/channelid/1696072633?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HTV3.png" tvg-id="36565abae5c5dd4465d1cee3646969ba",HTV3
+http://lehuong.duckdns.org:9981/stream/channelid/978998838?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HTV3.png" tvg-id="ffd54ccef8a89516a42caf5f4f47ab78",HTV3
+http://lehuong.duckdns.org:9981/stream/channelid/1313658367?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HTV4.png" tvg-id="7912d39b26c39ed1319dc961ac555384",HTV4
+http://lehuong.duckdns.org:9981/stream/channelid/466817657?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HTV4.png" tvg-id="f8e99470fb9e4c432931d225dd5c8be0",HTV4
+http://lehuong.duckdns.org:9981/stream/channelid/1888807416?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HTV7.png" tvg-id="ca3460517ad1ce7495fd35d41251fbe4",HTV7
+http://lehuong.duckdns.org:9981/stream/channelid/1365259466?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HTV7_HD.png" tvg-id="7808873da9dd8ce785af923c7645cfbb",HTV7 HD
+http://lehuong.duckdns.org:9981/stream/channelid/1032259704?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HTV7_HD.png" tvg-id="10238d47ef45bd1fe438e0444889f72d",HTV7 HD
+http://lehuong.duckdns.org:9981/stream/channelid/1200431888?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HTV9.png" tvg-id="d9c1833a2e5e03417b340ecc9b93dbed",HTV9
+http://lehuong.duckdns.org:9981/stream/channelid/981713369?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HTV9_HD.png" tvg-id="e838f619e0ee465453c4243f859894f9",HTV9 HD
+http://lehuong.duckdns.org:9981/stream/channelid/435566824?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HTV9_HD.png" tvg-id="4a0d9d6835023873c6291940ef99c70e",HTV9 HD
+http://lehuong.duckdns.org:9981/stream/channelid/1755123018?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HTVC_Ca_nhac.png" tvg-id="70c2541958feb43e42ae0e42eecbed21",HTVC - Ca nhạc
+http://lehuong.duckdns.org:9981/stream/channelid/424985200?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HTVC_DL&CS.png" tvg-id="f476404db20e490fbdec02e3041ca93c",HTVC - Du lịch & Cuộc sống
+http://lehuong.duckdns.org:9981/stream/channelid/1296070388?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HTVC_Gia_dinh.png" tvg-id="2e4c592616e478f6da5048d298fddd70",HTVC - Gia đình
+http://lehuong.duckdns.org:9981/stream/channelid/643386414?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HTVC_Shopping.png" tvg-id="143b7bbb67e9f07e6dd6673212137c22",HTVC - Mua sắm tiêu dùng
+http://lehuong.duckdns.org:9981/stream/channelid/997931796?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HTVC_Phim.png" tvg-id="a3327dec7d317591f2e650dea93853b1",HTVC - Phim
+http://lehuong.duckdns.org:9981/stream/channelid/1820144291?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HTVC_Phu_nu.png" tvg-id="933f4b7ecbd344bdca5231b074bdcbcc",HTVC - Phụ nữ
+http://lehuong.duckdns.org:9981/stream/channelid/2118860691?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HTVC_Thuan_Viet.png" tvg-id="e076080a18f0e3f789b515c4f24ad690",HTVC Thuần Việt HD
+http://lehuong.duckdns.org:9981/stream/channelid/168326880?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HTVC_Thuan_Viet.png" tvg-id="8e409da67c44b63e1dc9f00171f1cb5a",HTVC Thuần Việt HD
+http://lehuong.duckdns.org:9981/stream/channelid/647839886?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HTVC_Thuan_Viet.png" tvg-id="9bc304ee34bb2f666855fdc9e700c26a",HTVC Thuần Việt HD
+http://lehuong.duckdns.org:9981/stream/channelid/1845805979?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HTVC_Phim.png" tvg-id="a602c8c589107641afa018edeeb014a1",HTVC-PHIM HD
+http://lehuong.duckdns.org:9981/stream/channelid/1170735782?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Ha_Giang_TV.png" tvg-id="acc97018c723d289cd380a3c4109fa1b",Hà Giang
+http://lehuong.duckdns.org:9981/stream/channelid/410044844?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Ha_Giang_TV.png" tvg-id="649f5e4b55a15f40c541b55a4bdb43c7",Hà Giang
+http://lehuong.duckdns.org:9981/stream/channelid/1264492388?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Ha_Nam_TV.png" tvg-id="4fad7c9eb6db01f50c4e702632e0a29d",Hà Nam
+http://lehuong.duckdns.org:9981/stream/channelid/511487311?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Ha_Nam_TV.png" tvg-id="8c9b775529c248a39a6ece4100af0f85",Hà Nam
+http://lehuong.duckdns.org:9981/stream/channelid/1433901964?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Ha_Noi_TV1.png" tvg-id="a34664f9283f88ebf4ac398637abb110",Hà Nội 1
+http://lehuong.duckdns.org:9981/stream/channelid/2036614819?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Ha_Noi_TV2.png" tvg-id="93939cbba1d22a9adec1bfedfd0cecd6",Hà Nội 2
+http://lehuong.duckdns.org:9981/stream/channelid/1000117139?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Ha_Tinh_TV.png" tvg-id="e06bab543f044e8e2c4195755e725bd4",Hà Tĩnh
+http://lehuong.duckdns.org:9981/stream/channelid/1420520416?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Ha_Tinh_TV.png" tvg-id="4813a8650df1d1ed6e8b4032afefddd6",Hà Tĩnh
+http://lehuong.duckdns.org:9981/stream/channelid/1705513800?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Hung_Yen_TV.png" tvg-id="62ccfe4afa35f8ab6402c7eebdd93d45",Hưng Yên
+http://lehuong.duckdns.org:9981/stream/channelid/1258212450?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Hung_Yen_TV.png" tvg-id="8905d8db3f0db6ae9641569ea3290377",Hưng Yên
+http://lehuong.duckdns.org:9981/stream/channelid/1540883849?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Hai_Duong_TV.png" tvg-id="a65b9dac3bd5a37600c433629e3df4d1",Hải Dương
+http://lehuong.duckdns.org:9981/stream/channelid/748510118?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Hai_Duong_TV.png" tvg-id="693b696b8c332e6ca6b010bcaf604bc9",Hải Dương
+http://lehuong.duckdns.org:9981/stream/channelid/1802058601?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Hai_Phong_TV.png" tvg-id="8b55932498ea11dd9412e8e1c521b0f3",Hải Phòng
+http://lehuong.duckdns.org:9981/stream/channelid/613635467?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Hai_Phong_TV.png" tvg-id="56180b6a8ed18a1a0f06763d280bc9b7",Hải Phòng
+http://lehuong.duckdns.org:9981/stream/channelid/1779112022?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Hau_Giang_TV.png" tvg-id="c226ec67ad28dac8ba952fc662b77fbf",Hậu Giang
+http://lehuong.duckdns.org:9981/stream/channelid/1743529666?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Hau_Giang_TV.png" tvg-id="628fe16f688d1ebb5101c89864783d6c",Hậu Giang
+http://lehuong.duckdns.org:9981/stream/channelid/1877053282?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/145" tvg-id="c31537872ae9ba947c82ed6edc8eb9ab",I Asia C-sat
+http://lehuong.duckdns.org:9981/stream/channelid/121050563?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/143" tvg-id="91e88303cf6aeca7069d1b8cca48289e",I Movie HD C-sat
+http://lehuong.duckdns.org:9981/stream/channelid/58976401?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/155" tvg-id="d632a66f90bbded85bad734e73deccfe",Inn Bangkok
+http://lehuong.duckdns.org:9981/stream/channelid/1873162966?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/177" tvg-id="a5f43af41f436d7a00f8871ffa1eb86e",INSE
+http://lehuong.duckdns.org:9981/stream/channelid/1950020773?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/K_1.png" tvg-id="eee669df8fe83b83deeeabb3a0f7b20d",K+1
+http://lehuong.duckdns.org:9981/stream/channelid/1600775918?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/K_NS.png" tvg-id="f573e405c731cfcb0dca34ed8d672c12",K+NS
+http://lehuong.duckdns.org:9981/stream/channelid/98857973?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/K_PC.png" tvg-id="03540a8b41a716e9787e6172de665209",K+PC
+http://lehuong.duckdns.org:9981/stream/channelid/185226243?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/K_PM.png" tvg-id="af7faf41302e9918b4d6545f11d26027",K+PM
+http://lehuong.duckdns.org:9981/stream/channelid/1102020527?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Khanh_Hoa_TV.png" tvg-id="14a2b66c71e12f70aea7601095fdb01b",Khánh Hoà
+http://lehuong.duckdns.org:9981/stream/channelid/1823908372?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/147" tvg-id="5ffcb81f644e760bf80808410cc0b33e",KidKit C-sat
+http://lehuong.duckdns.org:9981/stream/channelid/532216927?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/156" tvg-id="569ae6c376c3dc6902167ebfb80e6956",Kidsong
+http://lehuong.duckdns.org:9981/stream/channelid/1139186262?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Kien_Giang_TV.png" tvg-id="11b592d1170e006cb21aa0d347566c17",Kiên Giang
+http://lehuong.duckdns.org:9981/stream/channelid/1368569105?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Kien_Giang_TV.png" tvg-id="1f42bc7c4c1051d9b09c9111b09590a3",Kiên Giang
+http://lehuong.duckdns.org:9981/stream/channelid/2092712479?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/175" tvg-id="519301198318b7dfa0a1c9e28abf4b0e",KNOW:TSP2
+http://lehuong.duckdns.org:9981/stream/channelid/419533649?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Lai_Chau_TV.png" tvg-id="9ba71290fb7c8d85bec0797f5e257555",Lai Châu
+http://lehuong.duckdns.org:9981/stream/channelid/269658011?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/167" tvg-id="8a53bea610f8c3809230c573b0786017",LOCA
+http://lehuong.duckdns.org:9981/stream/channelid/650007434?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Long_An_TV34.png" tvg-id="aeb82eabf420929c3284fefdd29d4a16",Long An 34
+http://lehuong.duckdns.org:9981/stream/channelid/724482222?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/149" tvg-id="cc1e2ce7cdc682092f551df953af0efd",Loso Mp4
+http://lehuong.duckdns.org:9981/stream/channelid/1730944716?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Lao_Cai_TV.png" tvg-id="d3344df35b6de182c9d8580df15bbbbb",Lào Cai
+http://lehuong.duckdns.org:9981/stream/channelid/1934439635?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Lao_Cai_TV.png" tvg-id="78fd767a3d9c2294282819e3b891e857",Lào Cai
+http://lehuong.duckdns.org:9981/stream/channelid/2054618488?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Lam_Dong_TV.png" tvg-id="052484cf88566c60cb886c04e136f3a2",Lâm Đồng
+http://lehuong.duckdns.org:9981/stream/channelid/1334060037?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Lam_Dong_TV.png" tvg-id="a8b97f64ffdbf444b21afb0d9beaa069",Lâm Đồng
+http://lehuong.duckdns.org:9981/stream/channelid/1686092200?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Lang_Son_TV.png" tvg-id="0ee184510e4956ad164a8367f43900ec",Lạng Sơn
+http://lehuong.duckdns.org:9981/stream/channelid/1367662862?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Lang_Son_TV.png" tvg-id="75201d6f033ee8ad5ae34caadedd03d8",Lạng Sơn
+http://lehuong.duckdns.org:9981/stream/channelid/1864179829?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/182" tvg-id="1121e9ab37b8814af52e54f0824611d0",MCOT
+http://lehuong.duckdns.org:9981/stream/channelid/736698641?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/109" tvg-id="f790d1e5e2a913031b1aede0e1aee4bb",MCOT
+http://lehuong.duckdns.org:9981/stream/channelid/1708232951?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/168" tvg-id="a4711fbc5dc6cd01946a91151f38e7d7",MCOT F
+http://lehuong.duckdns.org:9981/stream/channelid/1008693668?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/178" tvg-id="04c2054b76e98eb8eac72a24d2471905",MONO
+http://lehuong.duckdns.org:9981/stream/channelid/1258668548?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/139" tvg-id="027741da0f798b49a3db7b01285594aa",Moviesat HD C-sat
+http://lehuong.duckdns.org:9981/stream/channelid/1514239746?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/MTV.png" tvg-id="19c4dfc78b5dd702f762b8a1ea5d9cdd",MTV
+http://lehuong.duckdns.org:9981/stream/channelid/1205847065?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/MTV_HD.png" tvg-id="15fadcf14f4e6a2943cc1905b200c53a",MTV HD
+http://lehuong.duckdns.org:9981/stream/channelid/1910307349?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/103" tvg-id="e08cde5169ebda2477bb95975e4ca7e1",MTV LIVE HD
+http://lehuong.duckdns.org:9981/stream/channelid/1373539552?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Mytv.png" tvg-id="9cc60d7cc085cf098cc76bdfbb9bfb82",MYTVTEST HD
+http://lehuong.duckdns.org:9981/stream/channelid/2081277596?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Mytv.png" tvg-id="f2a7b7f32dd4839e7038abb86cebed7a",MYTVTEST2 HD
+http://lehuong.duckdns.org:9981/stream/channelid/1941415922?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Nam_Dinh_TV.png" tvg-id="aebd449114ccea0a46c964721d06eaae",Nam Định
+http://lehuong.duckdns.org:9981/stream/channelid/289717678?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Nam_Dinh_TV.png" tvg-id="fb6b04a7da0ef4c85dfa57163825b4ed",Nam Định
+http://lehuong.duckdns.org:9981/stream/channelid/654601211?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/209" tvg-id="56f17016ba68ea924f7bb6bd356b5b87",Nat Geo People
+http://lehuong.duckdns.org:9981/stream/channelid/376500566?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/101" tvg-id="241e334c79028dfe6b901cc95d0212b6",Nat Geo Wild
+http://lehuong.duckdns.org:9981/stream/channelid/1278418468?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/84" tvg-id="c798aa8964baac4b8b4ed8baef56e0c1",NAT GEO WILD HD
+http://lehuong.duckdns.org:9981/stream/channelid/162175175?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/NGP_HD.png" tvg-id="d35ad839a1056cc652a8cd472fa6c613",NATGEO PEOPLE HD
+http://lehuong.duckdns.org:9981/stream/channelid/970480339?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/NGW_HD.png" tvg-id="818ea51c59c624c84cd6e6bcdadbb235",NATGEO WILD HD
+http://lehuong.duckdns.org:9981/stream/channelid/480611969?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/160" tvg-id="17091c2826ae2437962f1dfb8f9eeffa",NATION
+http://lehuong.duckdns.org:9981/stream/channelid/672925975?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/NGC_HD.png" tvg-id="922e7321696a3513247f647d7834d72e",National Geographic HD
+http://lehuong.duckdns.org:9981/stream/channelid/561196690?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/NGC_HD.png" tvg-id="e0e6152d02d258f71c53cd354a1fbfeb",National Geographic HD
+http://lehuong.duckdns.org:9981/stream/channelid/756410080?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/180" tvg-id="66960e0030f2528c68d1d3a922d1e624",NBT
+http://lehuong.duckdns.org:9981/stream/channelid/956006?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/172" tvg-id="ec94ebfdd37ae3994c5818736908250d",NBT
+http://lehuong.duckdns.org:9981/stream/channelid/2112591084?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/164" tvg-id="40712bb0cc6e5fd344095b8b0ceeaf6b",NEW18
+http://lehuong.duckdns.org:9981/stream/channelid/808153408?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Nghe_An_TV.png" tvg-id="9a23c6cdf9238e3dfd3e5a3bf098cdac",Nghệ An
+http://lehuong.duckdns.org:9981/stream/channelid/1304830874?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Nghe_An_TV.png" tvg-id="4b001167247646c2be6dabacbd391153",Nghệ An
+http://lehuong.duckdns.org:9981/stream/channelid/1729167435?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/NHK.png" tvg-id="832088242331487a04e284131d6a947a",NHK WORLD
+http://lehuong.duckdns.org:9981/stream/channelid/612900995?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/NHK_HD.png" tvg-id="862c87ceb32e1a85ebd06919b6b84821",NHK World HD
+http://lehuong.duckdns.org:9981/stream/channelid/1317481606?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/NHK_HD.png" tvg-id="c93c8e5a9a5db60cf56045e62f18acd1",NHK World HD
+http://lehuong.duckdns.org:9981/stream/channelid/1519271113?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/152" tvg-id="fe960c129b443e4fe9480ae5e93fd4ff",NHK World TV
+http://lehuong.duckdns.org:9981/stream/channelid/302814974?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Nhan_Dan.png" tvg-id="9cdc1d181bbb365a14f73acff3e271e1",NHÂN DÂN HD
+http://lehuong.duckdns.org:9981/stream/channelid/404610204?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Ninh_Binh_TV.png" tvg-id="185275ce3dfeee3c25d495378e6086ca",Ninh Bình
+http://lehuong.duckdns.org:9981/stream/channelid/1316311576?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Ninh_Binh_TV.png" tvg-id="860c77e41f500af6f20d0a57ea202a29",Ninh Bình
+http://lehuong.duckdns.org:9981/stream/channelid/1685523590?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Ninh_Thuan_TV.png" tvg-id="e087a904ad8ced10014a27fa10c7662a",Ninh Thuận
+http://lehuong.duckdns.org:9981/stream/channelid/78219232?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Ninh_Thuan_TV.png" tvg-id="d24756712f114ef80337a2883d8b49ad",Ninh Thuận
+http://lehuong.duckdns.org:9981/stream/channelid/1901479890?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/183" tvg-id="fa1b1ea3a23ce39b3fd939a537830c4f",ONE
+http://lehuong.duckdns.org:9981/stream/channelid/589175802?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/102" tvg-id="fbd5744f015b3c42f3d653cb5c5b4425",ONE
+http://lehuong.duckdns.org:9981/stream/channelid/1333057019?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Outdoor_Channel_HD.png" tvg-id="97f658e0442fa76628576ec7d29505a3",Outdoor Channel
+http://lehuong.duckdns.org:9981/stream/channelid/1616443031?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Outdoor_Channel_HD.png" tvg-id="37a24567c3a3fc292b3b504b008d9e22",Outdoor Channel
+http://lehuong.duckdns.org:9981/stream/channelid/1732616759?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Phu_Tho_TV.png" tvg-id="10f0e484c3363c02198eb017a6062c09",Phú Thọ
+http://lehuong.duckdns.org:9981/stream/channelid/82112528?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Phu_Tho_TV.png" tvg-id="c68b03a0dfa8a51b6c2d1e8f3b6bf483",Phú Thọ
+http://lehuong.duckdns.org:9981/stream/channelid/537103302?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/98" tvg-id="7ab184bd0b0f59371f7314eb6cea941e",PLOOK
+http://lehuong.duckdns.org:9981/stream/channelid/1032106362?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/116" tvg-id="1e23f27f29d5377cdbae503e5016bf07",PPTV
+http://lehuong.duckdns.org:9981/stream/channelid/2146575134?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/90" tvg-id="dd64072ca7f3295ab35fa768b316dcec",PPTV HD
+http://lehuong.duckdns.org:9981/stream/channelid/738682077?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Quang_Binh_TV.png" tvg-id="76c21e8513e1539205ca03b7262138d8",Quảng Bình
+http://lehuong.duckdns.org:9981/stream/channelid/85901942?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Quang_Binh_TV.png" tvg-id="f7386860a9ea329232f817e634644adb",Quảng Bình
+http://lehuong.duckdns.org:9981/stream/channelid/1617443063?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Quang_Nam_TV.png" tvg-id="49abcce16d37171c9dea2c8cd4737294",Quảng Nam
+http://lehuong.duckdns.org:9981/stream/channelid/1640803145?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Quang_Nam_TV.png" tvg-id="2b6031702b54edcbdb7e2faf48335092",Quảng Nam
+http://lehuong.duckdns.org:9981/stream/channelid/1882284075?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Quang_Ngai_TV.png" tvg-id="a4da52366d1615795171da0913d4d5b8",Quảng Ngải
+http://lehuong.duckdns.org:9981/stream/channelid/911399588?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Quang_Ninh_TV1.png" tvg-id="97912196520c61db9fb98729272d0682",Quảng Ninh 1
+http://lehuong.duckdns.org:9981/stream/channelid/371298711?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Quang_Ninh_TV1.png" tvg-id="eaa86c2de13d88da3c9d2a1249cee56e",Quảng Ninh 1
+http://lehuong.duckdns.org:9981/stream/channelid/762095850?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Quang_Tri_TV.png" tvg-id="6068cd423ce65f10a75f3e7c672d3ded",Quảng Trị
+http://lehuong.duckdns.org:9981/stream/channelid/1120757856?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Quang_Tri_TV.png" tvg-id="3cfbb360b7df02630ac34b3cbaa8a230",Quảng Trị
+http://lehuong.duckdns.org:9981/stream/channelid/1622407996?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/QPVN.png" tvg-id="58f46636d56643fcbd0bb4ead78d0525",QUỐC PHÒNG HD
+http://lehuong.duckdns.org:9981/stream/channelid/912716888?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/QPVN.png" tvg-id="245dfb7f0c3c2448b93f1796a9b3b26a",Quốc phòng Việt Nam
+http://lehuong.duckdns.org:9981/stream/channelid/2147179812?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/137" tvg-id="ef1ab3ecccfc332d7b893eacfab52e81",RealStories HD C-sat
+http://lehuong.duckdns.org:9981/stream/channelid/1823677167?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/gemtv.png" tvg-id="88c0aa9b7335364e8561d7ef8fc6262d",REDBYHBO2 HD
+http://lehuong.duckdns.org:9981/stream/channelid/464175240?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/150" tvg-id="62019fcf993cdb23f954925e5bee2a85",Russia Today
+http://lehuong.duckdns.org:9981/stream/channelid/1335820642?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/141" tvg-id="2c773c95fa060cb44a234ce342b1c928",Series+HD C-sat
+http://lehuong.duckdns.org:9981/stream/channelid/356284204?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/159" tvg-id="972c9b4f6c8728c84b5b5790f25a5eea",Show 1
+http://lehuong.duckdns.org:9981/stream/channelid/1335569559?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/136" tvg-id="14cd4eaf51a287c521a5e8113aa6af57",Show 4
+http://lehuong.duckdns.org:9981/stream/channelid/793693460?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/163" tvg-id="d8f0ca571c09650749a8fc7325c4fb2a",SP NEWS
+http://lehuong.duckdns.org:9981/stream/channelid/1472917720?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/179" tvg-id="3177a708da4f8c9d8b99e10bc605d509",SPRING 26
+http://lehuong.duckdns.org:9981/stream/channelid/145192753?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Star_World.png" tvg-id="3cdfd938b87c996fab04568061f9cdd0",STAR WORLD HD
+http://lehuong.duckdns.org:9981/stream/channelid/953802556?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Soc_Trang_TV1.png" tvg-id="195ef7984c714688cc9aa69d2d5c6d70",Sóc Trăng 1
+http://lehuong.duckdns.org:9981/stream/channelid/418864665?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Son_La_TV.png" tvg-id="960ae2daa78257abc490365c2035db15",Sơn La
+http://lehuong.duckdns.org:9981/stream/channelid/1524763286?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Son_La_TV.png" tvg-id="9c3112f01898570d76783c160f296c7b",Sơn La
+http://lehuong.duckdns.org:9981/stream/channelid/1880240540?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/85" tvg-id="7ce31a0cc4cca4139f747d678c429f9a",TH RATH
+http://lehuong.duckdns.org:9981/stream/channelid/203088764?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/146" tvg-id="efc6e1a1681dd3ed003d6aea3b05cfa3",Thai20 C-sat
+http://lehuong.duckdns.org:9981/stream/channelid/568444655?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/184" tvg-id="acec7c7e954bed93021a6562d41f4a7d",THAIRATH 
+http://lehuong.duckdns.org:9981/stream/channelid/2122116268?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Thanh_Hoa_TV.png" tvg-id="13e1c7dea677ffed637a34e3edc98dfb",Thanh Hoá
+http://lehuong.duckdns.org:9981/stream/channelid/1590157587?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/190" tvg-id="d5f93a40bd6167aa9330ec51de8a636e",THE THAO GOLF HD
+http://lehuong.duckdns.org:9981/stream/channelid/1077606869?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/165" tvg-id="96f8b01e8a596bafce3691075eabf188",THV
+http://lehuong.duckdns.org:9981/stream/channelid/514914454?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Thai_Binh_TV.png" tvg-id="44d49909ee703dce73c20c9dff367394",Thái Bình
+http://lehuong.duckdns.org:9981/stream/channelid/161076292?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Thai_Binh_TV.png" tvg-id="30594fc20234f4b2266c7aa0104f5f15",Thái Bình
+http://lehuong.duckdns.org:9981/stream/channelid/1112496432?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Thai_Nguyen_TV1.png" tvg-id="4fdb433107279c274a8aae7c1e4b8288",Thái Nguyên 1
+http://lehuong.duckdns.org:9981/stream/channelid/826530639?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Thua_Thien_Hue_TV.png" tvg-id="b9eee91357e77e3d9d52d4503e3bbda8",Thừa Thiên Huế
+http://lehuong.duckdns.org:9981/stream/channelid/334098105?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Thua_Thien_Hue_TV.png" tvg-id="65ef214d79c732963c1475e9b45f2e7a",Thừa Thiên Huế
+http://lehuong.duckdns.org:9981/stream/channelid/1294069605?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Tien_Giang_TV.png" tvg-id="1919c6a2712eaab750e7a44d9adf041f",Tiền Giang
+http://lehuong.duckdns.org:9981/stream/channelid/583407897?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Tien_Giang_TV.png" tvg-id="8c4563edaf58adf05d71838f3645de74",Tiền Giang
+http://lehuong.duckdns.org:9981/stream/channelid/1835222412?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/tlc.png" tvg-id="4f4a52068bcabe2b269bce572d3c077c",TLC
+http://lehuong.duckdns.org:9981/stream/channelid/106056271?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/tlc.png" tvg-id="68ebb9cb189e500897eb20726bb54c38",TLC
+http://lehuong.duckdns.org:9981/stream/channelid/1270475624?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/189" tvg-id="2c31e8c6843b8d21325ac912f4a55e84",TNN2
+http://lehuong.duckdns.org:9981/stream/channelid/1189622060?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/111" tvg-id="996be970f774c696189490feac771f51",TNN24
+http://lehuong.duckdns.org:9981/stream/channelid/1894345625?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/166" tvg-id="a8a7aefea625bda102dbf17f7d8ee6b2",TNN24
+http://lehuong.duckdns.org:9981/stream/channelid/2125375400?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/171" tvg-id="8ea0bd39fbdea3d8f54edf2fb24ecb38",TPBS
+http://lehuong.duckdns.org:9981/stream/channelid/968728718?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/181" tvg-id="8f63d9443e65739cfbe0529aa83c4fbe",TPBS
+http://lehuong.duckdns.org:9981/stream/channelid/1155097487?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/170" tvg-id="cc83ded8c5184634369bab237c4afa65",TPTV
+http://lehuong.duckdns.org:9981/stream/channelid/1490977740?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Travel&Living.png" tvg-id="85cf96bdadbb43b54a7bff5081ca4709",Travel & Living
+http://lehuong.duckdns.org:9981/stream/channelid/1033293701?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Travel&Living.png" tvg-id="5382766cf6ec0882e758ae6856755ec6",Travel & Living
+http://lehuong.duckdns.org:9981/stream/channelid/1819705939?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Tra_Vinh_TV.png" tvg-id="710962e9902c73c450b7bfa32c7b31c6",Trà Vinh
+http://lehuong.duckdns.org:9981/stream/channelid/1768032625?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Tra_Vinh_TV.png" tvg-id="ff17e2f34e2d7539b17832f99e7cb8c9",Trà Vinh
+http://lehuong.duckdns.org:9981/stream/channelid/1944197119?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/176" tvg-id="b21cef015552948aec913c6634695d2a",TSHOP
+http://lehuong.duckdns.org:9981/stream/channelid/32447666?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/TTXVN.png" tvg-id="2bf40b3f6864761a58bbe6bdd86ff155",TTXVN HD
+http://lehuong.duckdns.org:9981/stream/channelid/1057748011?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Tuyen_Quang_TV.png" tvg-id="03edbccb79ed58856fd2bcbd9d10cb50",Tuyên Quang
+http://lehuong.duckdns.org:9981/stream/channelid/1270672643?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Tuyen_Quang_TV.png" tvg-id="43cea2fbc20a8910f4c03a96c3c3b083",Tuyên Quang
+http://lehuong.duckdns.org:9981/stream/channelid/2074267203?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/158" tvg-id="334642c971a9689944158bdc84ee9eca",TV5
+http://lehuong.duckdns.org:9981/stream/channelid/1229080115?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/173" tvg-id="6e26dd2c46e2c8869f2334510a353709",TV5HD1
+http://lehuong.duckdns.org:9981/stream/channelid/752690798?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/TV5Monde.png" tvg-id="e4dfefebfc6aaaf38b0e92c3072ce9ab",TV5MONDE
+http://lehuong.duckdns.org:9981/stream/channelid/1810882532?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Tay_Ninh_TV11.png" tvg-id="33c30df09e1ff0b8f8c739c47938217b",Tây Ninh 11
+http://lehuong.duckdns.org:9981/stream/channelid/1879950131?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/142" tvg-id="50bc20000758325827494ca8c5945566",Viewwold HD C-sat
+http://lehuong.duckdns.org:9981/stream/channelid/2145360?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/161" tvg-id="00352f51ecbc7110e1879ba00f1d111d",VOICE
+http://lehuong.duckdns.org:9981/stream/channelid/1362048256?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VOV_Giao_thong.png" tvg-id="97fed9c072e98cb22acc9e4576a1a920",VOV Giao thông
+http://lehuong.duckdns.org:9981/stream/channelid/1088028311?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VOV.png" tvg-id="a6cc7a464e756c808593d971d328afcf",VOV TV
+http://lehuong.duckdns.org:9981/stream/channelid/1182452902?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VOV1.png" tvg-id="767ba20826676b6637e27e5ad99dc77a",VOV1
+http://lehuong.duckdns.org:9981/stream/channelid/144866166?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VOV2.png" tvg-id="588de5a91770eea10c22bf100211bfb2",VOV2
+http://lehuong.duckdns.org:9981/stream/channelid/702909784?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VOV3.png" tvg-id="6166b469d28d1137e2854e3efe6f4d94",VOV3 - Âm nhạc
+http://lehuong.duckdns.org:9981/stream/channelid/1773430369?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/219" tvg-id="5831237365315b3f838d9358a833311f",VTC1
+http://lehuong.duckdns.org:9981/stream/channelid/1931686232?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTC_HD_1.png" tvg-id="93d5347adaa6373be90ca596bdd58f72",VTC1 HD
+http://lehuong.duckdns.org:9981/stream/channelid/2050282899?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/208" tvg-id="8dffe294c5dd26ce330ba309f9b3bba9",VTC10
+http://lehuong.duckdns.org:9981/stream/channelid/350420877?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTC10_NetViet.png" tvg-id="7a136a2dd871d229aeef3f9da30219d1",VTC10 - Nét Việt
+http://lehuong.duckdns.org:9981/stream/channelid/761926522?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTC11_kids_TV.png" tvg-id="f86dab8b6e9fcee3ecd5955bbc2f02bf",VTC11 - kids TV
+http://lehuong.duckdns.org:9981/stream/channelid/195784184?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTC13_iTV.png" tvg-id="54bdf008ebcd8bc33ae7d50930023daa",VTC13 - iTV
+http://lehuong.duckdns.org:9981/stream/channelid/149994836?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTC13_iTV_HD.png" tvg-id="83a000292b2bebb4873571a4159839e9",VTC13 - iTV HD
+http://lehuong.duckdns.org:9981/stream/channelid/687906947?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTC14.png" tvg-id="e85f431120a2c09cabdb10f1105541ec",VTC14
+http://lehuong.duckdns.org:9981/stream/channelid/289628136?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/215" tvg-id="3fc25067aa1d7b7d15de63748eec1b40",VTC16
+http://lehuong.duckdns.org:9981/stream/channelid/1733345855?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTC16_3NTV.png" tvg-id="eb15ed421a7fa67b0abc088b6c5ec9cd",VTC16 - 3NTV
+http://lehuong.duckdns.org:9981/stream/channelid/1122833899?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTC2.png" tvg-id="c3f9cff8c366ccc968052a69b2c4f692",VTC2
+http://lehuong.duckdns.org:9981/stream/channelid/2026895811?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTC3_HD.png" tvg-id="989a8796f22b3998b3d27c26c483e5f8",VTC3 HD
+http://lehuong.duckdns.org:9981/stream/channelid/377985688?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTC4.png" tvg-id="f69726ccb2156bd1e6f14e1da98692a0",VTC4
+http://lehuong.duckdns.org:9981/stream/channelid/1277597686?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTC4.png" tvg-id="f23ff7dac39cb584834674e4ede1e420",VTC4 HD
+http://lehuong.duckdns.org:9981/stream/channelid/1526153202?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTC5.png" tvg-id="7121866ab32fdf1edfaa51677a2155bd",VTC5
+http://lehuong.duckdns.org:9981/stream/channelid/1787175281?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/220" tvg-id="cd9f34f4f28b15d0e4d05d1689a823da",VTC5
+http://lehuong.duckdns.org:9981/stream/channelid/1949605837?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTC5.png" tvg-id="7c10836fecfdca698eb32be1e9e4e2af",VTC5 HD
+http://lehuong.duckdns.org:9981/stream/channelid/1870860412?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/217" tvg-id="e8ba6b6a53525b51371c5708b9199529",VTC6
+http://lehuong.duckdns.org:9981/stream/channelid/1785445096?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTC6_Sai_Gon_Channel.png" tvg-id="bbee5cd6a0876a22039e8e6f869229b9",VTC6 - Sài Gòn Channel
+http://lehuong.duckdns.org:9981/stream/channelid/1448931003?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTC7_today_TV.png" tvg-id="25a9ec74b0c5dbffba36fdb0977acd7c",VTC7 - Today TV
+http://lehuong.duckdns.org:9981/stream/channelid/1961666853?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTC7_today_TV.png" tvg-id="e627d544fd55722f3708996174700760",VTC7 HD
+http://lehuong.duckdns.org:9981/stream/channelid/1154820070?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTC8_VITV.png" tvg-id="ad0e971629099109d36a11a52c1f4ac1",VTC8
+http://lehuong.duckdns.org:9981/stream/channelid/378998445?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/218" tvg-id="bedb3c6c68d5a2cc6454759a68528926",VTC8
+http://lehuong.duckdns.org:9981/stream/channelid/1815927742?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTC8_VITV.png" tvg-id="45590d74d5b96c5a8451308bbc5d7dea",VTC8 - VITV
+http://lehuong.duckdns.org:9981/stream/channelid/1947031877?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/210" tvg-id="4e345d1dec12b37fddbba3c6d7679287",VTC9
+http://lehuong.duckdns.org:9981/stream/channelid/492647502?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTC9_Lets_Viet.png" tvg-id="adaa32149cc6ad491f2821f3f5d3daba",VTC9 - Let's Việt
+http://lehuong.duckdns.org:9981/stream/channelid/338864813?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTC9_Lets_Viet.png" tvg-id="be37bbd6bca4c198d6b2d8c4418a24b5",VTC9 HD
+http://lehuong.duckdns.org:9981/stream/channelid/1455110078?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTV1_HD.png" tvg-id="fdc46d1853aac12f1335cbf71b76d6bb",VTV1 HD
+http://lehuong.duckdns.org:9981/stream/channelid/409847037?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTV1_HD.png" tvg-id="da68a9304988f6f07c48625b7513c363",VTV1 HD
+http://lehuong.duckdns.org:9981/stream/channelid/816408794?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTV2.png" tvg-id="358dd2c3f3804df773f94ef25ce1e6f2",VTV2 HD
+http://lehuong.duckdns.org:9981/stream/channelid/1137872181?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/212" tvg-id="2bf3d6c37ad80f75051fe92be6f8fdbe",VTV2 HD
+http://lehuong.duckdns.org:9981/stream/channelid/1138160427?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTV3_HD.png" tvg-id="2a762988a7fddd5d3c9ae32583ec1d14",VTV3 HD
+http://lehuong.duckdns.org:9981/stream/channelid/136934954?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTV3_HD.png" tvg-id="e2a90973fe51a3ee8aa65ee6e305ded1",VTV3 HD
+http://lehuong.duckdns.org:9981/stream/channelid/1930013154?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTV4.png" tvg-id="fa410c3a042f4a827703919739f7c080",VTV4 HD
+http://lehuong.duckdns.org:9981/stream/channelid/973881850?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTV4.png" tvg-id="56272bd0337309934c52971f44f5bc71",VTV4 HD
+http://lehuong.duckdns.org:9981/stream/channelid/1345005398?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTV5.png" tvg-id="22c8c232a8f1cb84e5c00942ef2ec130",VTV5 HD
+http://lehuong.duckdns.org:9981/stream/channelid/851626018?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTV6_HD.png" tvg-id="2a196b009ed861886e61d6bab531e0cc",VTV6 HD
+http://lehuong.duckdns.org:9981/stream/channelid/7018794?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTV6_HD.png" tvg-id="47c8d2604fc22017613973a6916bd170",VTV6 HD
+http://lehuong.duckdns.org:9981/stream/channelid/1624426567?profile=pass
+#EXTINF:-1 logo="http://tduc.tk/logo/vtv8hd.png" tvg-id="61a97cc928928d0df802fe753d3069c0",VTV8 HD
+http://lehuong.duckdns.org:9981/stream/channelid/1232906593?profile=pass
+#EXTINF:-1 logo="http://tduc.tk/logo/vtv8hd.png" tvg-id="206b6866bfa74de7716df90286f96c03",VTV8 HD
+http://lehuong.duckdns.org:9981/stream/channelid/1718119200?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTV9.png" tvg-id="c552a7ad5ca67a2e9f9004df4ea7e3b5",VTV9 HD
+http://lehuong.duckdns.org:9981/stream/channelid/765940421?profile=pass
+#EXTINF:-1 logo="http://lehuong.duckdns.org:9981/imagecache/213" tvg-id="f54065499de88f41c7c005197825e255",VTV9 HD
+http://lehuong.duckdns.org:9981/stream/channelid/1231372533?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab10_O2TV.png" tvg-id="40f3d06e4dd2905f501bff33f32b15ff",VTVcab 10 - O2TV
+http://lehuong.duckdns.org:9981/stream/channelid/1859187520?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab10_O2TV.png" tvg-id="6f82a37b390a2eada1883435a09356bb",VTVcab 10 - O2TV
+http://lehuong.duckdns.org:9981/stream/channelid/2074313327?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab5_E_Channel.png" tvg-id="702c86c9fde7776d34be9db653ce3184",VTVcab 5 - E Channel
+http://lehuong.duckdns.org:9981/stream/channelid/1233529968?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab5_E_Channel.png" tvg-id="cd8ca1d9fdd58be3adb9835fafd7dea7",VTVcab 5 - E Channel
+http://lehuong.duckdns.org:9981/stream/channelid/1503759565?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab6_Hay_TV.png" tvg-id="6b78c18ee60371707b0e84bd94ff18f9",VTVcab 6 - Hay TV
+http://lehuong.duckdns.org:9981/stream/channelid/247560299?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab6_Hay_TV.png" tvg-id="378912e6abacd80865a0133d74db3ee7",VTVcab 6 - Hay TV
+http://lehuong.duckdns.org:9981/stream/channelid/1712490807?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab7_Dramas.png" tvg-id="1ab502134a05c36eebbd8892bd697bab",VTVcab 7 - D Drama
+http://lehuong.duckdns.org:9981/stream/channelid/318944538?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab7_Dramas.png" tvg-id="6ea4681b21c718a3fd0a02bd5606736e",VTVcab 7 - D Drama
+http://lehuong.duckdns.org:9981/stream/channelid/459842670?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab8_BiBi.png" tvg-id="5fd62508e6201752e2acb336581df14d",VTVcab 8 - BiBi
+http://lehuong.duckdns.org:9981/stream/channelid/136697439?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab8_BiBi.png" tvg-id="938a76fd68388d28b7cfa83b2942c42e",VTVcab 8 - BiBi
+http://lehuong.duckdns.org:9981/stream/channelid/2104920723?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab1_Giai_Tri_TV.png" tvg-id="bdf1cfdf385e085d793d567d46736336",VTVCab1 - Giải trí TV
+http://lehuong.duckdns.org:9981/stream/channelid/1607463357?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab12_Style_TV.png" tvg-id="ee7ef5e2e0a4d4c07e970df22385970f",VTVCab12 - Style TV
+http://lehuong.duckdns.org:9981/stream/channelid/1660255982?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab16_Bong_da_TV.png" tvg-id="e40871088fc999a74f9b4ffa432c32ab",VTVCab16 - Bóng Đá TV
+http://lehuong.duckdns.org:9981/stream/channelid/141625572?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab17_yeah1_TV.png" tvg-id="4177e1b90feb029f6d8c5c215040acd0",VTVCab17 - yeah1 TV
+http://lehuong.duckdns.org:9981/stream/channelid/971077441?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab2_Phim_Viet.png" tvg-id="65f2b99ba729d694c8dcb3e72f0d0128",VTVCab2 - Phim Việt
+http://lehuong.duckdns.org:9981/stream/channelid/465171045?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab20.png" tvg-id="c3418359bc4eabd2fa55c3860ea014a4",VTVCab20 - VFamily
+http://lehuong.duckdns.org:9981/stream/channelid/1501774275?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab3_The_thao_TV.png" tvg-id="6f30ee4d8e57421a89f7d62d54df9caf",VTVCab3 - Thể Thao TV
+http://lehuong.duckdns.org:9981/stream/channelid/1307455599?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTVCab4_Kenh_17.png" tvg-id="143e0794558ebe76a7c5b4810751e6fe",VTVCab4 - Kênh 17
+http://lehuong.duckdns.org:9981/stream/channelid/336018964?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Vinh_Long_TV1.png" tvg-id="6ced2dd31b9166fea429d3db494da0e7",Vĩnh Long 1
+http://lehuong.duckdns.org:9981/stream/channelid/1395518828?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Vinh_Long_TV1.png" tvg-id="82ed686988a17a36f392ed8da3c544f5",Vĩnh Long 1
+http://lehuong.duckdns.org:9981/stream/channelid/1768484226?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Vinh_Long_TV2.png" tvg-id="f1ad1b60dec4f31e74582e30408ee070",Vĩnh Long 2
+http://lehuong.duckdns.org:9981/stream/channelid/1612426737?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Vinh_Phuc_TV.png" tvg-id="ccb8bc0cd42cddeb1f90d2606c564bbc",Vĩnh Phúc
+http://lehuong.duckdns.org:9981/stream/channelid/213694668?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Vinh_Phuc_TV.png" tvg-id="e8774a6b338d898bfbe61aecec5e438a",Vĩnh Phúc
+http://lehuong.duckdns.org:9981/stream/channelid/1800042472?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Yen_Bai_TV.png" tvg-id="d598fac0e080f8f15bf7248766ac35d7",Yên Bái
+http://lehuong.duckdns.org:9981/stream/channelid/1090164949?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Yen_Bai_TV.png" tvg-id="d6c33ee863bdc9de9eb3a14ea5b72ed6",Yên Bái
+http://lehuong.duckdns.org:9981/stream/channelid/1748943830?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Dak_Lak_TV.png" tvg-id="fa3c2053b680bdfb2e64f1dfed4a3ed8",Đắk Lắk
+http://lehuong.duckdns.org:9981/stream/channelid/1394621690?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Dong_Nai_TV1.png" tvg-id="4cdf57e29efeb97ff366e73d9a0f02c6",Đồng Nai 1
+http://lehuong.duckdns.org:9981/stream/channelid/1649925964?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Dong_Nai_TV1.png" tvg-id="6f6f57f49eae1667a088bd58dae906fc",Đồng Nai 1
+http://lehuong.duckdns.org:9981/stream/channelid/1951887215?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Dong_Nai_TV2.png" tvg-id="0eef75c904c9f4478f8f650c340e784d",Đồng Nai 2
+http://lehuong.duckdns.org:9981/stream/channelid/1232465678?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Dong_Nai_TV2.png" tvg-id="1cb02a635e2383efb1b3abdae7ca0c8b",Đồng Nai 2
+http://lehuong.duckdns.org:9981/stream/channelid/1663741980?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Dong_Thap_TV.png" tvg-id="2ed1260ea0e30db0efd307cd09ad50e7",Đồng Tháp
+http://lehuong.duckdns.org:9981/stream/channelid/237424942?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Dong_Thap_TV.png" tvg-id="f95c63dcfa9c61d60c5962e2be09fd0b",Đồng Tháp
+http://lehuong.duckdns.org:9981/stream/channelid/1550015737?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Asian_Food_Channel.png" tvg-id="047033a087c25acb8ae99a29b9f7b5d3" tvg-chno="1",ASIAN FOOD CHANNEL HD
+http://lehuong.duckdns.org:9981/stream/channelid/540241924?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/AXN.png" tvg-id="363fe5f14c777ef16c19ee24890dc59a" tvg-chno="1",AXN
+http://lehuong.duckdns.org:9981/stream/channelid/1910849334?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Bac_Ninh_TV.png" tvg-id="9109828189fc49f9e6fabf2115eeb874" tvg-chno="1",Bắc Ninh HD
+http://lehuong.duckdns.org:9981/stream/channelid/25299345?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Cartoon_Network.png" tvg-id="b632ef3c0a652e1dcef69681499853d6" tvg-chno="1",CARTOON NETWORK HD
+http://lehuong.duckdns.org:9981/stream/channelid/1022309046?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/CNN.png" tvg-id="6e0d06d835c6c66ada0ddb8f6c52e920" tvg-chno="1",CNN
+http://lehuong.duckdns.org:9981/stream/channelid/1476791662?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/CNN.png" tvg-id="2cb29b70868283e32b29a58e23ca77e3" tvg-chno="1",CNN
+http://lehuong.duckdns.org:9981/stream/channelid/1889251884?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Discovery_Channel.png" tvg-id="460b1711fc5858ea011262ebbaf5423e" tvg-chno="1",DISCOVERY HD
+http://lehuong.duckdns.org:9981/stream/channelid/286722886?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Fashion.png" tvg-id="6a4320ba5c8bb88c379f210966fb30fb" tvg-chno="1",FASHION TV HD
+http://lehuong.duckdns.org:9981/stream/channelid/975192938?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Fox_Movies_HD.png" tvg-id="90e4ff01dd94a9c5360456bbd60bf752" tvg-chno="1",FOX MOVIES HD
+http://lehuong.duckdns.org:9981/stream/channelid/33547408?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/FOX_SPORTS.png" tvg-id="8322b15cbb447d2fe25e38181d7aa8b0" tvg-chno="1",FOX SPORT HD
+http://lehuong.duckdns.org:9981/stream/channelid/1555112579?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/FOX_SPORTS.png" tvg-id="ef986b4257e7e415a03d3059119e20dd" tvg-chno="1",FOX SPORTS
+http://lehuong.duckdns.org:9981/stream/channelid/1114347759?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/FOX_SPORTS_2.png" tvg-id="8141046d38ca6c18b28037afb234d7d2" tvg-chno="1",FOX Sports 2
+http://lehuong.duckdns.org:9981/stream/channelid/1828995457?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/HBO.png" tvg-id="9c5994f2b9efa33da717aa6eb58c3a63" tvg-chno="1",HBO
+http://lehuong.duckdns.org:9981/stream/channelid/1922324892?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Ha_Noi_TV1.png" tvg-id="7fe106602775440acf9fa59573d44e32" tvg-chno="1",Hà Nội 1
+http://lehuong.duckdns.org:9981/stream/channelid/1611063679?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Ha_Noi_TV2.png" tvg-id="e88cacc063e334be1a2d87a8185adaa6" tvg-chno="1",Hà Nội 2
+http://lehuong.duckdns.org:9981/stream/channelid/1085050088?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/K_1.png" tvg-id="0711c4caf78d5d2e329f501ce9b88031" tvg-chno="1",K+1
+http://lehuong.duckdns.org:9981/stream/channelid/1254363399?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/K_1.png" tvg-id="cc4b1e496029411a616f5a160a450463" tvg-chno="1",K+1 HD
+http://lehuong.duckdns.org:9981/stream/channelid/1226722252?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/K_NS.png" tvg-id="e21e417b7de188393a84e68e7330524d" tvg-chno="1",K+NS
+http://lehuong.duckdns.org:9981/stream/channelid/2067865314?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/K_NS.png" tvg-id="a6fe0976a2e213d34609c12453bdfab7" tvg-chno="1",K+NS HD
+http://lehuong.duckdns.org:9981/stream/channelid/1980366502?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/K_PC.png" tvg-id="192ff90df1ac3925fb2bd8cfea264d45" tvg-chno="1",K+PC
+http://lehuong.duckdns.org:9981/stream/channelid/234434329?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/K_PC.png" tvg-id="e2fce7d2170ed8a1508d17c99e373e84" tvg-chno="1",K+PC HD
+http://lehuong.duckdns.org:9981/stream/channelid/1390935266?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/K_PM.png" tvg-id="3610cacfa33653e28a6b98606b49396f" tvg-chno="1",K+PM
+http://lehuong.duckdns.org:9981/stream/channelid/1338642486?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/K_PM.png" tvg-id="64d12eda8eeb6a86d7b4374cc9b6cb29" tvg-chno="1",K+PM HD
+http://lehuong.duckdns.org:9981/stream/channelid/1513017700?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/max-by-hbo.png" tvg-id="9d84f3d068bdb46de5f5fab099e20f28" tvg-chno="1",MAX BY HBO
+http://lehuong.duckdns.org:9981/stream/channelid/1358136477?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/TTXVN.png" tvg-id="27ca1994e05d6e127d3987911b2146d7" tvg-chno="1",Thông tấn xã Việt Nam
+http://lehuong.duckdns.org:9981/stream/channelid/337234471?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/toonami.png" tvg-id="20c3cd078a43a0c5b0dec6ef38566176" tvg-chno="1",TOMNAMI Cartoon
+http://lehuong.duckdns.org:9981/stream/channelid/130925344?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTC1.png" tvg-id="6a8047ea24167e6689ed7e206e0f6550" tvg-chno="1",VTC1
+http://lehuong.duckdns.org:9981/stream/channelid/1783070826?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTC3.png" tvg-id="2bc8f97b9b3d97edebe9e5309d716dfc" tvg-chno="1",VTC3
+http://lehuong.duckdns.org:9981/stream/channelid/2079967275?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTC3_HD.png" tvg-id="32ff9f3115def658387735ec818644d5" tvg-chno="1",VTC3 HD
+http://lehuong.duckdns.org:9981/stream/channelid/832569138?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/VTV5.png" tvg-id="a69ab4a9a0d583aefda0dd5f2acf602b" tvg-chno="1",VTV5 HD
+http://lehuong.duckdns.org:9981/stream/channelid/699701926?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Vinh_Long_TV2.png" tvg-id="921c264f545ceff88937a0d78838bf14" tvg-chno="1",Vĩnh Long 2
+http://lehuong.duckdns.org:9981/stream/channelid/1327897746?profile=pass
+#EXTINF:-1 logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Warner_hd.png" tvg-id="c5cd16a0694130649f5bc0e583220dbd" tvg-chno="1",WARNER BROS HD
+http://lehuong.duckdns.org:9981/stream/channelid/538365381?profile=pass
