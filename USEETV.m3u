@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1,Bein Sports 1 HD [ID]
+http://118.97.96.17:1935/discover/beib1_3/playlist.m3u8
+#EXTINF:-1,Bein Sports 2 HD  [ID]
+http://118.97.96.17:1935/discover/beib2_3/playlist.m3u8
+#EXTINF:-1,fox sports 1 HD [ID] 
+http://118.97.96.17:1935/discover/foxsport1_3/playlist.m3u8
+#EXTINF:-1,fox sports 2 HD [ID] 
+http://118.97.96.17:1935/discover/foxsport2_3/playlist.m3u8
+#EXTINF:-1,fox sports 3 HD [ID] 
+http://118.97.96.17:1935/discover/foxsport3_3/playlist.m3u8
+#EXTINF:-1,Natgeo HD [ID]
+http://118.97.96.17:1935/discover/natgeo_3/playlist.m3u8
+#EXTINF:-1,nat geo people HD [ID]
+http://118.97.96.17:1935/discover/natgeopeople_3/playlist.m3u8
+#EXTINF:-1,nat geo wild  [ID]
+http://118.97.96.17:1935/discover/natgeowild_3/playlist.m3u8
+#EXTINF:-1,history HD [ID]
+http://118.97.96.17:1935/discover/history_3/playlist.m3u8
+#EXTINF:-1,sbsin HD [ID]
+http://118.97.96.17:1935/discover/sbsin_3/playlist.m3u8
+#EXTINF:-1,discovery HD [ID]
+http://118.97.96.17:1935/discover/disco_3/playlist.m3u8
+#EXTINF:-1,ohk HD [ID]
+http://118.97.96.17:1935/discover/ohk_3/playlist.m3u8
+#EXTINF:-1,waku waku HD [ID]
+http://118.97.96.17:1935/discover/wakuwaku_3/playlist.m3u8
+#EXTINF:-1,afc HD [ID]
+http://118.97.96.17:1935/discover/afc_3/playlist.m3u8
+#EXTINF:-1,axn HD [ID]
+http://118.97.96.17:1935/discover/axn_3/playlist.m3u8
+#EXTINF:-1,Bein Sports 1 SD [ID]
+http://118.97.96.17:1935/discover/beib1_3/playlist.m3u8
+#EXTINF:-1,Bein Sports 2 SD  [ID]
+http://118.97.96.17:1935/discover/beib2_3/playlist.m3u8
+#EXTINF:-1,fox sports 1 SD [ID] 
+http://118.97.96.17:1935/discover/foxsport1_3/playlist.m3u8
+#EXTINF:-1,fox sports 2 SD [ID] 
+http://118.97.96.17:1935/discover/foxsport2_3/playlist.m3u8
+#EXTINF:-1,fox sports 3 SD [ID] 
+http://118.97.96.17:1935/discover/foxsport3_3/playlist.m3u8
+#EXTINF:-1,Natgeo SD [ID]
+http://118.97.96.17:1935/discover/natgeo_3/playlist.m3u8
+#EXTINF:-1,nat geo people SD [ID]
+http://118.97.96.17:1935/discover/natgeopeople_3/playlist.m3u8
+#EXTINF:-1,nat geo wild  [ID]
+http://118.97.96.17:1935/discover/natgeowild_3/playlist.m3u8
+#EXTINF:-1,history SD [ID]
+http://118.97.96.17:1935/discover/history_3/playlist.m3u8
+#EXTINF:-1,sbsin SD [ID]
+http://118.97.96.17:1935/discover/sbsin_3/playlist.m3u8
+#EXTINF:-1,discovery SD [ID]
+http://118.97.96.17:1935/discover/disco_3/playlist.m3u8
+#EXTINF:-1,ohk SD [ID]
+http://118.97.96.17:1935/discover/ohk_3/playlist.m3u8
+#EXTINF:-1,waku waku SD [ID]
+http://118.97.96.17:1935/discover/wakuwaku_3/playlist.m3u8
+#EXTINF:-1,afc SD [ID]
+http://118.97.96.17:1935/discover/afc_3/playlist.m3u8
+#EXTINF:-1,axn SD [ID]
+http://118.97.96.17:1935/discover/axn_3/playlist.m3u8
