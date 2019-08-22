@@ -1,5 +1,5 @@
 #EXTM3U
-EXTINF:-1,9MCOT HD [Thaicom KU]
+#EXTINF:-1,9MCOT HD [Thaicom KU]
 http://49.49.4.202:9981/stream/channelid/974571042
 #EXTINF:-1,MCOT Kids [Thaicom KU]
 http://49.49.4.202:9981/stream/channelid/910057407
