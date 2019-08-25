@@ -133,7 +133,7 @@ http://43.245.34.2:9000/live/CNCKH.m3u8
 http://43.245.34.2:9000/live/CTNKH.m3u8
 #EXTINF:-1,MyTV [Cambodia]
 http://43.245.34.2:9000/live/MyTVKH.m3u8
-#EXTINF:-1,Eleven Sports 1 HD
+#EXTINF:-1,Eleven Sports 1 HD [Taiwan]
 http://61.58.60.230:9319/live/75.m3u8
-#EXTINF:-1,Eleven Sports 2 HD
+#EXTINF:-1,Eleven Sports 2 HD[Taiean]
 http://61.58.60.230:9319/live/102.m3u8
