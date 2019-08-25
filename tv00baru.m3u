@@ -143,3 +143,67 @@ http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m
 http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
 #EXTINF:-1,RTM Sport 
 http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
+#EXTINF:-1,Bein Sports  Max 7
+http://89.38.97.48:8080/TV2510
+#EXTINF:-1,Bein Sports  Max 8
+http://89.38.97.48:8080/TV2511
+#EXTINF:-1,Bein Sports  Max 9
+http://89.38.97.48:8080/TV2520
+#EXTINF:-1,Trace Urban
+http://89.38.97.48:8080/TV2529
+#EXTINF:-1,Bein Sports  Max 4
+http://89.38.97.48:8080/TV2536
+#EXTINF:-1,Bein Sports  Max 5
+http://89.38.97.48:8080/TV2537
+#EXTINF:-1,Bein Sports  Max 6
+http://89.38.97.48:8080/TV2538
+#EXTINF:-1,OL TV Sports
+http://89.38.97.48:8080/TV2546
+#EXTINF:-1,RMC Sports 4
+http://89.38.97.48:8080/TV2548
+#EXTINF:-1,C Star Hits
+http://89.38.97.48:8080/TV2556
+#EXTINF:-1,Eleven Sports 1 SD
+http://89.38.97.48:8080/TV2565
+#EXTINF:-1,Eleven Sports 2 SD
+http://89.38.97.48:8080/TV2566
+#EXTINF:-1,FOOT Plus Sports
+http://89.38.97.48:8080/TV2576
+#EXTINF:-1,M Liga Sports
+http://89.38.97.48:8080/TV2578
+#EXTINF:-1,M Series Mania
+http://89.38.97.48:8080/TV2579
+#EXTINF:-1,M Formula 1
+http://89.38.97.48:8080/TV2582
+#EXTINF:-1,M Series
+http://89.38.97.48:8080/TV2590
+#EXTINF:-1,M Estrenos
+http://89.38.97.48:8080/TV2597
+#EXTINF:-1,#V Sports
+http://89.38.97.48:8080/TV2598
+#EXTINF:-1,Sky Sports Serie A
+http://89.38.97.48:8080/TV2635
+#EXTINF:-1,RAI 5 HD
+http://89.38.97.48:8080/TV2642
+#EXTINF:-1,WARNING 4
+http://89.38.97.48:8080/TV2714
+#EXTINF:-1,Sky Cinema
+http://89.38.97.48:8080/TV2712
+#EXTINF:-1,Sky Sports 1
+http://89.38.97.48:8080/TV2721
+#EXTINF:-1,Sky Sports 2 HD
+http://89.38.97.48:8080/TV2719
+#EXTINF:-1,Sky Sports Austria 1
+http://89.38.97.48:8080/TV2728
+#EXTINF:-1,Zee ONE
+http://89.38.97.48:8080/TV2733
+#EXTINF:-1,Super Sports 1 HD
+http://89.38.97.48:8080/TV3037
+#EXTINF:-1,Super Sports 2 HD
+http://89.38.97.48:8080/TV3038
+#EXTINF:-1,Q Sports 1 HD
+http://89.38.97.48:8080/TV3086
+#EXTINF:-1,Q Sports 2 HD
+http://89.38.97.48:8080/TV3095
+#EXTINF:-1,Super Sports 3 HD
+http://89.38.97.48:8080/TV3039
