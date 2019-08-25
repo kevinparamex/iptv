@@ -121,3 +121,15 @@ http://183.89.112.169:1040
 http://183.89.112.169:1036
 #EXTINF:-1,True4U [Thai]
 http://183.89.112.169:1029
+#EXTINF:-1,TV5 [Cambodia]
+http://43.245.34.2:9000/live/TV5KH.m3u8
+#EXTINF:-1,TV3 [Cambodia]
+http://43.245.34.2:9000/live/TV3KH.m3u8
+#EXTINF:-1,TV9 [Cambodia]
+http://43.245.34.2:9000/live/TV9KH.m3u8
+#EXTINF:-1,CNC TV [Cambodia]
+http://43.245.34.2:9000/live/CNCKH.m3u8
+#EXTINF:-1,CTN TV [Cambodia]
+http://43.245.34.2:9000/live/CTNKH.m3u8
+#EXTINF:-1,MyTV [Cambodia]
+http://43.245.34.2:9000/live/MyTVKH.m3u8
