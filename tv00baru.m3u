@@ -207,11 +207,3 @@ http://89.38.97.48:8080/TV3086
 http://89.38.97.48:8080/TV3095
 #EXTINF:-1,Super Sports 3 HD
 http://89.38.97.48:8080/TV3039
-#EXTINF:-1, K+1 HD [Viet]
-http://vuthanh:123321@azukavn.ddns.net:9981/stream/channelid/1802686228
-#EXTINF:-1, K+PM HD [Viet]
-http://vuthanh:123321@azukavn.ddns.net:9981/stream/channelid/2070037516
-#EXTINF:-1, K+NS HD [Viet]
-http://vuthanh:123321@azukavn.ddns.net:9981/stream/channelid/821903974
-#EXTINF:-1, K+PC HD [Viet]
-http://vuthanh:123321@azukavn.ddns.net:9981/stream/channelid/1898279772
