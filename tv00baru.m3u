@@ -114,13 +114,13 @@ http://89.38.97.48:8080/TV1503
 #EXTINF:-1,Star Sports 1 HD
 http://89.38.97.48:8080/TV1504
 #EXTINF:-1,SMM [Thai]
-http://183.89.112.169:1014
+http://183.89.113.1:1014
 #EXTINF:-1,PPTV HD [Thai]
-http://183.89.112.169:1040
+http://183.89.113.1:1040
 #EXTINF:-1,Thairath TV HD [Thai]
-http://183.89.112.169:1036
+http://183.89.113.1:1036
 #EXTINF:-1,True4U [Thai]
-http://183.89.112.169:1029
+http://183.89.113.1:1029
 #EXTINF:-1,TV5 [Cambodia]
 http://43.245.34.2:9000/live/TV5KH.m3u8
 #EXTINF:-1,TV3 [Cambodia]
