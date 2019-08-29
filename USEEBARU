@@ -1,0 +1,12 @@
+
+#EXTM3U
+#EXTINF:-1,Galaxy [ID]
+http://cdnmdc1.useetv.com/joss/15/galaxy/chunklist.m3u8
+#EXTINF:-1,Usee Sports
+http://cdnmdc1.useetv.com/joss/15/useesport/chunklist.m3u8
+#EXTINF:-1,Fox Sporst 1 [ID]
+http://cdnmdc2.useetv.com/joss/17/foxsport1/chunklist.m3u8
+#EXTINF:-1,Fox Sporst 2 [ID]
+http://cdnmdc2.useetv.com/joss/17/foxsport2/chunklist.m3u8
+#EXTINF:-1,Fox Sporst 3 [ID]
+http://cdnmdc2.useetv.com/joss/17/foxsport3/chunklist.m3u8
