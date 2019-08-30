@@ -1,6 +1,74 @@
 #EXTM3U
 #EXTINF:-1,Galaxy [ID]
 http://cdnmdc2.useetv.com/joss/15/galaxy/chunklist.m3u8
+#EXTINF:-1,NHK [ID]
+http://cdnmdc2.useetv.com/joss/14/nhkworld/chunklist.m3u8
+#EXTINF:-1,TV5 Monde [ID]
+http://cdnmdc2.useetv.com/joss/14/tv5monde/chunklist.m3u8
+#EXTINF:-1,Pelangi [ID]
+http://cdnmdc2.useetv.com/joss/14/pelangi/chunklist.m3u8
+#EXTINF:-1,Dream Works [ID]
+http://cdnmdc2.useetv.com/joss/15/dreamworks/chunklist.m3u8
+#EXTINF:-1,FLIK [ID]
+http://cdnmdc2.useetv.com/joss/15/flik/chunklist.m3u8
+#EXTINF:-1,Da Vinci [ID]
+http://cdnmdc2.useetv.com/joss/14/davinci/chunklist.m3u8
+#EXTINF:-1,Golf Plus [ID]
+http://cdnmdc2.useetv.com/joss/15/golfplus/chunklist.m3u8
+#EXTINF:-1,JITV [ID]
+http://cdnmdc2.useetv.com/joss/14/jitv/chunklist.m3u8
+#EXTINF:-1,EGG TV [ID]
+http://cdnmdc2.useetv.com/joss/14/egg/chunklist.m3u8
+#EXTINF:-1,Eatgo [ID]
+http://cdnmdc2.useetv.com/joss/14/eatgo/chunklist.m3u8
+#EXTINF:-1,Fashion TV [ID]
+http://cdnmdc2.useetv.com/joss/15/fashiontv/chunklist.m3u8
+#EXTINF:-1,Aniplus [ID]
+http://cdnmdc2.useetv.com/joss/14/aniplus/chunklist.m3u8
+#EXTINF:-1,Prambors TV [ID]
+http://cdnmdc2.useetv.com/joss/14/pramborstv/chunklist.m3u8
+#EXTINF:-1,Fashion One [ID]
+http://cdnmdc2.useetv.com/joss/15/fashionone/chunklist.m3u8
+#EXTINF:-1,Spacetoon Plus [ID]
+http://cdnmdc2.useetv.com/joss/14/spacetoonplus/chunklist.m3u8
+#EXTINF:-1,HI Indo [ID]
+http://cdnmdc2.useetv.com/joss/14/hiindo/chunklist.m3u8
+#EXTINF:-1,DMI Channels [ID]
+http://cdnmdc2.useetv.com/joss/14/dmi/chunklist.m3u8
+#EXTINF:-1,MY TV [ID]
+http://cdnmdc2.useetv.com/joss/14/mytv/chunklist.m3u8
+#EXTINF:-1,DAAI TV [ID]
+http://cdnmdc2.useetv.com/joss/14/daaitv/chunklist.m3u8
+#EXTINF:-1,Bioskop Indonesia [ID]
+http://cdnmdc2.useetv.com/joss/14/bioskopindonesia/chunklist.m3u8
+#EXTINF:-1,IMC [ID]
+http://cdnmdc2.useetv.com/joss/14/imc/chunklist.m3u8
+#EXTINF:-1,T Music [ID]
+http://cdnmdc2.useetv.com/joss/14/tmusic/chunklist.m3u8
+#EXTINF:-1,U Channels [ID]
+http://cdnmdc2.useetv.com/joss/14/uchannel/chunklist.m3u8
+#EXTINF:-1,Insert [ID]
+http://cdnmdc2.useetv.com/joss/14/insert/chunklist.m3u8
+#EXTINF:-1,Chinese Drama [ID]
+http://cdnmdc2.useetv.com/joss/14/chinesedrama/chunklist.m3u8
+#EXTINF:-1,Duck TV [ID]
+http://cdnmdc2.useetv.com/joss/14/ducktv/chunklist.m3u8
+#EXTINF:-1,Dunia Lain [ID]
+http://cdnmdc2.useetv.com/joss/14/dunialain/chunklist.m3u8
+#EXTINF:-1,JTV [ID]
+http://cdnmdc2.useetv.com/joss/14/jtv/chunklist.m3u8
+#EXTINF:-1,Dunia Anak [ID]
+http://cdnmdc2.useetv.com/joss/14/duniaanak/chunklist.m3u8
+#EXTINF:-1,JAK TV [ID]
+http://cdnmdc2.useetv.com/joss/14/jaktv/chunklist.m3u8
+#EXTINF:-1,Zee Bioskop [ID]
+http://cdnmdc2.useetv.com/joss/14/zbioskop/chunklist.m3u8
+#EXTINF:-1,Khazanah [ID]
+http://cdnmdc2.useetv.com/joss/14/khazanah/chunklist.m3u8
+#EXTINF:-1,RTV [ID]
+http://cdnmdc2.useetv.com/joss/14/rtv/chunklist.m3u8
+#EXTINF:-1,NBA[ID]
+http://cdnmdc2.useetv.com/joss/15/nba/chunklist.m3u8
 #EXTINF:-1,Usee Sports [ID]
 http://cdnmdc2.useetv.com/joss/15/useesport/chunklist.m3u8
 #EXTINF:-1,Usee Prime [ID]
