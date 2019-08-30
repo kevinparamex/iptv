@@ -1,61 +1,51 @@
-#EXTM3U
-#EXTINF:-1,Bein Sports 1 HD [ID]
-http://118.97.96.17:1935/discover/beib1_4/playlist.m3u8
-#EXTINF:-1,Bein Sports 2 HD  [ID]
-http://118.97.96.17:1935/discover/beib2_4/playlist.m3u8
-#EXTINF:-1,fox sports 1 HD [ID] 
-http://118.97.96.17:1935/discover/foxsport1_4/playlist.m3u8
-#EXTINF:-1,fox sports 2 HD [ID] 
-http://118.97.96.17:1935/discover/foxsport2_4/playlist.m3u8
-#EXTINF:-1,fox sports 3 HD [ID] 
-http://118.97.96.17:1935/discover/foxsport3_4/playlist.m3u8
-#EXTINF:-1,Natgeo HD [ID]
-http://118.97.96.17:1935/discover/natgeo_4/playlist.m3u8
-#EXTINF:-1,nat geo people HD [ID]
-http://118.97.96.17:1935/discover/natgeopeople_4/playlist.m3u8
-#EXTINF:-1,nat geo wild  [ID]
-http://118.97.96.17:1935/discover/natgeowild_4/playlist.m3u8
-#EXTINF:-1,history HD [ID]
-http://118.97.96.17:1935/discover/history_4/playlist.m3u8
-#EXTINF:-1,sbsin HD [ID]
-http://118.97.96.17:1935/discover/sbsin_4/playlist.m3u8
-#EXTINF:-1,discovery HD [ID]
-http://118.97.96.17:1935/discover/disco_4/playlist.m3u8
-#EXTINF:-1,ohk HD [ID]
-http://118.97.96.17:1935/discover/ohk_4/playlist.m3u8
-#EXTINF:-1,waku waku HD [ID]
-http://118.97.96.17:1935/discover/wakuwaku_4/playlist.m3u8
-#EXTINF:-1,afc HD [ID]
-http://118.97.96.17:1935/discover/afc_4/playlist.m3u8
-#EXTINF:-1,axn HD [ID]
-http://118.97.96.17:1935/discover/axn_4/playlist.m3u8
-#EXTINF:-1,Bein Sports 1 SD [ID]
-http://118.97.96.17:1935/discover/beib1_3/playlist.m3u8
-#EXTINF:-1,Bein Sports 2 SD  [ID]
-http://118.97.96.17:1935/discover/beib2_3/playlist.m3u8
-#EXTINF:-1,fox sports 1 SD [ID] 
-http://118.97.96.17:1935/discover/foxsport1_3/playlist.m3u8
-#EXTINF:-1,fox sports 2 SD [ID] 
-http://118.97.96.17:1935/discover/foxsport2_3/playlist.m3u8
-#EXTINF:-1,fox sports 3 SD [ID] 
-http://118.97.96.17:1935/discover/foxsport3_3/playlist.m3u8
-#EXTINF:-1,Natgeo SD [ID]
-http://118.97.96.17:1935/discover/natgeo_3/playlist.m3u8
-#EXTINF:-1,nat geo people SD [ID]
-http://118.97.96.17:1935/discover/natgeopeople_3/playlist.m3u8
-#EXTINF:-1,nat geo wild  [ID]
-http://118.97.96.17:1935/discover/natgeowild_3/playlist.m3u8
-#EXTINF:-1,history SD [ID]
-http://118.97.96.17:1935/discover/history_3/playlist.m3u8
-#EXTINF:-1,sbsin SD [ID]
-http://118.97.96.17:1935/discover/sbsin_3/playlist.m3u8
-#EXTINF:-1,discovery SD [ID]
-http://118.97.96.17:1935/discover/disco_3/playlist.m3u8
-#EXTINF:-1,ohk SD [ID]
-http://118.97.96.17:1935/discover/ohk_3/playlist.m3u8
-#EXTINF:-1,waku waku SD [ID]
-http://118.97.96.17:1935/discover/wakuwaku_3/playlist.m3u8
-#EXTINF:-1,afc SD [ID]
-http://118.97.96.17:1935/discover/afc_3/playlist.m3u8
-#EXTINF:-1,axn SD [ID]
-http://118.97.96.17:1935/discover/axn_3/playlist.m3u8
+#EXTINF:-1,
+Metro TV [ID]
+http://cdnmdc1.useetv.com/joss/15/metrotv/chunklist.m3u8
+#EXTINF:-1,TVRI [ID]
+http://cdnmdc1.useetv.com/joss/15/tvri/chunklist.m3u8
+#EXTINF:-1,Trans TV [ID]
+http://cdnmdc1.useetv.com/joss/15/transtv/chunklist.m3u8
+#EXTINF:-1,ANTV [ID]
+http://cdnmdc1.useetv.com/joss/15/antv/chunklist.m3u8
+#EXTINF:-1,Trans 7 [ID]
+http://cdnmdc1.useetv.com/joss/15/trans7/chunklist.m3u8
+#EXTINF:-1,SCTV [ID]
+http://cdnmdc1.useetv.com/joss/15/sctv/chunklist.m3u8
+#EXTINF:-1,NET TV [ID]
+http://cdnmdc1.useetv.com/joss/15/net/chunklist.m3u8
+#EXTINF:-1,TV ONE [ID]
+http://cdnmdc1.useetv.com/joss/15/tvone/chunklist.m3u8
+#EXTINF:-1,Indosiar [ID]
+http://cdnmdc1.useetv.com/joss/15/indosiar/chunklist.m3u8
+#EXTINF:-1,Kompas TV [ID]
+http://cdnmdc1.useetv.com/joss/15/kompastv/chunklist.m3u8
+#EXTINF:-1,K Plus [ID]
+http://cdnmdc1.useetv.com/joss/15/kplus/chunklist.m3u8
+#EXTINF:-1,S_ONE [ID]
+http://cdnmdc1.useetv.com/joss/15/sone/chunklist.m3u8
+#EXTINF:-1,S_GEM [ID]
+http://cdnmdc1.useetv.com/joss/15/sgem/chunklist.m3u8
+#EXTINF:-1,AXN [ID]
+http://cdnmdc1.useetv.com/joss/17/axn/chunklist.m3u8
+#EXTINF:-1,National Geographic [ID]
+http://cdnmdc1.useetv.com/joss/17/natgeo/chunklist.m3u8
+#EXTINF:-1, Nat Geo People [ID]
+http://cdnmdc1.useetv.com/joss/17/natgeopeople/chunklist.m3u8
+#EXTINF:-1, Nat Geo Wild [ID]
+http://cdnmdc1.useetv.com/joss/17/wakuwaku/chunklist.m3u8
+#EXTINF:-1,waku waku [ID]
+http://cdnmdc1.useetv.com/joss/17/natgeowild/chunklist.m3u8
+#EXTINF:-1, Bein sports 1 [ID]
+http://cdnmdc1.useetv.com/joss/17/bein1/chunklist.m3u8
+#EXTINF:-1, Bein sports 2 [ID]
+http://cdnmdc1.useetv.com/joss/17/bein2/chunklist.m3u8
+#EXTINF:-1,History [ID]
+http://cdnmdc1.useetv.com/joss/17/history/chunklist.m3u8
+#EXTINF:-1,sbsin [ID]
+http://cdnmdc1.useetv.com/joss/17/sbsin/chunklist.m3u8
+#EXTINF:-1,Discovery [ID]
+http://cdnmdc1.useetv.com/joss/17/disco/chunklist.m3u8
+#EXTINF:-1,ohk [ID]
+http://cdnmdc1.useetv.com/joss/17/ohk/chunklist.m3u8
+#EXTINF:-1,AFC [ID]
+http://cdnmdc1.useetv.com/joss/17/afc/chunklist.m3u8
