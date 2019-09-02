@@ -125,3 +125,9 @@ http://cdnmdc1.useetv.com/joss/17/disco/chunklist.m3u8
 http://cdnmdc1.useetv.com/joss/17/ohk/chunklist.m3u8
 #EXTINF:-1,AFC [ID]
 http://cdnmdc1.useetv.com/joss/17/afc/chunklist.m3u8
+#EXTINF:-1,Fox Sports 1 [ID]
+http://cdnmdc1.useetv.com/joss/17/foxsport1/chunklist.m3u8
+#EXTINF:-1,Fox Sports 2 [ID]
+http://cdnmdc1.useetv.com/joss/17/foxsport2/chunklist.m3u8
+#EXTINF:-1,Fox Sports 3 [ID]
+http://cdnmdc1.useetv.com/joss/17/foxsport3/chunklist.m3u8
