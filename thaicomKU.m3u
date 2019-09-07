@@ -1,74 +1,147 @@
 #EXTM3U
-#EXTINF:-1,9MCOT HD	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/1060445606
-#EXTINF:-1,MCOT Kids	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/86811320
-#EXTINF:-1,NBT HD	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/795392942
-#EXTINF:-1,NBT-NORTH	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/646058817
-#EXTINF:-1,Spring News	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/155521935
-#EXTINF:-1,Thairath TV	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/995014623
-#EXTINF:-1,TPTV	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/372674317
-#EXTINF:-1,Voice TV	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/677756271
-#EXTINF:-1,TV5 HD1	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/980474830
-#EXTINF:-1,THAIPBS HD	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/871431431
-#EXTINF:-1,3 Family	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/569263696
-#EXTINF:-1,TNN24	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/177119435
-#EXTINF:-1,NEW 18	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/422996975
-#EXTINF:-1,Nation TV	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/372285311
-#EXTINF:-1,Workpoint TV	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/1561257707
-#EXTINF:-1,True4U	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/1386247318
-#EXTINF:-1,GMM25	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/943137092
-#EXTINF:-1,CH8	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/1575078783
-#EXTINF:-1,3 SD	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/1473294847
-#EXTINF:-1,MONO29	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/459267201
-#EXTINF:-1,ONE HD	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/1532874363
-#EXTINF:-1,3 HD	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/88411625
-#EXTINF:-1,Amarin TV HD	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/1851140792
-#EXTINF:-1,CH7 HD	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/365487948
-#EXTINF:-1,PPTV HD	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/438018177
-#EXTINF:-1,Live Sky 1	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/429285255
-#EXTINF:-1,Live Sky 2	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/1490851876
-#EXTINF:-1,Live Sky 3	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/1817460355
-#EXTINF:-1,SKY World	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/473106758
-#EXTINF:-1,SKY Asia	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/1754998464
-#EXTINF:-1,SKY 1	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/1842973481
-#EXTINF:-1,SKY 2	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/1954322827
-#EXTINF:-1,SKY 3	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/2016089705
-#EXTINF:-1,SKY 4	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/1084883744
-#EXTINF:-1,CSAT เหนือ HD	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/2010374927
-#EXTINF:-1,Movie Sat Asia HD	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/395638614
-#EXTINF:-1,FOX Life	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/189973455
-#EXTINF:-1,FOX ไทย	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/2068748036
-#EXTINF:-1,FX	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/1366429738
-#EXTINF:-1,FOX Family Movies	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/107821013
-#EXTINF:-1,Star Chinese	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/2073852658
-#EXTINF:-1,FOX Sport	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/763832141
-#EXTINF:-1,FOX Sport 2	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/693397149
-#EXTINF:-1,FOX Sport 3	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/689070919
-#EXTINF:-1,T Sport	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/1019469552
-#EXTINF:-1,FOX News	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/1035005726
-#EXTINF:-1,Al Jazeera	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/675525374
-#EXTINF:-1,France24	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/769433876
-#EXTINF:-1,Russia Today	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/681423701
-#EXTINF:-1,Channel New Asia	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/468187106
-#EXTINF:-1,DW	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/1419989468
-#EXTINF:-1,TV5	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/505588105
-#EXTINF:-1,NHK World Japan	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/732650588
-#EXTINF:-1,CCTV 4	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/1102202806
-#EXTINF:-1,Arirang	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/974996492
-#EXTINF:-1,News 1	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/336919805
-#EXTINF:-1,ฟ้าวันใหม่	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/615374481
-#EXTINF:-1,PEACE TV	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/576004322
-#EXTINF:-1,Nat Geo Wild	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/1658814226
-#EXTINF:-1,View World HD	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/60800324
-#EXTINF:-1,World Story	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/802643097
-#EXTINF:-1,Channel V	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/1188773680
-#EXTINF:-1,FAN TV	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/720596263
-#EXTINF:-1,สบายดี ทีวี	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/1748114799
-#EXTINF:-1,M Channel	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/434437755
-#EXTINF:-1,MONO Plus	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/207622520
-#EXTINF:-1,ZEE หนัง	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/896898572
-#EXTINF:-1,Fashion HD	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/1548636434
-#EXTINF:-1,Boomerang	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/607024372
-#EXTINF:-1,Cartoon Club	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/1353713657
-#EXTINF:-1,Ani+ HD	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/301017465
-#EXTINF:-1,KitKids HD	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/434569499
-#EXTINF:-1,ABC	[Thaicom KU]http://49.49.27.183:9981/stream/channelid/409262231
+#EXTINF:-1,9MCOT HD	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/1060445606
+#EXTINF:-1,MCOT Kids	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/86811320
+#EXTINF:-1,NBT HD	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/795392942
+#EXTINF:-1,NBT-NORTH	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/646058817
+#EXTINF:-1,Spring News	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/155521935
+#EXTINF:-1,Thairath TV	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/995014623
+#EXTINF:-1,TPTV	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/372674317
+#EXTINF:-1,Voice TV	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/677756271
+#EXTINF:-1,TV5 HD1	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/980474830
+#EXTINF:-1,THAIPBS HD	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/871431431
+#EXTINF:-1,3 Family	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/569263696
+#EXTINF:-1,TNN24	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/177119435
+#EXTINF:-1,NEW 18	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/422996975
+#EXTINF:-1,Nation TV	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/372285311
+#EXTINF:-1,Workpoint TV	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/1561257707
+#EXTINF:-1,True4U	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/1386247318
+#EXTINF:-1,GMM25	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/943137092
+#EXTINF:-1,CH8	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/1575078783
+#EXTINF:-1,3 SD	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/1473294847
+#EXTINF:-1,MONO29	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/459267201
+#EXTINF:-1,ONE HD	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/1532874363
+#EXTINF:-1,3 HD	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/88411625
+#EXTINF:-1,Amarin TV HD	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/1851140792
+#EXTINF:-1,CH7 HD	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/365487948
+#EXTINF:-1,PPTV HD	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/438018177
+#EXTINF:-1,Live Sky 1	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/429285255
+#EXTINF:-1,Live Sky 2	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/1490851876
+#EXTINF:-1,Live Sky 3	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/1817460355
+#EXTINF:-1,SKY World	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/473106758
+#EXTINF:-1,SKY Asia	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/1754998464
+#EXTINF:-1,SKY 1	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/1842973481
+#EXTINF:-1,SKY 2	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/1954322827
+#EXTINF:-1,SKY 3	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/2016089705
+#EXTINF:-1,SKY 4	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/1084883744
+#EXTINF:-1,CSAT เหนือ HD	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/2010374927
+#EXTINF:-1,Movie Sat Asia HD	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/395638614
+#EXTINF:-1,FOX Life	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/189973455
+#EXTINF:-1,FOX ไทย	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/2068748036
+#EXTINF:-1,FX	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/1366429738
+#EXTINF:-1,FOX Family Movies	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/107821013
+#EXTINF:-1,Star Chinese	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/2073852658
+#EXTINF:-1,FOX Sport	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/763832141
+#EXTINF:-1,FOX Sport 2	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/693397149
+#EXTINF:-1,FOX Sport 3	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/689070919
+#EXTINF:-1,T Sport	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/1019469552
+#EXTINF:-1,FOX News	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/1035005726
+#EXTINF:-1,Al Jazeera	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/675525374
+#EXTINF:-1,France24	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/769433876
+#EXTINF:-1,Russia Today	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/681423701
+#EXTINF:-1,Channel New Asia	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/468187106
+#EXTINF:-1,DW	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/1419989468
+#EXTINF:-1,TV5	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/505588105
+#EXTINF:-1,NHK World Japan	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/732650588
+#EXTINF:-1,CCTV 4	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/1102202806
+#EXTINF:-1,Arirang	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/974996492
+#EXTINF:-1,News 1	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/336919805
+#EXTINF:-1,ฟ้าวันใหม่	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/615374481
+#EXTINF:-1,PEACE TV	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/576004322
+#EXTINF:-1,Nat Geo Wild	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/1658814226
+#EXTINF:-1,View World HD	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/60800324
+#EXTINF:-1,World Story	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/802643097
+#EXTINF:-1,Channel V	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/1188773680
+#EXTINF:-1,FAN TV	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/720596263
+#EXTINF:-1,สบายดี ทีวี	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/1748114799
+#EXTINF:-1,M Channel	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/434437755
+#EXTINF:-1,MONO Plus	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/207622520
+#EXTINF:-1,ZEE หนัง	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/896898572
+#EXTINF:-1,Fashion HD	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/1548636434
+#EXTINF:-1,Boomerang	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/607024372
+#EXTINF:-1,Cartoon Club	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/1353713657
+#EXTINF:-1,Ani+ HD	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/301017465
+#EXTINF:-1,KitKids HD	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/434569499
+#EXTINF:-1,ABC	[Thaicom KU]
+http://49.49.27.183:9981/stream/channelid/409262231
