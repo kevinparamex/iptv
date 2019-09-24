@@ -177,3 +177,25 @@ http://89.38.97.45:8080/TV3086
 http://89.38.97.45:8080/TV3095
 #EXTINF:-1,Super Sports 3 HD
 http://89.38.97.45:8080/TV3039
+#EXTINF:-1,TV5 [Cambodia]
+http://43.245.34.2:9000/live/TV5KH.m3u8
+#EXTINF:-1,CTN [Cambodia]
+http://43.245.34.2:9000/live/CTNKH.m3u8
+#EXTINF:-1,CNC [Cambodia]
+http://43.245.34.2:9000/live/CNCKH.m3u8
+#EXTINF:-1,MyTV [Cambodia]
+http://43.245.34.2:9000/live/MyTVKH.m3u8
+#EXTINF:-1,RTM Sports
+http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
+#EXTINF:-1,RTM 1
+http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+#EXTINF:-1,RTM 2
+http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+#EXTINF:-1,PPTV HD [Thai]
+http://183.89.116.13:1040
+#EXTINF:-1,True4U [Thai]
+http://183.89.116.13:1029
+#EXTINF:-1,SMM TV [Thai]
+http://183.89.116.13:1014
+#EXTINF:-1,Thairath TV HD [Thai]
+http://183.89.116.13:1036
