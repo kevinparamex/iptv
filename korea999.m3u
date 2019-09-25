@@ -1,0 +1,623 @@
+#EXTM3U
+#EXTINF:-1 logo="http://i.imgur.com/ipM9AXe.png" tvg-id="cbf7437e3531621fdd8f147aa1d12a12",ANIBOX
+http://aws.icartsh.com:9981/stream/channelid/2118383563?ticket=1E5540DB32B243A2ECEE320A40219C04D368D56E&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/B34jpmo.png" tvg-id="606b7311799b3d6401df4baa1b621848",BBS불교방송
+http://aws.icartsh.com:9981/stream/channelid/292776800?ticket=711B9F0BBB5EC0D0FB620429770F7E7ECE438AE6&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/XU4pwpC.png" tvg-id="7bc5eddbc4da12d75a324d8f18d16969",BTN불교TV
+http://aws.icartsh.com:9981/stream/channelid/1542309243?ticket=573780B46857BECEDEC3F6172F4DB7ED542C811E&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/yBNo2mS.png" tvg-id="3f0d6c164b28998d93d0d731fa580d1d",CBS
+http://aws.icartsh.com:9981/stream/channelid/376180031?ticket=1F2F7F05347217A97D4BD8594CA40A9F8C412F63&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/ACwvhcc.png" tvg-id="57c8c079a0eed9faf740666001b4278f",CCTV4
+http://aws.icartsh.com:9981/stream/channelid/2042677335?ticket=7843184265EEC7BCCE199E72C77B7A24120678D1&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/tRqGKcS.png" tvg-id="68392e631e4e94eabbf2fcc285ec4243",CHING
+http://aws.icartsh.com:9981/stream/channelid/1663973736?ticket=7E8FD0F5FDF5A8154B1EE8E95412B5B7020A6F0E&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/783.jpg" tvg-id="754348750b537aac423d38e4ccd7d9ce",CHING M
+http://aws.icartsh.com:9981/stream/channelid/1967670133?ticket=8AAF4186E4E0D1536DC1CB6D48038EA3B78D82F5&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/fNuqGzR.png" tvg-id="3eab076c3670210f1a22a0ef2e2dae64",CMCTV
+http://aws.icartsh.com:9981/stream/channelid/1812441918?ticket=36F5A8B38F9728E86ED163DA08A73ACEDF97CFB2&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/Mx8ZXqk.png" tvg-id="7310550ba09afd666f7b92219bc08edf",CNBC
+http://aws.icartsh.com:9981/stream/channelid/190124147?ticket=E3C0D2C963AA69D55AABEAFF8257274AAA19B0FB&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/lW9nvaB.png" tvg-id="714272dc3a8ff1d2ce01f39041a146c3",CTS
+http://aws.icartsh.com:9981/stream/channelid/1550991985?ticket=ED17F0484FE97CFCB5F811AB144180594684EC28&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1326.jpg" tvg-id="596b5f43e5f965fb7ab338108aac6cf5",CTS2
+http://aws.icartsh.com:9981/stream/channelid/1130326873?ticket=B05A5F4EB7365957C16A8D0165518B17E54967D6&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/SFouN1c.png" tvg-id="ccb349d07bb71e09eaa0bf0d367a3514",C채널
+http://aws.icartsh.com:9981/stream/channelid/1347007436?ticket=62DC4B2786C87F4D1BB583C9F2E5FAC7FC947DB9&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/RIrBF4D.png" tvg-id="147ef39bc87fea467b4e0cd47d973db2",EBS 2
+http://aws.icartsh.com:9981/stream/channelid/468942356?ticket=B6A2758ECD18658267C026057CEF30C86E9AF345&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/RIgVjvP.png" tvg-id="bec3f0fee889545fcdf909effa05cd06",EBS Kids
+http://aws.icartsh.com:9981/stream/channelid/2129707966?ticket=AE1FA001903BA4F3B5247EA53E895DE506F54058&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/2.jpg" tvg-id="59fb2b57785dbeb5639beaf1a53d3559",ETN연예
+http://aws.icartsh.com:9981/stream/channelid/1462500185?ticket=607DC8331B0F13B1A5FA5D8E81786D2C3D3B8172&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/1Eeyijd.png" tvg-id="2ee19f268d336edd247b842a6f0e32a4",Event TV
+http://aws.icartsh.com:9981/stream/channelid/648012078?ticket=8A631AC306F108197203BDD8BC93EC0BC2A35DE2&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/553.jpg" tvg-id="5326c4d948fd35893af73b24944a0edf",everyon BBS불교방송
+http://aws.icartsh.com:9981/stream/channelid/1506027091?ticket=94A796A6959927F0599851B1F5648E40FD454CE7&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/191.jpg" tvg-id="31202b4600ee7775bd5b4dfcc3a91222",everyon Billiards TV
+http://aws.icartsh.com:9981/stream/channelid/1177231409?ticket=0FE2D361DFB24B3B0DA5700A09D64028CA243ECA&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/34.jpg" tvg-id="aa07538c713639e86335508ed5ccd355",everyon BTN불교TV
+http://aws.icartsh.com:9981/stream/channelid/206768042?ticket=FF22428160E0AA6EB93BA911449B567569D99164&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/27.jpg" tvg-id="e406a97fd382c7a5092fb1bf67c98cdb",everyon CBS
+http://aws.icartsh.com:9981/stream/channelid/2141783780?ticket=DB8CC60A844DB911A82EE282562167CDA12481CC&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1212.jpg" tvg-id="273e38950f1e47a5a0cffa2d27a69300",everyon CCTV-4
+http://aws.icartsh.com:9981/stream/channelid/356007463?ticket=2805C2171CFCCF8245B0ED223773147FA67150F1&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/6.jpg" tvg-id="c519848b703970722479d0d41fa19f99",everyon CH W
+http://aws.icartsh.com:9981/stream/channelid/193206725?ticket=E9A429E1DFEE0DC5EEB54BBBBBCFE50EFA548043&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/7.jpg" tvg-id="0e6144346e62ac5fea8f04ee80af4ba5",everyon CHING
+http://aws.icartsh.com:9981/stream/channelid/876896526?ticket=31F9D2AD363DD764AB26FADBEC6C667963FE3DCF&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/783.jpg" tvg-id="16554cb26102326e0a93ee01ffc62529",everyon CHING M
+http://aws.icartsh.com:9981/stream/channelid/843863318?ticket=8A2328AADA6171895971273DC7CC7BC0AD69B839&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1057.jpg" tvg-id="3826eced2eb3d57c504d5fc81448bebc",everyon CJ오쇼핑
+http://aws.icartsh.com:9981/stream/channelid/1844192824?ticket=CD98AAB8F4C96ABB2AFE7FEE8549ABF6C6FEEB6D&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1.jpg" tvg-id="8513f202806811d41f70019e603d3205",everyon CMCTV
+http://aws.icartsh.com:9981/stream/channelid/49419141?ticket=978AC44897F9F0260A18D6E8793F18B0F4907D16&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/28.jpg" tvg-id="f78f3dda7c4aaf62e5e15fee6ddc0fdc",everyon CTS
+http://aws.icartsh.com:9981/stream/channelid/1513983991?ticket=0478FCF738669B3CD38F9003A216A1A5EB980D74&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1326.jpg" tvg-id="e9995184dd668231f2337be51574c793",everyon CTS2
+http://aws.icartsh.com:9981/stream/channelid/72456681?ticket=231B63E1B15C2B7B68262C46129F2A41BFA69371&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/335.jpg" tvg-id="d6b8113a64db890feb8db8cf1cc3b2ac",everyon C채널
+http://aws.icartsh.com:9981/stream/channelid/974239958?ticket=42F4D7B1CD8574FD5215A1D66196655B6ED6CF97&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/2.jpg" tvg-id="3cea900a0e8604ba85c48b22820462db",everyon ETN연예
+http://aws.icartsh.com:9981/stream/channelid/177269308?ticket=4C107F7E6FCF41A1DAB5A677BDA607F04624E39B&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/389.jpg" tvg-id="4aeb72dd7e3518edbd166da6dad17602",everyon Event TV
+http://aws.icartsh.com:9981/stream/channelid/1567812426?ticket=A30EFF42C43060EFBEBDE497E10022CEBE8DF7F4&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/269.jpg" tvg-id="043ac82b065cf14acbc445906b3dea77",everyon FishingTV
+http://aws.icartsh.com:9981/stream/channelid/734542340?ticket=A2267938B164288CA73EE1CFC73F52B74F9BFF78&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/12.jpg" tvg-id="dc81cda17f29e8c40b1485bf11c63399",everyon FTV
+http://aws.icartsh.com:9981/stream/channelid/567116252?ticket=0391BF44B29D833B7EE57BF50D335A0D6B6880EE&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1384.jpg" tvg-id="cb88d2a311432d15ee56c053fe4329f1",everyon FUN TV
+http://aws.icartsh.com:9981/stream/channelid/601000139?ticket=B21223B406D46D88F191F4A34591B9ED6C9335EF&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1020.jpg" tvg-id="3367baa564157530b667d46abb43eac2",everyon GodTV
+http://aws.icartsh.com:9981/stream/channelid/632973107?ticket=117AC6253753203BACB9F744C1AFE2C5A192081A&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1275.jpg" tvg-id="8eef15c01bed2851dda4d031509468c3",everyon GS MY SHOP
+http://aws.icartsh.com:9981/stream/channelid/1075179406?ticket=7E3FFCB46685E0250A721FA89E6F3E4C466B83E0&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/883.jpg" tvg-id="c3f8c4d759011ecce8045a3824d66ce1",everyon GS Shop
+http://aws.icartsh.com:9981/stream/channelid/1472526531?ticket=7B771BABDC9930EFB1144ABE05AF0D2B14FC066B&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/44.jpg" tvg-id="a6cbfe178dc4373f457be0cefe76107b",everyon GTV
+http://aws.icartsh.com:9981/stream/channelid/402574246?ticket=684F3D8C62F405B7E83512244565DC46C830681A&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/778.jpg" tvg-id="8817e86d6d6e781dfbbff9d0db396921",everyon HCN 경북방송
+http://aws.icartsh.com:9981/stream/channelid/1843926920?ticket=28D4866B99BCD91D9B79F07DEF5A3D0131066577&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/782.jpg" tvg-id="d87f5244ceaf1e3c4f468a1988ce9899",everyon HCN 금호방송
+http://aws.icartsh.com:9981/stream/channelid/1146257368?ticket=48A1C56BEB1064E79DBCF39692AE736387065F78&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/15.jpg" tvg-id="41e1a22d1ef9e3c8fe2b41bd152c6d7b",everyon Jei English
+http://aws.icartsh.com:9981/stream/channelid/765649217?ticket=7125738BBCB4078A208F7E85EEF2613CFCBD540A&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1327.jpg" tvg-id="38f28edafa7c78774ab2890d158fa7a0",everyon KBSN PLUS
+http://aws.icartsh.com:9981/stream/channelid/1519317560?ticket=EEE872F6F8E96BFFE1C88D5209A0AEFBA49655BB&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/207.jpg" tvg-id="48ea5f50312464bd3823d30e23b4cce6",everyon K바둑
+http://aws.icartsh.com:9981/stream/channelid/1348463176?ticket=D15D9DB2B536FC635329F03EDBDBAB14FBB2011F&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/880.jpg" tvg-id="b1a3cb991b9192a92d3dd07dc7082f5f",everyon K쇼핑
+http://aws.icartsh.com:9981/stream/channelid/432776113?ticket=A50CD144DD4CFF2019EBC007EF323B5EC6FEE19E&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/17.jpg" tvg-id="73270db32945d17bd2868b91dc531bf2",everyon MBN
+http://aws.icartsh.com:9981/stream/channelid/856500083?ticket=AE704300E27AC09C5635D479240520051187CCCA&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/905.jpg" tvg-id="92a0094fcda359f6aabbea4c48e5b408",everyon MBN PLUS
+http://aws.icartsh.com:9981/stream/channelid/1326030994?ticket=1307DC455E8FD06DF5AEA0D3DD47924F45FB3478&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/18.jpg" tvg-id="b74e0043708056288392ca5f540fecf8",everyon MTN
+http://aws.icartsh.com:9981/stream/channelid/1124093623?ticket=2F49775B29A64139D90ED47DEA53A13F702519F2&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1042.jpg" tvg-id="8559b798c69749cb59be241c97bad587",everyon OBS
+http://aws.icartsh.com:9981/stream/channelid/414669189?ticket=F185EB681514757DAC3BE4AEFD4073BF3C223FAF&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/3.jpg" tvg-id="cff7f40fcc95181dedb55c72114dd773",everyon OBS W
+http://aws.icartsh.com:9981/stream/channelid/267712463?ticket=52365FBEB1857AA65F5BA886495E601122C0DE6E&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/30.jpg" tvg-id="6e56994ed6077be94bccc49fa17aabfb",everyon ONT
+http://aws.icartsh.com:9981/stream/channelid/1318671982?ticket=6A8D1997BEE658B5CA4C0DD10F14FD7A81191CD9&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/884.jpg" tvg-id="bdc08f7f75c4f7f55e62550b48a59f9d",everyon ONT M
+http://aws.icartsh.com:9981/stream/channelid/2140127421?ticket=01C55B3FF5F5FAF55F6F47F1AD61CE4F10F9E6A6&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1186.jpg" tvg-id="c903d8d377ef835102430080c1618349",everyon SilveriTV
+http://aws.icartsh.com:9981/stream/channelid/1406665673?ticket=12052E8159ED130BB077169262937EEC0A747DB8&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/852.jpg" tvg-id="8a5ffc736d4603a45884c126e6f194eb",everyon STN스포츠
+http://aws.icartsh.com:9981/stream/channelid/1945919370?ticket=A53F93A083115F0BD94C8090D5D965165926C08A&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/40.jpg" tvg-id="f33a9e2c03cbe686cd85063b4d6a8f90",everyon TBS TV
+http://aws.icartsh.com:9981/stream/channelid/748567283?ticket=7E74250799758DE720C384CEF7E3343EA6B497D8&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/341.jpg" tvg-id="2353727f25a23fdba9679f7d5cb85ca4",everyon TV CHOSUN
+http://aws.icartsh.com:9981/stream/channelid/2138198819?ticket=DBF3108BCECA791EA9708E2CF9FC87CF628A40A4&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/21.jpg" tvg-id="a6a2d6407c5453ba8c53a5c20024cca7",everyon TV CHOSUN2
+http://aws.icartsh.com:9981/stream/channelid/1087808166?ticket=D59460D88B4F8271A01FFB965181110C0FFFEA07&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/20.jpg" tvg-id="70f73af9897eaf5b5eb541c6f9b7f347",everyon YTN
+http://aws.icartsh.com:9981/stream/channelid/2033907568?ticket=C2C228C4DAE32D81D4A2FC07E38C3FBF4396C807&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/193.jpg" tvg-id="d2316020d19052fff50c19a1532ad2e3",everyon YTN라이프
+http://aws.icartsh.com:9981/stream/channelid/543175122?ticket=5E9F03A38AE7D26D941C0A7DCAF665DFA69A3E00&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/863.jpg" tvg-id="669d5bcdebd05698b7a709a194c51eb2",everyon YTN사이언스
+http://aws.icartsh.com:9981/stream/channelid/1297849702?ticket=F1CEBB836610554EB6D29483ECE7DAADD16EF290&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/31.jpg" tvg-id="a319fc3832f997e54e9229dacb70a536",everyon 국방TV
+http://aws.icartsh.com:9981/stream/channelid/956045731?ticket=E8747056F51A6180722E7B5C0FE3664ABDF744EC&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/401.jpg" tvg-id="c9c54d034ecc9dd1fa87f21068fe48e0",everyon 국회방송
+http://aws.icartsh.com:9981/stream/channelid/55428553?ticket=17A45E788BB83366C5093F757192BED2FBA186D2&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1371.jpg" tvg-id="91ce3c1d9abed86fff1b2afe81ba356a",everyon 대한생활체육TV
+http://aws.icartsh.com:9981/stream/channelid/490524305?ticket=6E06676CEEA301526539D8703721DE361E88AE18&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/8.jpg" tvg-id="6756836d43ee2de908423c28dad6e11f",everyon 더 무비
+http://aws.icartsh.com:9981/stream/channelid/1837323879?ticket=A96ED33AB4484A8466797B6C142E44966C7B0E27&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/43.jpg" tvg-id="d9af33c8b9c350319573fedc69b23860",everyon 동아TV
+http://aws.icartsh.com:9981/stream/channelid/1211346905?ticket=C2339D101115CAC81912411D055774D31C051836&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1015.jpg" tvg-id="17e861c446c419891fc8e7574b2d6241",everyon 라이프타임
+http://aws.icartsh.com:9981/stream/channelid/1147267095?ticket=BF9DDE1500758568F3F1E74AC03556EA85ADEBDD&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1065.jpg" tvg-id="2d284f26163002f52d6f15af7a1ae11f",everyon 리얼TV
+http://aws.icartsh.com:9981/stream/channelid/642721837?ticket=85692310C885E1AA1902C407D6595D2E53ABFA8D&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/337.jpg" tvg-id="8757d1e77dcbe03ad0f667f6df85a433",everyon 마운틴TV
+http://aws.icartsh.com:9981/stream/channelid/1741772679?ticket=FFD4039786E1F86712BF97CE75FFDA9E10F9D236&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/563.jpg" tvg-id="26cb7ee53fad14fc3afce66f0b5dd631",everyon 매일경제TV
+http://aws.icartsh.com:9981/stream/channelid/1702808358?ticket=838E3208EB6CB37765F89448EAFBDC945D8930EB&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/725.jpg" tvg-id="3976ca2fc0ef95b4266e5d907033b29f",everyon 매일경제TV 스페셜
+http://aws.icartsh.com:9981/stream/channelid/801797689?ticket=2484104A582C473B9CEA324BAD9EF64C88D6C303&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1297.jpg" tvg-id="25f8afe7d7abc2353c55c40a7fd06edb",everyon 문화유산채널
+http://aws.icartsh.com:9981/stream/channelid/1739585573?ticket=9E6059EFDA85EBC894B3E747F7F79B2DF8B8FB08&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1216.jpg" tvg-id="cbeb466f247e37851e8dc180bad3afa2",everyon 방송대학TV 
+http://aws.icartsh.com:9981/stream/channelid/1866918859?ticket=CCF645E98692C4C47D8B5A796EF9C0C044652A68&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/33.jpg" tvg-id="d224332958710c254beef0193660425c",everyon 법률방송
+http://aws.icartsh.com:9981/stream/channelid/691217618?ticket=8801873F9C7A70D565E56AB483225006159BDBEF&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1298.jpg" tvg-id="fe62589244efe3d81096cf0fd4c59e59",everyon 베이비TV
+http://aws.icartsh.com:9981/stream/channelid/307782398?ticket=466C50BBE83E198DD40DC7A49B4005438697C0AE&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/381.jpg" tvg-id="45a73dfe9815b891053547956b6c591a",everyon 브레인TV
+http://aws.icartsh.com:9981/stream/channelid/2117969733?ticket=B06892FBDDC46B279A777F9DB89B11895CEEEC0B&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/22.jpg" tvg-id="208b7cf9694e9cc75bac6c93a74e5a42",everyon 서울경제TV SEN
+http://aws.icartsh.com:9981/stream/channelid/2038205216?ticket=BA6694BB43D88592D492E64B167E7EA41ADE280F&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/77.jpg" tvg-id="54d11815134f1aba804d22429c4399a3",everyon 소비자 TV
+http://aws.icartsh.com:9981/stream/channelid/353947988?ticket=5EAE8348D1731210EDCD9485B85BC9036122F3FA&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1296.jpg" tvg-id="8248daf7edfaef0ae59e3c5757cd99f2",everyon 쇼핑엔티
+http://aws.icartsh.com:9981/stream/channelid/2010794114?ticket=4D076F295AB6C17164DC8509183F76254C0F13EF&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1319.jpg" tvg-id="99413dcecef29fa845ce118ab85a7168",everyon 신세계TV쇼핑
+http://aws.icartsh.com:9981/stream/channelid/1312637337?ticket=E1EBE95918AF04C4C969E22124E2D82FF6B86346&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/35.jpg" tvg-id="1f8cced7cc9095f13f8798ecce88522d",everyon 아르떼TV
+http://aws.icartsh.com:9981/stream/channelid/1473154079?ticket=31EA1AD0A7B1AB787AD300EC5115903DA9AB14CF&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/36.jpg" tvg-id="bb57ba3523958dfa925d9003dcd0dc8e",everyon 아리랑TV
+http://aws.icartsh.com:9981/stream/channelid/901404603?ticket=87F86B59E9242F0A616338B6B65A2084658F50EC&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/263.jpg" tvg-id="ad212bb60330802d00e5bba08de38b52",everyon 아이넷TV
+http://aws.icartsh.com:9981/stream/channelid/908796333?ticket=F51F61E40BF636850A9180E35D6072809C0878E3&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/933.jpg" tvg-id="733ebab944d8c59302b5100563c25177",everyon 애니프렌즈
+http://aws.icartsh.com:9981/stream/channelid/968506995?ticket=B77CB2A3CE685CBDE26BD4C39A0140A9D98A2DA6&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/5.jpg" tvg-id="23ea60601eeda8840699564d5be70f71",everyon 어린이TV
+http://aws.icartsh.com:9981/stream/channelid/1616964131?ticket=2864E78FE1456E912491F14BA174CD960936AF25&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1357.jpg" tvg-id="ea2d523b7c557f88080934a8d7b87876",everyon 엠스타 TV
+http://aws.icartsh.com:9981/stream/channelid/995241450?ticket=DDB8BE06806E28979B42A4CA45795BD96A84B7A0&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/133.jpg" tvg-id="2b47cd1b304154639e6c35fd52ea34fb",everyon 연합뉴스TV
+http://aws.icartsh.com:9981/stream/channelid/466437931?ticket=76A9E7E4BEF99A6072203EA7107022116312F412&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1173.jpg" tvg-id="792e5bf154df713fb7a81d27ec5848af",everyon 원음방송
+http://aws.icartsh.com:9981/stream/channelid/1901801081?ticket=BD7C650066F065DEB54AC73E706D33CF349D0A7A&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/42.jpg" tvg-id="20580df6407c390bca1732501e6a1e5a",everyon 육아방송
+http://aws.icartsh.com:9981/stream/channelid/1980586016?ticket=A96BBAE2C4D8F3C21CCCDE9BE0C4444D18BF7058&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/23.jpg" tvg-id="c88c30c9abb7fe02c9b8ca17f58bfe76",everyon 이데일리TV
+http://aws.icartsh.com:9981/stream/channelid/1227918536?ticket=ED9C4B94DE4A70FADBC0A7408994E61893DA4D1B&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/25.jpg" tvg-id="1f1a8e39ccfecf5562305fd3cc4419af",everyon 이토마토TV
+http://aws.icartsh.com:9981/stream/channelid/965614111?ticket=FC1FD71F601D8EBD7818775AB2DDD2738FA05187&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1197.jpg" tvg-id="358543b6afcfc0b654396d41f4bc95d5",everyon 인도어 스포츠 채널
+http://aws.icartsh.com:9981/stream/channelid/910394677?ticket=082F0192CA21A33967566809311EE79F413C062D&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/251.jpg" tvg-id="7e638cb789db21879af76f85bae8d721",everyon 채널A
+http://aws.icartsh.com:9981/stream/channelid/931947390?ticket=B257D8378F7A322C73FB0A841F009A1FF182A27C&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1076.jpg" tvg-id="4326ac3767542f4a6bf4d33c76ca0d53",everyon 채널A 플러스
+http://aws.icartsh.com:9981/stream/channelid/934028867?ticket=2E909FE0A21D3E92D26BDB98B7BB2A43B1727D74&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1359.jpg" tvg-id="c00321c7cf2741c68cd7ef8d80dea121",everyon 케이블TV VOD
+http://aws.icartsh.com:9981/stream/channelid/1193345984?ticket=EC06E2D4F9C85D584D37554825F9BEA6972F00DC&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/319.jpg" tvg-id="36ffe016352e555c8e980659d3eb21f3",everyon 텔레노벨라
+http://aws.icartsh.com:9981/stream/channelid/383844150?ticket=5BA0AC0054C1671F697BC8F29EF2E1838C52FB57&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/4.jpg" tvg-id="28b588d454983a4dbc4d18d1c1a0fd24",everyon 트렌디
+http://aws.icartsh.com:9981/stream/channelid/1418245416?ticket=2493B7CC287C2B352F1147E719E7E07AF02C16B9&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/784.jpg" tvg-id="4efe9a63c329869cd1701d6cb1b5b136",everyon 트렌디 M
+http://aws.icartsh.com:9981/stream/channelid/1671102030?ticket=D43B486190EED1B7CC6030EF1806A0921C6AB579&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/385.jpg" tvg-id="f20fd1eedb4f6ecb48a0c7e42d2c8009",everyon 팍스경제TV
+http://aws.icartsh.com:9981/stream/channelid/1859194866?ticket=BE05EC5D3A7658AD8C3DA1C012D68A7C3A86F21E&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/14.jpg" tvg-id="c435dc140ac73b328378a4acbe82deda",everyon 폴라리스TV
+http://aws.icartsh.com:9981/stream/channelid/349976004?ticket=BEB774732884F798164B862C027594D69AE54A8F&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/169.jpg" tvg-id="610f43fa0609b120129ed95c912801af",everyon 플레이런TV
+http://aws.icartsh.com:9981/stream/channelid/2051215201?ticket=A10134A12A7753EFA3D7F74B7D3BB8E8E0B0600F&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/26.jpg" tvg-id="5a3e341e6938339d5043fd026cb6e8dd",everyon 한국경제TV
+http://aws.icartsh.com:9981/stream/channelid/506740314?ticket=F1F36D58A4BA32316FDE6AAAEF1322412904B742&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/387.jpg" tvg-id="10400cc2aefa75a08150ab34c919e6b2",everyon 한국당구방송(KBNTV)
+http://aws.icartsh.com:9981/stream/channelid/1108099088?ticket=5C1BC7259E3595AF52E6C6B160838BA41ACBEC3C&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1363.jpg" tvg-id="32379261cdfb45a60883127dcf5c139d",everyon 한국예총방송
+http://aws.icartsh.com:9981/stream/channelid/1636972338?ticket=309E5C3D5B1C75F16EF310B6AF6A393EEBBD08E8&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/393.jpg" tvg-id="f21de9ea984c324b1eabc2de3f0b8fc5",everyon 한국정책방송 KTV
+http://aws.icartsh.com:9981/stream/channelid/1793662450?ticket=23DD850934102862E7E4488FD052EFB9B596A100&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/38.jpg" tvg-id="a0e74e97db9f85613bdbb3014211b2f5",everyon 한문화 중심채널  STB상생방송
+http://aws.icartsh.com:9981/stream/channelid/391047072?ticket=99DE4C82CFF2C61872F94AFA2BBAC3B8A17D59E4&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1094.jpg" tvg-id="8dd75618ffede9c75833bb5fc7c59a75",everyon 헬스메디TV
+http://aws.icartsh.com:9981/stream/channelid/408344461?ticket=BF231A779F990C12E9ED7CE4E481DE55C9A1C1FC&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/75.jpg" tvg-id="d88aca4b91eee654e2261f673f230076",everyon 현대 홈쇼핑
+http://aws.icartsh.com:9981/stream/channelid/1271565016?ticket=9BB3D0EE0C929CCEA034BA2A939D06239D8A2899&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/779.jpg" tvg-id="0474ed8f5c1f699d9dea9393ba8fe015",everyon 현대HCN 새로넷방송
+http://aws.icartsh.com:9981/stream/channelid/267219972?ticket=9F368A456F5D1AC21A43A4C8F0728B42D0EB617E&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/745.jpg" tvg-id="4c4cc5636b2a7366dd850ba5fcdbfe74",everyon 현대HCN 서초방송
+http://aws.icartsh.com:9981/stream/channelid/1673874508?ticket=065F50AC919C2BFEFB7915FB56C7A8A01C16D7BE&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/853.jpg" tvg-id="d853af10057355af8987a7217b985c5c",everyon 현대HCN 충북방송  
+http://aws.icartsh.com:9981/stream/channelid/279925720?ticket=2943BB09B15596845A0A3873A949A84992D9DD46&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/551.jpg" tvg-id="084480ea2a62e7a56d6e47eb72746db6",everyon 히스토리
+http://aws.icartsh.com:9981/stream/channelid/1786790920?ticket=7C1E58A414E667C9D16B0CB2EBA1ABEC27236F77&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/6V8X43L.png" tvg-id="3aa1024081c26387e88a8ce983824caf",FUN TV
+http://aws.icartsh.com:9981/stream/channelid/1073914170?ticket=399925CF10EF9D227A8B67D70907749897D6458F&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/WPF3G5V.png" tvg-id="4269bf0f02bdc304fa63bc5b7e89b860",GMTV
+http://aws.icartsh.com:9981/stream/channelid/264202562?ticket=1896ADEEA19021B4E3B3193F925ECB91683FB135&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1020.jpg" tvg-id="67edd99353ce0b0c532a3651a99694ee",GodTV
+http://aws.icartsh.com:9981/stream/channelid/333049191?ticket=3E9828ADA7C1C6264B8AEB896CD62F26A50718CD&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/0Y0pRW4.png" tvg-id="bee99333109d64678e215c42461297bc",GS MY SHOP
+http://aws.icartsh.com:9981/stream/channelid/865331646?ticket=EB6FCDC070B4D73172D2C7C8B33BB2830B81FC8E&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/1qXSXRa.png" tvg-id="c24591a9e39870b66c5fa1defb5d1264",GTV
+http://aws.icartsh.com:9981/stream/channelid/697386434?ticket=48B0319E6F0CDE98285B0D1756CCD925D538BC0B&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/778.jpg" tvg-id="da467a7213e4df84cb71d2aeae187c68",HCN 경북방송
+http://aws.icartsh.com:9981/stream/channelid/1920616154?ticket=A29C57D2DF349BF645337D5A56570E22585569B9&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/782.jpg" tvg-id="a2ddd265deb053bc6518ff450a34b55e",HCN 금호방송
+http://aws.icartsh.com:9981/stream/channelid/1708318114?ticket=5FF61F2027CBC5601283D3C6345B35345581947D&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/SSkop4X.png" tvg-id="ba8e57ae49ddbd9d793b6b3f31122a30",HISTORY
+http://aws.icartsh.com:9981/stream/channelid/777490106?ticket=25D25A1A1FC6E72E998013B2F500D6C4121FD006&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/R1oJmLo.png" tvg-id="7d3a2f640b3aa38e6e500284aa846831",JEI EnglishTV
+http://aws.icartsh.com:9981/stream/channelid/1680816765?ticket=114223BB4F6D34DAD16A78B88CC62DAEBA313169&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/e31o5gw.png" tvg-id="c23cbc89992be9a7485bc5e5493933db",KBS 1TV
+http://aws.icartsh.com:9981/stream/channelid/163331266?ticket=E18190C5E3082A774BB3438F8E7118E47BCC03BD&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/XgibZbD.png" tvg-id="2f47e21e829818a4784bd6e9b3555e79",KBS 2TV
+http://aws.icartsh.com:9981/stream/channelid/518145839?ticket=BDD1CAC0F300DE669AB1DB43D00FBC65710B772D&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/CrLMIEQ.png" tvg-id="55ca7f26d1106b5d3a326fdff098d061",KBS DRAMA
+http://aws.icartsh.com:9981/stream/channelid/645909077?ticket=BAC5439619D360EC8A61F6B81816166E21A81FDA&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/D1o9by9.png" tvg-id="0de5cfb2cb516967f8abc1e443366d44",KBS JOY
+http://aws.icartsh.com:9981/stream/channelid/852485389?ticket=6420C48C5866A59413727C43A1FCC899D5D5B443&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/sVqBczs.png" tvg-id="8f323c0744c083e1176053793069cd8c",KBS W
+http://aws.icartsh.com:9981/stream/channelid/121385615?ticket=CBAB0AAED02C68BE9865835D9F43407E4BD7084C&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/5Ni1YIT.png" tvg-id="75a8244fd4cdf9ec8b1fa5399704c129",KBSN Life
+http://aws.icartsh.com:9981/stream/channelid/1327802485?ticket=5399315DF27FDB5BD634005B10B7A10FCFFE92DE&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/KBSN_PLUS_H20170601.png" tvg-id="5a264b49d77397eb9877aaa76f4161e1",KBSN PLUS
+http://aws.icartsh.com:9981/stream/channelid/1229661786?ticket=FA3FC0148427997210EF3645E384D90010C61207&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/EAk5ySy.png" tvg-id="d1ea61ea794d1ff9ac19cd75733f90d5",K바둑
+http://aws.icartsh.com:9981/stream/channelid/1784802001?ticket=F56B176B920F41CD7514AD7FDD50571EFD998CCD&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/6ORm0Rz.png" tvg-id="39cd39524920a90cf0bf531876b38a19",K쇼핑
+http://aws.icartsh.com:9981/stream/channelid/1379519801?ticket=6DD2FACCE4FF47570ED6648294F1986D7C4AC50C&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/duig32i.png" tvg-id="aa39f8cd9e159275e0a077cc6ee2e683",MBC
+http://aws.icartsh.com:9981/stream/channelid/1308113322?ticket=3238E2C5EEBB95797BA0F3F59992B98ECDC8A618&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/VBMFcZ3.png" tvg-id="852e75e5915b435098fe97aec63c2ed3",MBC Drama
+http://aws.icartsh.com:9981/stream/channelid/1702178437?ticket=7E79FB527939C60490E087B1CCDB84E30F5D5546&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/oOnpFes.png" tvg-id="67aa1acfd9fb5809524d0cd74765f6cf",MBC Every1
+http://aws.icartsh.com:9981/stream/channelid/1327147623?ticket=E2400A8E16B3C80B9D0ED746B737FB9194371F34&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/6g56RDx.png" tvg-id="a6fe850133042b88d837947ab06d529c",MBC Music
+http://aws.icartsh.com:9981/stream/channelid/25558694?ticket=B028D54273FB1285F3C53AB06E79B046E927439D&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/6pWpFCX.png" tvg-id="6d94aa8ce0854c7285ecae873ac00e09",Nick
+http://aws.icartsh.com:9981/stream/channelid/212505709?ticket=2761A01A8E0A8D24216AC560BBFD5B9414FA2F4C&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/uZkbU7b.png" tvg-id="a69aa256c4f4b14119ded4d3389b3eef",OBS W
+http://aws.icartsh.com:9981/stream/channelid/1453496998?ticket=040FB09343C9C8A47B19AAFE2E75ACF695F0D8D1&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/2lu0ZBu.png" tvg-id="f7626f5c45cdb24b0fb08f2d02e88256",ONT
+http://aws.icartsh.com:9981/stream/channelid/1550803703?ticket=DB9A88CE8F76A3CEAA94D6FBAD0A6E485DDC08AF&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/884.jpg" tvg-id="3f1488f4170b49cedf94a0e8ed8db336",ONT M
+http://aws.icartsh.com:9981/stream/channelid/1955075135?ticket=05FCFAB27756CE6A7E632D76171B4254DCF74271&profile=pass
+#EXTINF:-1 logo="http://wchimg.pooq.co.kr/pooqlive/thumbnail/H07.jpg" tvg-id="eb40e42b65b54d302c3ba75da57cd86e",PLAYY 액션영화
+http://aws.icartsh.com:9981/stream/channelid/736379115?ticket=CC61B571ECE00339717F151D3C849AAB94DA7C3D&profile=pass
+#EXTINF:-1 logo="http://wchimg.pooq.co.kr/pooqlive/thumbnail/H01.jpg" tvg-id="9610749e5c783ab2a4cb5369055b2b84",PLAYY 웰메이드 영화
+http://aws.icartsh.com:9981/stream/channelid/510922902?ticket=99C8AB6AE4970F4D550360279E0E5834155AD063&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/M10.jpg" tvg-id="9647e417946e1899d23b6e897dc97205",pooq ALL THE K-POP
+http://aws.icartsh.com:9981/stream/channelid/400836502?ticket=72A80F88AF4A6B0CDA627D7EA1F19496C4475FA3&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/C4401.jpg" tvg-id="517c8008ff071d5b42ff54b399f7922d",pooq ANIBOX
+http://aws.icartsh.com:9981/stream/channelid/142638161?ticket=180D87D1F1BB13146D47251A2D6F1272548A97AC&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/A01.jpg" tvg-id="1af4b79eac9659de4c4222fee93d095f",pooq ANIMAX
+http://aws.icartsh.com:9981/stream/channelid/515372058?ticket=A5058670BE18D04BA847AC6A263759890DBE93A0&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/C5101.jpg" tvg-id="eb66393fc5ba324773355447b3c5256a",pooq AsiaN
+http://aws.icartsh.com:9981/stream/channelid/1060726507?ticket=C4EF01543F32963A5B0518E9B82D17E0F5384943&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/C4301.jpg" tvg-id="57863e4d73e63942ab1c6f7ffbb1b48c",pooq CCTV4
+http://aws.icartsh.com:9981/stream/channelid/1295943255?ticket=6FC76D86E76CDC829D76CD5AF568BE57C7D91B7A&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/D01.jpg" tvg-id="6960dcd35834320be1202fbca8901348",pooq Disney
+http://aws.icartsh.com:9981/stream/channelid/1406951529?ticket=6DDB512DDB5769EFD5C8D9185937B15384E8FECD&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/D02.jpg" tvg-id="c63a8bcd247e2ebc1b23986c4d344e11",pooq Disney Junior
+http://aws.icartsh.com:9981/stream/channelid/1300970182?ticket=9DF5DA6BBD256A336BCDE2EA8478B25197348255&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/E01.jpg" tvg-id="4480cbe9c935ffe7e37988a9b534f456",pooq EBS
+http://aws.icartsh.com:9981/stream/channelid/1774944324?ticket=C4CBDA6F094ADEABD26070A4A0F8516F7DECC651&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/E07.jpg" tvg-id="40d26d01480349de4d8bc2732010b532",pooq EBS 2
+http://aws.icartsh.com:9981/stream/channelid/23974464?ticket=C545F06722472C7C5E9B3F3D5A7D16A694D75368&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/E05.jpg" tvg-id="abaf2dbfd992b4f454ffba274b92a10f",pooq EBS Kids
+http://aws.icartsh.com:9981/stream/channelid/1059958699?ticket=BEC31184A465CA7AD9871CDAB8C2E35669F5F304&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/C4202.jpg" tvg-id="2cd685558e052ef9fe3d60cca1d996db",pooq GS MY SHOP
+http://aws.icartsh.com:9981/stream/channelid/1434834476?ticket=4424C552435927FC876AF5C4B86BBDF6920F9901&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/C4201.jpg" tvg-id="24b548fb3420be5e0092c47215bf7f2f",pooq GS SHOP
+http://aws.icartsh.com:9981/stream/channelid/2068362532?ticket=3BE2BDEDBB2EFBE5F13AA083FE3EC8D097E622AE&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/history-1.jpg" tvg-id="8f472f1e5d9734dafae6c84cca78588d",pooq HISTORY
+http://aws.icartsh.com:9981/stream/channelid/506414991?ticket=C0D0937115ACB962933CA181469339FDC1F56096&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/KBS-1TV-1.jpg" tvg-id="07ae8d595718403afea27fb5676dd047",pooq KBS 1TV
+http://aws.icartsh.com:9981/stream/channelid/1502457351?ticket=98F620A49BCCB14C8BCA4ADF0A56D88415683C0D&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/K15.jpg" tvg-id="634a8a80e6cfabe2d276d58a8a67dd97",pooq KBS 1박 2일
+http://aws.icartsh.com:9981/stream/channelid/9063011?ticket=B26EF8A4BBA3ECF698660B5CB84BE5349BF25F1C&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/KBS-2TV-1.jpg" tvg-id="30529ef7cfc1ffb131cbccd0ba8172d8",pooq KBS 2TV
+http://aws.icartsh.com:9981/stream/channelid/2006864432?ticket=BC41C44903404C6AD007955909777DC19E8FF20F&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/K06.jpg" tvg-id="6fda4ec3074d407fc95ecf2d8f7d0be9",pooq KBS DRAMA
+http://aws.icartsh.com:9981/stream/channelid/1129241199?ticket=2D313C7CE19AAA957741D4AE5DDE1D744442EE47&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/K04.jpg" tvg-id="3f6d2ba4719ff029a2267abf29977ba6",pooq KBS JOY
+http://aws.icartsh.com:9981/stream/channelid/606825791?ticket=643D92E3CFB82A648EB38ADB214015405630BC99&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/K09.jpg" tvg-id="55227a6a78a144cf0f6c139f74ee41b7",pooq KBS W
+http://aws.icartsh.com:9981/stream/channelid/1786389077?ticket=7ECD2DD2653131A822B10C0F2F78513D7261BD62&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/K18.jpg" tvg-id="991354b752a692c4deaa4d09a68455a5",pooq KBS 남자의 자격
+http://aws.icartsh.com:9981/stream/channelid/928256921?ticket=D12C46CB8F3E020CCE7EC77B956FA1649A951B95&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/K05.jpg" tvg-id="8001348403fa9d98040b7c7c803eefb5",pooq KBSN Life
+http://aws.icartsh.com:9981/stream/channelid/70517120?ticket=B03BE523D5216319EF80407C20050297542B9091&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/lifetime-1.jpg" tvg-id="2baff3b258e55f083e3d800db3ea3edd",pooq LIFETIME
+http://aws.icartsh.com:9981/stream/channelid/854830891?ticket=4E53ADA7D4CE536E5BE5A0EA7347D6778D314EB9&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/M01.jpg" tvg-id="78727e315546c3ed87409fa97f610232",pooq MBC
+http://aws.icartsh.com:9981/stream/channelid/830370424?ticket=AD8A2555269780B5B1B101A26A8C539C17643985&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/M02.jpg" tvg-id="9340ef974ccfd053dab4881cae1ac4dd",pooq MBC Drama
+http://aws.icartsh.com:9981/stream/channelid/401555603?ticket=71F13FD18F46210D39B8E5FC64FC9D26DD7E7614&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/M03.jpg" tvg-id="d9e94ceef29946681d95633bd8bb27ec",pooq MBC Every1
+http://aws.icartsh.com:9981/stream/channelid/1850534361?ticket=0A71606FAC9CBA130374C682290DEBDBED3C6D37&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/M06.jpg" tvg-id="bfed81eabc6ffefc2bbb06bc122b213e",pooq MBC Music
+http://aws.icartsh.com:9981/stream/channelid/1786899903?ticket=A63B2437AF223B68B578F1049F32CF343FA305BC&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/PM2.jpg" tvg-id="4fba0e01e6c2d5a425a076356c7af74d",pooq MBC 나 혼자 산다
+http://aws.icartsh.com:9981/stream/channelid/17742415?ticket=1B30069652A3FA1B99C73D5CD65DE2C4DA55E104&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/radiostar_channel_re.jpg" tvg-id="8206366780b4c97b9c87ae66ffc988cf",pooq MBC 라디오스타
+http://aws.icartsh.com:9981/stream/channelid/1731593858?ticket=A6C2FD3E12BB0709D5B3C5947DEF185872F491A8&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/PM1.jpg" tvg-id="55982bc79b48880af2abc71ce7e380e1",pooq MBC 무한도전
+http://aws.icartsh.com:9981/stream/channelid/1194039381?ticket=A5FF444E3F3134D502A96E0A39D96BC05589EAD0&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/C2401.jpg" tvg-id="dc067968787bbd0ea18f2e07f9c6cbbb",pooq MBN
+http://aws.icartsh.com:9981/stream/channelid/1752762076?ticket=A1188ED9FCCEE8AED8B29EFAB6E129F95FD8A622&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/S13.jpg" tvg-id="df593c29e741f8e7c8c711948cf43951",pooq Mobidic
+http://aws.icartsh.com:9981/stream/channelid/691821023?ticket=0E85242B6A4F97F1B5717C9D21B614341B7F8CA9&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/S10.jpg" tvg-id="2b30cc9999d6f9f439391d9f8bae60ca",pooq Nick
+http://aws.icartsh.com:9981/stream/channelid/432812075?ticket=2E06809CC2254DB41F06AEF9A41717C3FE7DBE72&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/H07.jpg" tvg-id="62fbdd56506cdc920230e2f19cc3a87e",pooq PLAYY 액션영화
+http://aws.icartsh.com:9981/stream/channelid/1457388386?ticket=5EB0E6EBD000142FC9025D40BDF85541655D27F9&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/H01.jpg" tvg-id="99b8ab75e10b7402679ddf0431ddd420",pooq PLAYY 웰메이드 영화
+http://aws.icartsh.com:9981/stream/channelid/1974188185?ticket=06E4B1313824C1C4E135DF9F304C1E60FC7365DF&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/H02.jpg" tvg-id="1ca9fe95a7ed046a5a7921a5029b05f5",pooq PLAYY 프리미엄 영화
+http://aws.icartsh.com:9981/stream/channelid/369010972?ticket=4BC4510B5C23307C7AA71BA42D77C6E8EC71F042&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/S01.jpg" tvg-id="e724a988d82155e7db315be35ad0d76d",pooq SBS
+http://aws.icartsh.com:9981/stream/channelid/145302759?ticket=E7EEB5A900FEA88EEE1BCB932D0C7A5A5296007E&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/S06.jpg" tvg-id="00d245ac79152f4e130539c99f3fa884",pooq SBS CNBC
+http://aws.icartsh.com:9981/stream/channelid/742773248?ticket=4907F0F9C8AF2521094E7BDE4283E7E9B4542083&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/S04.jpg" tvg-id="d7e439d82542a4e0bd536ac320317050",pooq SBS funE
+http://aws.icartsh.com:9981/stream/channelid/1480189143?ticket=59D6271D0F905117C9D65AEBCFF9946BE089C630&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/S09.jpg" tvg-id="0b78210bc4538fe7bc2a7d5542536d6d",pooq SBS MTV
+http://aws.icartsh.com:9981/stream/channelid/186742795?ticket=74AF80C579A64A9648398A889C2031F50D1A171F&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/S03.jpg" tvg-id="1c2cea00c0ac336d4e59023cf522d2ad",pooq SBS Plus
+http://aws.icartsh.com:9981/stream/channelid/15346716?ticket=1B983EB95F9F4C09B1E116BF9A1AFAD9BFC286C6&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/C5401.jpg" tvg-id="1827540eaca5aa978523e5d5406e6a22",pooq SPOTV GAMES
+http://aws.icartsh.com:9981/stream/channelid/240396056?ticket=A2AC3D5B144EDE4E0BE7F5229A4F522AC31A4376&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/C2601.jpg" tvg-id="01491abaae2d137234352d007a6fd817",pooq TV CHOSUN
+http://aws.icartsh.com:9981/stream/channelid/974801153?ticket=400579965F9E3B838BE798A97C42EB61E086B9F5&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/C2101.jpg" tvg-id="e00698e3c05395d18a8c81c18720ea67",pooq YTN
+http://aws.icartsh.com:9981/stream/channelid/1670907616?ticket=ED056DAF9CB0796F8532504966F78186D920CFE1&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/K17.jpg" tvg-id="60509b54cc90fd39ed2a53c76f762829",pooq 뽀로로TV
+http://aws.icartsh.com:9981/stream/channelid/1419464800?ticket=67A8A6C0C9FBAACDF8AFDE53C9E94D66D0E09789&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/C4901.jpg" tvg-id="eb81b3dcc88c3ee37596d0eac9d374e1",pooq 쇼핑엔티
+http://aws.icartsh.com:9981/stream/channelid/1555268075?ticket=815969F8A95E61A718F785486681CF6EE538D296&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/C4801.jpg" tvg-id="322df2aa8e59472408db64e88a0aa73f",pooq 신세계TV쇼핑
+http://aws.icartsh.com:9981/stream/channelid/720514354?ticket=5D4A855ADF42A9B18EC96833587E35258AA071F1&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/Y01.jpg" tvg-id="e5f010addacb2293a21364f248e46b27",pooq 연합뉴스TV
+http://aws.icartsh.com:9981/stream/channelid/756084965?ticket=F2B7A80AD9B10653AC8AFEF89F1E0EF7A1572D80&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/1280x720.jpg" tvg-id="69186e19ec28a6caab3afb9a982df4ad",pooq 채널A
+http://aws.icartsh.com:9981/stream/channelid/426645609?ticket=C71679C72A2892106EAE1D760AF65D72F0B0956F&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/C5501.jpg" tvg-id="3f04a167baba29389f30e9487d8bc7fc",pooq 채널J
+http://aws.icartsh.com:9981/stream/channelid/1738605631?ticket=5B965FCEE569FE6B732F01621F06E9683576BC78&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/C3901.jpg" tvg-id="4ccf5f0417ed541cf74659c4209daa2c",pooq 채널W
+http://aws.icartsh.com:9981/stream/channelid/73387852?ticket=ACC6B8D922A61697E98A6801278092CB2B9422D7&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/C4101.jpg" tvg-id="24f9c273d3c855e1c206c55bb5eab8ab",pooq 현대홈쇼핑
+http://aws.icartsh.com:9981/stream/channelid/1942157604?ticket=6EBABD52AAB7B0EF172A00CBD3AAF4657334FA6B&profile=pass
+#EXTINF:-1 logo="http://img.pooq.co.kr/BMS/ChannelImg/C4102.jpg" tvg-id="e2cee28d3b6d2b8b901984184bce31cc",pooq 현대홈쇼핑+샵
+http://aws.icartsh.com:9981/stream/channelid/232967906?ticket=936E7D4493766A7EA40D63D224DBB3065708A89E&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/957.jpg" tvg-id="f7868c53d0693e891ffe7e99a507c482",QBS
+http://aws.icartsh.com:9981/stream/channelid/1401718519?ticket=C65A2F3AFE116EAB702E694751CED67C7BD399F7&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/K2ztoDT.png" tvg-id="0444d932875eab93438f44f1a34733a6",SBS
+http://aws.icartsh.com:9981/stream/channelid/853099524?ticket=298945ACF3D6082CEC9DED26E8F40A207EE81E7D&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/SfDs4qN.png" tvg-id="35ae5d888afd499996a905303e30db0f",SBS CNBC
+http://aws.icartsh.com:9981/stream/channelid/140357173?ticket=8D9B77592DB28CF805205A6C188A0340CC174EF9&profile=pass
+#EXTINF:-1 logo="http://wchimg.pooq.co.kr/pooqlive/thumbnail/S13.jpg" tvg-id="9c0b4afa5020ca1b8e06c71792741e9a",SBS Mobidic
+http://aws.icartsh.com:9981/stream/channelid/2051672988?ticket=63967D61E07C63AD5D1EAED5B4F02B249DC2A60B&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/OeSJ9Ik.png" tvg-id="aa5647c28bfdaf87d9ca11202737ed35",SBS MTV
+http://aws.icartsh.com:9981/stream/channelid/1111971498?ticket=587692E710024A54C61C61EE3321A30BD7F006F1&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/asfyrTm.png" tvg-id="53058008c3c57e4fe9ad97884258f1c4",SBS Plus
+http://aws.icartsh.com:9981/stream/channelid/142607699?ticket=90312E4136A8ED6AA40CDEE1189277EC68EFFFF8&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/xm1O8eQ.png" tvg-id="857f8e4f2e7e4afdb6c34c5b8c6ad629",SilveriTV
+http://aws.icartsh.com:9981/stream/channelid/1334738821?ticket=7D103C0DCF4DEE15B0696DF33708BFE44A64AB08&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/ZJi3NQy.png" tvg-id="8da68bc7bda0b94c6aa96e0a80e74b21",STN스포츠
+http://aws.icartsh.com:9981/stream/channelid/1200334477?ticket=95FE701F6D50A31277DF47E56283D067CDA26981&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/o3MWHfb.png" tvg-id="066c957e7d022539aafa3f364644016a",TBS TV
+http://aws.icartsh.com:9981/stream/channelid/2123721734?ticket=0C28A4E52A725E05CF8A2C36CC568DF34FABDADA&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/CJOSHOP_H160721.png" tvg-id="7613393b64ccb3a47bc134dce2334cce",videoportal CJ오쇼핑
+http://aws.icartsh.com:9981/stream/channelid/993596278?ticket=65F4A9B9E14C5BD190656A699D17BCDB8F34FAD2&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/CNBC_H160721.png" tvg-id="2c14a57633d6993dcc32fa56f08735f8",videoportal CNBC
+http://aws.icartsh.com:9981/stream/channelid/1990530092?ticket=70CDFD845A4DF95B9C93C4CB2CC6BB700139F6E5&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/CNN_H161012.png" tvg-id="73af5d3dead24e08b57b008183fa3468",videoportal CNN International
+http://aws.icartsh.com:9981/stream/channelid/1029549939?ticket=D344BF7B46918F8D04C8F1726A77B3E86C82B12F&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/EBSkids_H20180110.png" tvg-id="09503e88ac1ffbfe90df8a42ea09bca0",videoportal EBS Kids
+http://aws.icartsh.com:9981/stream/channelid/138301449?ticket=BFC9BB44225708C38E4A3D92D76428FB85232298&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/EBSPlus1_H161012.png" tvg-id="d3d525598ee77517ecd8140b50845037",videoportal EBS+1
+http://aws.icartsh.com:9981/stream/channelid/1495651795?ticket=2486DBA64AD27EDB29648DB7DC937538EB897D49&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/EBSPlus2_H161012.png" tvg-id="a988e5f62dad8aa60f1be3e243a411e2",videoportal EBS+2
+http://aws.icartsh.com:9981/stream/channelid/1994754217?ticket=88ADF79934352D9C0D7053E5D99B3AEF7F56117C&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/EBS1_H161012.png" tvg-id="100aba77a02d03fd73ce72f48707c549",videoportal EBS1
+http://aws.icartsh.com:9981/stream/channelid/2008680976?ticket=2B572246BE58B2B8B33B9FC8607454C1B0EEE4B1&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/EBSEnglish_H161012.png" tvg-id="0c4f87bd9fa21dabbbc0a25535f71f8a",videoportal EBSEnglish
+http://aws.icartsh.com:9981/stream/channelid/1032277772?ticket=C939DEE7BB792039932F1040AE7475681FFB3FEA&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/FTV_H161012.png" tvg-id="30fbbe0333f499901d768266433ad7cf",videoportal FTV
+http://aws.icartsh.com:9981/stream/channelid/62847792?ticket=22D9A867090E4BBFA652373605FACE2DE617602E&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/GMTV_H161012.png" tvg-id="af7289b1fee6422f5d09bbdb6294c663",videoportal GMTV
+http://aws.icartsh.com:9981/stream/channelid/831091375?ticket=ADCA91BA88B09A64A1DE48F9F44F97C66A695CE4&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/GSmyshop_H160721.png" tvg-id="e783a86a6846ec61f92547d89569dd7e",videoportal GS마이샵
+http://aws.icartsh.com:9981/stream/channelid/1789428711?ticket=82598CFB83942EE67A8E9DFA63DC47E9894FD00A&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/GSSHOP_H160721.png" tvg-id="ca079e2bf8ef20f9bda08a1307329e16",videoportal GS샵
+http://aws.icartsh.com:9981/stream/channelid/731776970?ticket=6EE66DE91FE39752815D2DC054481C9BD3E6A2F4&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/JEIEnglishTV_H161012.png" tvg-id="bd29f4e6b63523a7033d46fde33606cf",videoportal JEI EnglishTV
+http://aws.icartsh.com:9981/stream/channelid/1727277501?ticket=2CC96547B3B21E80A017EFD8154E4FA2992D39CA&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/JTBC_H161012.png" tvg-id="976cb1dabba810fc9b689aef2133e322",videoportal JTBC
+http://aws.icartsh.com:9981/stream/channelid/1521577111?ticket=A330213E69B588B6251354A84EBF35404E0973DD&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/JTBC2_H180829.png" tvg-id="f8c27fb08780bc44162d72e8e7bb2a5a",videoportal JTBC2
+http://aws.icartsh.com:9981/stream/channelid/813679352?ticket=AF44E7ED8B225C531D30BBA7BDFAF3143A39877A&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/JTBC3FOXSPORTS_H20161006.png" tvg-id="feea9920e7285699ef28a81fc71031bf",videoportal JTBC3 FOX스포츠
+http://aws.icartsh.com:9981/stream/channelid/546958078?ticket=434845061F2BA79DFAEAD3D349CE51617D8190AC&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/JTBC4_H180829.png" tvg-id="0eb58c80588f2855414c90aa94ccc5d5",videoportal JTBC4
+http://aws.icartsh.com:9981/stream/channelid/9221390?ticket=52391FAE85A09F4997AE146697B164811E92D0E6&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/JTBCGolf_H161012.png" tvg-id="7bbe7615db8412a3a29f07a5f2333062",videoportal JTBC골프
+http://aws.icartsh.com:9981/stream/channelid/360103547?ticket=4BBB0F31300F947F67F5C772B1954722BC3A5BCC&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/KBSN_PLUS_H20170601.png" tvg-id="d6a59ba11d3ef98dafbd101da613c05f",videoportal KBSN PLUS
+http://aws.icartsh.com:9981/stream/channelid/563848662?ticket=8FC6DC643CC69B84FD5FB90D323615037C5A0EE2&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/Kstar__H161111.png" tvg-id="a49fc3417175073e8d586f4ae296744b",videoportal K스타
+http://aws.icartsh.com:9981/stream/channelid/1103339428?ticket=F43238B21AB60771661121DAC19B682F8EFB6BCA&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/LCK_H190702.png" tvg-id="9c383641c927220bdebf98f83facd05b",videoportal LCK 특별채널
+http://aws.icartsh.com:9981/stream/channelid/1094072476?ticket=675D65A41338C772B20BA34E896A4CAA8EF83DE1&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/MBN_H161012.png" tvg-id="952a77a1d280338c5029d5386ed4dc86",videoportal MBN
+http://aws.icartsh.com:9981/stream/channelid/561457813?ticket=A979B50278C1BE61E8583B229D6B353441CFB187&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/MLB1_H160721.png" tvg-id="bf301023da004198f6e3c58b64ebf5b3",videoportal MLB1
+http://aws.icartsh.com:9981/stream/channelid/588263615?ticket=683D40B0292E7D87CA2383929EB0CE3BB7F8010C&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/MLB2_H160721.png" tvg-id="5e430bf835f52c9648e9d85f66783197",videoportal MLB2
+http://aws.icartsh.com:9981/stream/channelid/2014004062?ticket=4294BC7CE2B9FF4AC734971E05B51567BFF36637&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/MLB3_H160721.png" tvg-id="dd06b8f275999ce90ef9db1af5cc05ac",videoportal MLB3
+http://aws.icartsh.com:9981/stream/channelid/1924663005?ticket=A326F6DFF055AE4ADC88ECA579F1050E8C52C7D8&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/NSSHOP_H160721.png" tvg-id="65d2c242179a55bb3a1ccd100e9e8c52",videoportal NS홈쇼핑
+http://aws.icartsh.com:9981/stream/channelid/1120064101?ticket=675B5A73786CBDFA23255E7D3F4C89FC0A4DF83B&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/OtvN_H160721.png" tvg-id="a9bb18438acb920231350f18162bf0ea",videoportal O tvN
+http://aws.icartsh.com:9981/stream/channelid/1125694377?ticket=4BE8CD03E6B0D1DBF3E6644A4AC0055B34C331E5&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/OBS_H161012.png" tvg-id="c31f3c076945f8a17b9fd7c8d5246941",videoportal OBS
+http://aws.icartsh.com:9981/stream/channelid/121380803?ticket=DEA3E60491F257D83CAF59D39280AC36B76CBA7E&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/OBSW_H161012.png" tvg-id="6409137d21338cd045c04739e8301358",videoportal OBS W
+http://aws.icartsh.com:9981/stream/channelid/2098399588?ticket=EBAF6BDBFB42C047C746F75F37E523AB15905718&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/OGN_H180724.png" tvg-id="10c9ea08b77b0d9a39cc8c6e70de8583",videoportal OGN
+http://aws.icartsh.com:9981/stream/channelid/149604624?ticket=4A8D2FA5365008DEBD55BECCAD0744449613413C&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/PLAYYWell_H160721.png" tvg-id="f8ccdbfe6ae14432b3cb0d0e785a6e2d",videoportal PLAYY웰메이드
+http://aws.icartsh.com:9981/stream/channelid/2128334072?ticket=503C4FA8C259B36647342D41AFFF0F8B047B4D5F&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/PLAYYprem_H160721.png" tvg-id="268caa7ad75ce5bf26c6c8899fca7ae6",videoportal PLAYY프리미엄
+http://aws.icartsh.com:9981/stream/channelid/2057997350?ticket=C1A0659895A12948FEC866D996AABA921A599AFB&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/SBSgolf_H170403.png" tvg-id="34e458110178bcd3c9f9556271f4e0a8",videoportal SBS골프
+http://aws.icartsh.com:9981/stream/channelid/291038260?ticket=795EFB0F4C1EB92C2D15C802C3642E514DC17196&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/SPOTV2_H180814.png" tvg-id="bd5f972c7f787aeab76cebc86a33514c",videoportal SPOTV2
+http://aws.icartsh.com:9981/stream/channelid/748117949?ticket=23AED6D29A04CEED49C7C0782E1C41A9A9DEA3B4&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/SPOTV4_H180904.png" tvg-id="5b9f4a77d172ee4a9bffb0dc199e6cd0",videoportal SPOTV4
+http://aws.icartsh.com:9981/stream/channelid/2001379163?ticket=90DDD99298E40CF80D107F364B629EDC5E3C0EE2&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/tvN_H160721.png" tvg-id="8419f69f42d316f1df14a9e574cb1f69",videoportal tvN
+http://aws.icartsh.com:9981/stream/channelid/536222084?ticket=1EDB9DCD2478DD69855B648D7B207412319A3C0C&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/TVchosun_H161012.png" tvg-id="c1f8595cf26129b0a82afc558ea61e5c",videoportal TV조선
+http://aws.icartsh.com:9981/stream/channelid/1549400257?ticket=3E136236688697368392B75748F64E6A2D24DBE7&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/WShopping_H181008.png" tvg-id="82da565c2b1cdd432b90cd13d331a1d7",videoportal W 쇼핑
+http://aws.icartsh.com:9981/stream/channelid/1549195906?ticket=4AEC15DCAB45FE9F2D83097D0344EE8012CF4633&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/XtvN_H180126.png" tvg-id="82d1006895e82f8b3c24e5e20b50a99e",videoportal XtvN
+http://aws.icartsh.com:9981/stream/channelid/1744884098?ticket=95E10240EB308E0A61B76E2ADE936CEF08D10705&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/YTN_H161012.png" tvg-id="fef107b338d2dc3e75486d84688be0e0",videoportal YTN
+http://aws.icartsh.com:9981/stream/channelid/856158718?ticket=BB438DAAE7370F95C765E66AD23D7512D750814E&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/KayoTV_H160721.png" tvg-id="723345a99e7b377ec685434ef510877e",videoportal 가요TV
+http://aws.icartsh.com:9981/stream/channelid/692401010?ticket=4CD6C25B53224350610BB02B6F6FEA11A87F84E4&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/DIAtv_H180131.png" tvg-id="d69d8742d4d923dafbc71368b960fb62",videoportal 다이아TV
+http://aws.icartsh.com:9981/stream/channelid/1116184022?ticket=B2B3D859D61697745034EE116DC35C3F901E5A94&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/foodTV_H170925.png" tvg-id="785ab9aaafa8c212c881cf3365cb1a4b",videoportal 라이프타임
+http://aws.icartsh.com:9981/stream/channelid/716790392?ticket=99044CFD19DE36E41E2B496940A8C0613F0E9611&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/LOTTESHOP_H160721.png" tvg-id="dc1474248ee525e4b4d45c089cd7a4b1",videoportal 롯데홈쇼핑
+http://aws.icartsh.com:9981/stream/channelid/611587292?ticket=B2F594F0FF2673E0C2159379E1B4392CDBE36EF5&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/Baduk_H170327.png" tvg-id="955483a525599dadf92ea6689b65d97f",videoportal 바둑TV
+http://aws.icartsh.com:9981/stream/channelid/629363861?ticket=FBFF515449A7908E4DCAE41990046638FE3BFCFD&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/BravoKids_H180809.png" tvg-id="99b1861061fa0bced148a3340e6964f3",videoportal 브라보키즈
+http://aws.icartsh.com:9981/stream/channelid/277262745?ticket=7B1F5FE31CE3CDBA50B469E99DBC18BC4B31FD95&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/BrainTV_H160721.png" tvg-id="68f5b4cf80e8a7b096176b59989853d5",videoportal 브레인TV
+http://aws.icartsh.com:9981/stream/channelid/1337259368?ticket=26F4B51662884FEE7DCE9D81A51A0D743367FE5A&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/BilliardsTV_H161012.png" tvg-id="160758dd536eb2d42df3e74b7ef52d03",videoportal 빌리어즈TV
+http://aws.icartsh.com:9981/stream/channelid/1566050070?ticket=307B0FFEA76AFDDC0A8C3FDC8AEC6A262B5553ED&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/SPOTV1_H160721.png" tvg-id="7eedd0f43050d8b51937e63147bedc51",videoportal 스포티비
+http://aws.icartsh.com:9981/stream/channelid/1959849342?ticket=8FAFB929E6E53418607584D2A9816FC96007C9F4&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/SPOTVGAME_H160721.png" tvg-id="5061bc5e581ffd86abd33b73e7bb17a1",videoportal 스포티비 게임즈
+http://aws.icartsh.com:9981/stream/channelid/1589403984?ticket=FC724E8E3E253AF7B1E908B5AF0AE60D3F4E3DDE&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/SPOTVPlus__H161111.png" tvg-id="3af5ead66ff9829ec9fbd9a299ba2be2",videoportal 스포티비+
+http://aws.icartsh.com:9981/stream/channelid/1458238778?ticket=41F6EF16FA395DF36ABEAF71F01CCC59F238FE68&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/AsiaN_H161012.png" tvg-id="206429868d010e6ca96a7230aaa9d52c",videoportal 아시아N
+http://aws.icartsh.com:9981/stream/channelid/103375904?ticket=C37369BC13B848153BF879D7EC543C70566559D3&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/ANIMAX__H161111.png" tvg-id="440c358c11acc48ab955a1c8deb75923",videoportal 애니맥스
+http://aws.icartsh.com:9981/stream/channelid/204803140?ticket=F3D26E6BC427C780D18C0328290DD081C9E1B3D8&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/ANIPLUS_H161012.png" tvg-id="ca13d98e8da82195b638c0b4ad5ba235",videoportal 애니플러스
+http://aws.icartsh.com:9981/stream/channelid/249107402?ticket=B43C6EB67AB476ADCFE1B179634F56FCD72203A5&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/KidsTV_H161012.png" tvg-id="77e7a6f0508cdd9f177743d3953f8e7a",videoportal 어린이TV
+http://aws.icartsh.com:9981/stream/channelid/1889986423?ticket=36A5D1F66A4D6488225A7A6DBC4B0114EC59A922&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/Mnet_H160721.png" tvg-id="29a15625967970ade39bf9abc3fa1bfc",videoportal 엠넷
+http://aws.icartsh.com:9981/stream/channelid/626434345?ticket=4401B16809ED965E0402B72488C5F990ACF13D08&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/NewY_H161012.png" tvg-id="57bb08e908fcdfd9de4b2b3d7af1992e",videoportal 연합뉴스TV
+http://aws.icartsh.com:9981/stream/channelid/1762179927?ticket=CE3F52B650D9471CB4C1E4AA55B8EA0083BEFAA1&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/Onstyle_H170921.png" tvg-id="ce33b255bed180c81d35d53c355dbad1",videoportal 온스타일
+http://aws.icartsh.com:9981/stream/channelid/1437742030?ticket=91B9D6C4584B4E9F26AC6151497D7B58E006DA7D&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/Olive_H180814.png" tvg-id="f63d90123e776416bf08fd038193b45f",videoportal 올리브
+http://aws.icartsh.com:9981/stream/channelid/311442934?ticket=F9CD0A4FA4A7BA99A998929A572A35C8733FAC35&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/JungHwa_H160721.png" tvg-id="c81fa00fedc736d50ec78d594be1f776",videoportal 중화TV
+http://aws.icartsh.com:9981/stream/channelid/262152136?ticket=57ACBEB27061C388C5EECB262F72FACB9FA1A2D8&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/channelA_H161012.png" tvg-id="c324a2c84fff946f718b0841dfbbb806",videoportal 채널A
+http://aws.icartsh.com:9981/stream/channelid/1218585795?ticket=1E04C38BAAD3BFA1809125EB2B0CB683398DAD39&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/TomatoTV_H160721.png" tvg-id="fe5da45fa49cf6e28e751eafe48d8664",videoportal 토마토TV
+http://aws.icartsh.com:9981/stream/channelid/1604607486?ticket=E7F154B5DA5537E5E1BDCEA890A9A8B90FDC8CF0&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/polarisTV_H160721.png" tvg-id="a06e66136fad0d281c6e1d5e54cdd53d",videoportal 폴라리스TV
+http://aws.icartsh.com:9981/stream/channelid/325480096?ticket=2729E7F161C4D4589CADC62D8C1C27FB61790C27&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/Chungchul_H170929.png" tvg-id="ff1c51950fa9807b007fcda150136092",videoportal 플레이런TV
+http://aws.icartsh.com:9981/stream/channelid/357637375?ticket=C89D8550E4DFC09C3420AF8F25F268A244159994&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/FSTV_H160721.png" tvg-id="55e64b29c54fa47602adff1776b0e9fa",videoportal 피싱TV
+http://aws.icartsh.com:9981/stream/channelid/692840021?ticket=DEA0F6FB793008536863C797BFEE0A7CACA5853E&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/HDSHOP_H160721.png" tvg-id="f8402d9daa03a01adf33db7d1a35256e",videoportal 현대홈쇼핑
+http://aws.icartsh.com:9981/stream/channelid/489505016?ticket=CE47CD83C69C48E16420FBF8F89D2E028270B996&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/HDplusShop_H160922.png" tvg-id="82de12eeada00f292261ea8331dd0abc",videoportal 현대홈쇼핑+샵
+http://aws.icartsh.com:9981/stream/channelid/1846730370?ticket=10AB13600651DAD8CCC4C1F94B04B63B2F5E3C57&profile=pass
+#EXTINF:-1 logo="http://210.182.60.11/image/HomeNSHOP_H160721.png" tvg-id="c1b10ee6248590b027e4d8bbe0d5cf3a",videoportal 홈앤쇼핑
+http://aws.icartsh.com:9981/stream/channelid/1712239041?ticket=61EBCA40B7182A6E4F7F20714E6091AC1AE6E24A&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/Cged9ve.png" tvg-id="1222e7f96a592ad6a06aac28e8967b2b",W 쇼핑
+http://aws.icartsh.com:9981/stream/channelid/2045190674?ticket=79974353445312B8875181FC6E4944646051F4C2&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/f66yRT9.png" tvg-id="948eae741833a369d78b97c6a8823e13",YTN라이프
+http://aws.icartsh.com:9981/stream/channelid/1957596820?ticket=2AD43BDCB4D1C0FA5FB45410B4F18B060EB5E991&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/6ncOOSg.png" tvg-id="f55810687de8715093209f40c917fbc4",가요TV
+http://aws.icartsh.com:9981/stream/channelid/1745901813?ticket=F857C85484587BDEF47411F044367164C446A88E&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/yyXkYzJ.png" tvg-id="cd103224b3b45f8f3e31916a3fc316d3",국방TV
+http://aws.icartsh.com:9981/stream/channelid/607260877?ticket=E8535D619216196108E8A12107D452A9D66BCF4D&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1371.jpg" tvg-id="11facbf1d6dbc05a0345a1b6aa493d58",대한생활체육TV
+http://aws.icartsh.com:9981/stream/channelid/1909193233?ticket=FC741DC19BDCB3CD944E12E5F38BE07BC0663F5D&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/6vzmEfd.png" tvg-id="abcdf1a75bccbd9fe7cb8b52167381af",더 무비
+http://aws.icartsh.com:9981/stream/channelid/670158251?ticket=805EC4A79BA4D8DFCAE1C1AD979A6678A04351C3&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/AlmV8jS.png" tvg-id="31d0a2e1dd22dab714fd515bb5be3e8f",동아TV
+http://aws.icartsh.com:9981/stream/channelid/1638060081?ticket=13FAE260A38C7B7ADC59A9A770802B4CF87757B0&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/PYnXtlb.png" tvg-id="32e4c169aaa8bdb0e16b43af6762eaae",리얼TV
+http://aws.icartsh.com:9981/stream/channelid/1774314546?ticket=DBDF3DB340509CDBA99365C766B821D93459FAD7&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/4nLYnVC.png" tvg-id="6575c88c817f4cfd0ad7e1f173982cb4",마운틴TV
+http://aws.icartsh.com:9981/stream/channelid/214463845?ticket=675B6EDFA0DC43212398C46E47DE5BD633CAB011&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/a4PwnPm.png" tvg-id="06b51431a7a0d86bee3fafaa1fea7893",매일경제TV
+http://aws.icartsh.com:9981/stream/channelid/823440646?ticket=CB4134FB74BA1C919298684C5EAB3B3248897E88&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1297.jpg" tvg-id="5c93b600f34b9808c0099f1d4eb12148",문화유산채널
+http://aws.icartsh.com:9981/stream/channelid/11965276?ticket=529975F4FF8E8F8F0A533CC486DA0EB7B72D1ADA&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/VimbcIH.png" tvg-id="fc1f4d9f55927ee9b0180a2dcd069a99",방송대학TV 
+http://aws.icartsh.com:9981/stream/channelid/525148156?ticket=2CB1AC9766C877C46CE2C52F291883AEF27955A0&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/WJaHOAP.png" tvg-id="7ceb1dca07738940fa131090d647bd42",법률방송
+http://aws.icartsh.com:9981/stream/channelid/1243474812?ticket=3946799BF76B5EB26A1003064DE3FBECBFBB370A&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/mU7QuTz.png" tvg-id="6ffb5a3d589c3aa2c14e5b9ddc4f180d",베이비TV
+http://aws.icartsh.com:9981/stream/channelid/1029372783?ticket=4650D9347173A6F15456AD5E16CD459DF1F15D23&profile=pass
+#EXTINF:-1 logo="http://wchimg.pooq.co.kr/pooqlive/thumbnail/K17.jpg" tvg-id="c971c05540533ae589e88bee93b2f5be",뽀로로TV
+http://aws.icartsh.com:9981/stream/channelid/1438675401?ticket=8E407C73529073CE951DE606C74232A05C458DB7&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/LBzj77k.png" tvg-id="31d3bc39c628fde54b57ab6c39bcc874",서울경제TV SEN
+http://aws.icartsh.com:9981/stream/channelid/968676145?ticket=25F211840554AEC8E731AF95D2BFF4B85A9B3426&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/971hUD2.png" tvg-id="7a4e9db8d65222a8746fcaf560e6ec3a",소비자 TV
+http://aws.icartsh.com:9981/stream/channelid/949833338?ticket=C28DF767C8C1CB7094DD6BBB116D1E335F944A2A&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/Q7FHxYB.png" tvg-id="bd9737ddbd3042965a2c3b705afde721",쇼핑엔T
+http://aws.icartsh.com:9981/stream/channelid/1563924413?ticket=93018FE7F0977DA64ABD028B12EF61DAF049CB2E&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/zReu7df.png" tvg-id="f97755149291d4343afb18da18cf06c7",아르떼TV
+http://aws.icartsh.com:9981/stream/channelid/341145593?ticket=E43C0EB9091765679D59E3DFD9860113C8D3A285&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/nFWWIFP.png" tvg-id="33803172b46b9122f58e019d4db79447",아리랑TV
+http://aws.icartsh.com:9981/stream/channelid/1915846707?ticket=BB6B11C5213BB4C88ECC708C5391EF613A9F08C2&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/JYQpemw.png" tvg-id="4fc402bec28f31aeca2c790a5284ff56",아이넷TV
+http://aws.icartsh.com:9981/stream/channelid/1040368719?ticket=05AB43FCAC084C874278C653F0BB1AB37E628C91&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/933.jpg" tvg-id="19582c0bcc9220f507f11b6647f13baf",애니프렌즈
+http://aws.icartsh.com:9981/stream/channelid/187455513?ticket=13AD24A44F45F2A17ED36C365FE1E9CC899B9BB9&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/7RKoOZq.png" tvg-id="364cff2f6217da6b562344b105801092",애니플러스
+http://aws.icartsh.com:9981/stream/channelid/805260342?ticket=272E3637C7ECE02FEA68CDE18B90297BE9B80361&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1357.jpg" tvg-id="4ea436c50c8c219a7c73101d0991df0b",엠스타 TV
+http://aws.icartsh.com:9981/stream/channelid/1161208910?ticket=D07306CA443B3C5B0A77ADDE599D7EC569F9BE9C&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/mKWQE7z.png" tvg-id="d3edcd865cf2215b5f55116d656399de",원음방송
+http://aws.icartsh.com:9981/stream/channelid/114159059?ticket=3158F45C72B7E9DEFE541BBAE6176E721BF244BA&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/UEIB4ZG.png" tvg-id="4162a42f5decee581a0534fa101e75fb",육아방송
+http://aws.icartsh.com:9981/stream/channelid/799302209?ticket=39F13B918DB0F8ED604BDB144BCB5B139318EE2E&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/W90Hw2p.png" tvg-id="b1809047f12f8ac14d5177cd40124e77",이데일리TV
+http://aws.icartsh.com:9981/stream/channelid/1200652465?ticket=989D707BB0D717B46F8001746AD4E9401DE28F07&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/25.jpg" tvg-id="12bae9c9397113c53eef759b11064c73",이토마토TV
+http://aws.icartsh.com:9981/stream/channelid/1240054290?ticket=CDD75FFC2827FDFA93CDA9254C96750B99669058&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/cb58LLs.png" tvg-id="a7830268ed7712a3c3bc998d7f46bdd1",인도어 스포츠 채널
+http://aws.icartsh.com:9981/stream/channelid/1744995239?ticket=7D2F47B4A34D15CD22E1898460140F0DB5A2523E&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/V9jGCZm.png" tvg-id="8863781c74f554ee7bc8d3009dcba927",채널J
+http://aws.icartsh.com:9981/stream/channelid/477651848?ticket=FA0576F2DC93A5BBC0EF3D684911B3B40DC68A48&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/mtiKEkU.png" tvg-id="cca5eb683c83db7d2b92494b14ee7a97",채널W
+http://aws.icartsh.com:9981/stream/channelid/1760273868?ticket=A77F7438423527C3FFCEE00A5770AEC0FD90DA84&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/Ea3Vu8Z.png" tvg-id="749f51d8c92f378246db601547f033ea",텔레노벨라
+http://aws.icartsh.com:9981/stream/channelid/1481744244?ticket=D6DFAED050781B42452D3E7E2E04BD47C1FB672B&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/NP2KTGN.png" tvg-id="057131129ff19ee1cf05628cd2100cac",트렌디
+http://aws.icartsh.com:9981/stream/channelid/305230085?ticket=0EDBA0BE39F4520E90B0F7E561CA7CB7FA4B464B&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/784.jpg" tvg-id="13f0d394e89c02d950956ca8a96a0f24",트렌디 M
+http://aws.icartsh.com:9981/stream/channelid/349433875?ticket=DB892433E6D776A5437BE31197EB2CE205EFE2E3&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/aghufJ7.png" tvg-id="eae4bce7133f27d3706039a11d6890e1",폴라리스TV
+http://aws.icartsh.com:9981/stream/channelid/1740432618?ticket=B4216A25511DE8722DB50B97DED1361EF7DC3F83&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/387.jpg" tvg-id="5af6f7b89056f87c53fade034dab14f0",한국당구방송(KBNTV)
+http://aws.icartsh.com:9981/stream/channelid/955774554?ticket=D874C3D1C19D14160078D01DE7BEE77DB9155151&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/1363.jpg" tvg-id="dc5ac954626b0a75db2906a8e53edc6a",한국예총방송
+http://aws.icartsh.com:9981/stream/channelid/1422482140?ticket=EF185082B03333CB07E10FF65CF00BA25735BCDB&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/yUk2RhO.png" tvg-id="9edd8f2a1d4347c140cdbc844a364849",한국정책방송 KTV
+http://aws.icartsh.com:9981/stream/channelid/714071454?ticket=CC374FAE16102A2BF21E7B7B5458EAC589C937B9&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/Z3Xknso.png" tvg-id="bfd053982634859bf8dd1658db638ae4",한문화 중심채널  STB상생방송
+http://aws.icartsh.com:9981/stream/channelid/408146111?ticket=885CC93D023A0B658F463EFDAB36313C674A2E92&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/vsxRuFh.png" tvg-id="b2d92d5e324a82c04aedfed6812f86b3",헬스메디TV
+http://aws.icartsh.com:9981/stream/channelid/1580063154?ticket=10C407C65EC2DDE27F1E2D43438F1D7151CF2212&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/779.jpg" tvg-id="2bc73130559982fecdb46378337b4f91",현대HCN 새로넷방송
+http://aws.icartsh.com:9981/stream/channelid/808568619?ticket=966BA22D70CAFF375309A4740FBA6855963C1087&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/745.jpg" tvg-id="3912c12cb788d4c2e9ce083c5c2a5a97",현대HCN 서초방송
+http://aws.icartsh.com:9981/stream/channelid/750850617?ticket=FD60FC6234998406E74D12E1F1DEF8C22033ADF1&profile=pass
+#EXTINF:-1 logo="http://assets-cdn.everyon.co.kr/images/ch_sm_img/853.jpg" tvg-id="1a619feb3fc3f434f332213a025e6c26",현대HCN 충북방송  
+http://aws.icartsh.com:9981/stream/channelid/1805607194?ticket=6B1CE05C14BA840BFB9901BD3625ED11B0C05434&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/COo8Bcm.png" tvg-id="726b89b9121c0e0be01a8bd74bf7bdb6",현대홈쇼핑+샵
+http://aws.icartsh.com:9981/stream/channelid/965307250?ticket=DF3DA7870D0ECC5FA9C5D54DF4D7FAD44E115BA1&profile=pass
