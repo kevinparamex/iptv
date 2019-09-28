@@ -192,10 +192,10 @@ http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m
 #EXTINF:-1,RTM 2
 http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
 #EXTINF:-1,PPTV HD [Thai]
-http://183.89.116.13:1040
+http://183.89.3.143:1040
 #EXTINF:-1,True4U [Thai]
-http://183.89.116.13:1029
+http://183.89.3.143:1029
 #EXTINF:-1,SMM TV [Thai]
-http://183.89.116.13:1014
+http://183.89.3.143:1014
 #EXTINF:-1,Thairath TV HD [Thai]
-http://183.89.116.13:1036
+http://183.89.3.143:1036
