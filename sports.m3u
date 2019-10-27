@@ -17,3 +17,5 @@ http://etvhosting.xyz:8080/live/SamChambers/Chambers1/29340.ts
 http://etvhosting.xyz:8080/live/SamChambers/Chambers1/29339.ts
 #EXTINF:-1, TSN 5
 http://etvhosting.xyz:8080/live/SamChambers/Chambers1/29338.ts
+#EXTINF:-1, NBC Sport HD
+http://etvhosting.xyz:8080/live/SamChambers/Chambers1/44002.ts
