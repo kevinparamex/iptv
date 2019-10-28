@@ -1,77 +1,53 @@
-#EXTM3U 
-#EXTINF:-1 tvg-id="d48c7770f75218924f0420822862937d",10 BOLD [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1886883028?ticket=93CD5B69BFD48A66D8E75B823258F843A073F7C7&profile=pass 
-#EXTINF:-1 tvg-id="208ec920b33fdc6ef0616e34070209a9",ABC SD [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/550080032?ticket=CCB501B2151B8674EE6992C29CF485A04432E593&profile=pass 
-#EXTINF:-1 tvg-id="bcfb073764427b56a60379e09321559d",SBS ONE SD [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/923270076?ticket=0964053684843EABCDB987D73B743A45D8F71C75&profile=pass 
-#EXTINF:-1 tvg-id="8863a97e215effefd9e5467a14e46d07",7 Perth [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/2125030280?ticket=FDEF890703E84273F673FAA84AEFB19FE61D5B27&profile=pass 
-#EXTINF:-1 tvg-id="ebd9d528fb042f69b4dcf0150d1b78cc",Channel 9 Perth [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/685103595?ticket=3CABC64F98A35C2A270EBAD18871077131DF60C3&profile=pass 
-#EXTINF:-1 tvg-id="820305726c522f2be65d1ceaa544a7bc",10 [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1912931202?ticket=6DBD6F264C7E8E1E75FEE872C4A08376DC6BD2B3&profile=pass 
-#EXTINF:-1 tvg-id="2cbf12684b780304eb2246708ece1a29",10 Peach [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1746059052?ticket=EE651D9557B0484A56279F0EF6CC71FC34A452C1&profile=pass 
-#EXTINF:-1 tvg-id="2c25fc97586b9e5d54589bea252696b0",10 BOLD [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/402400556?ticket=4DC342C22539A625982FE5F7B87E314B1B4DDA93&profile=pass 
-#EXTINF:-1 tvg-id="8e4dea7c2c0e266dc90aa2ba498ea841",10 HD [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/2095730062?ticket=76E19CFE4324E195EBC335A0AC9178F11C1FC06A&profile=pass 
-#EXTINF:-1 tvg-id="d67744c97ac98519a18248e1222bf7d7",TVSN [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1229223894?ticket=C90CE5B62E34E0022AE67D8F9039A3C0F62844C3&profile=pass 
-#EXTINF:-1 tvg-id="8b1549dc76f9ed2aff26f3e468c073cb",SpreeTV [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1548293515?ticket=963B6F3B5EDC02783DCC35DD7E900C7AA17815BD&profile=pass 
-#EXTINF:-1 tvg-id="2ae3c8fd953f38cc0b1740daec5ad70a",ABC HD [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/2110317354?ticket=88AAB05D9A774F2EB3E4C55356924EFDB2E0A65B&profile=pass 
-#EXTINF:-1 tvg-id="3fe4da499e8d40bb5ad8a2ca2807a574",ABC [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1239082047?ticket=D6444121A10D3EB807950AC846AD6928FF9D7A50&profile=pass 
-#EXTINF:-1 tvg-id="fc368191022e62329455c41e03d0a5c9",ABCComedy/Kids [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/293680892?ticket=BC66D8318439F9EF487BDDA835FE26D293ECB9B0&profile=pass 
-#EXTINF:-1 tvg-id="19d47946278e52baf468e7ab0c2fb3a5",ABC ME [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1182389273?ticket=EA51B2A5BB3352D4C5FB0B6C60495217EBE48593&profile=pass 
-#EXTINF:-1 tvg-id="1d10158a301ac7f7520966da1c02d2e9",ABC NEWS [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/169152541?ticket=69CB5D57FA4336FDAF861F164140A183E0C2AA66&profile=pass 
-#EXTINF:-1 tvg-id="1dd2671790f68eb8314198506707dfad",SBS ONE HD [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/392679965?ticket=6F846FE75B7BBF6AA7033CB8C45E79E42D4488C3&profile=pass 
-#EXTINF:-1 tvg-id="a72461eb3f68b9a287e6dc9ea32db0a9",SBS VICELAND HD [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1801528487?ticket=4A8378BD2196FC97CDF8435EEC7B3D4F0F75D890&profile=pass 
-#EXTINF:-1 tvg-id="d40dc3afd3eca01567008f67082bc94f",SBS VICELAND [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/801312212?ticket=8EE0C84440C686803FDBC522EF0306C3AA57399D&profile=pass 
-#EXTINF:-1 tvg-id="b537cd5ea3bb0dd437b16504e7611f22",SBS Food [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1590507445?ticket=B839613DAAA96128BEEEAB279051403EF5EC2EB8&profile=pass 
-#EXTINF:-1 tvg-id="d9a74f90c21a9700d2e94917a531b95d",NITV [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/273655769?ticket=6D926765369940C0FBCF7E8BCFFD64BDD58EA7E9&profile=pass 
-#EXTINF:-1 tvg-id="2fb92f442dd05e7aacc2577225d8027c",SBS Chill [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1143978287?ticket=20FB700DD38DB0CD1FD651857DC3DFEB73E147F1&profile=pass 
-#EXTINF:-1 tvg-id="b5d93309f82d1107c5bf9452e1ddb2eb",West TV [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/154393013?ticket=66AE9FC42BC144706123115541D1D698F393D5A1&profile=pass 
-#EXTINF:-1 tvg-id="ed3137d234dd1d6ea250f1ab1bae34ed",7HD Perth [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1379348973?ticket=130EDA2DE76127CCFFD4A8C2C21BF5A5A1F9508B&profile=pass 
-#EXTINF:-1 tvg-id="1542c5d3b79a4f5208d45ca98a695219",7 Perth [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1405436437?ticket=BDECBC2940DDC30D5071085C3AE42ED77102D0A5&profile=pass 
-#EXTINF:-1 tvg-id="163144945ff8b233722040e6142877ef",7TWO Perth [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/340013334?ticket=969DDE1666EEFADDB90D23768C52EA8E97BC5D6F&profile=pass 
-#EXTINF:-1 tvg-id="e7df0bb653d4b050cecd2fa09b246d69",7mate Perth [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/906747879?ticket=AE45AB87CD3D7E74A954C43C423C1C34C6E4C982&profile=pass 
-#EXTINF:-1 tvg-id="fe00bb20a8922d698c6e6f5268359988",7flix Perth [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/549126398?ticket=0A6392066C74CB10190592FC8A3809DB420A7343&profile=pass 
-#EXTINF:-1 tvg-id="81459ead1b3687fe0a6c305bab8b3f40",RACING.COM [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/765347201?ticket=782FAAB29DCAA084C1B8FE05A2082962361995F1&profile=pass 
-#EXTINF:-1 tvg-id="6f7d8719ca38978bee461bc67937d059",9HD Perth [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/428309871?ticket=C92748D22EF5951DB0325AE637ADAB5D23FFA672&profile=pass 
-#EXTINF:-1 tvg-id="f792b6822ee9755aec1caf501665ffe6",Channel 9 Perth [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/45519607?ticket=6F1B4DB465441E7141B3EF9275383EF49FA500C2&profile=pass 
-#EXTINF:-1 tvg-id="ce64d2aac1fc68d48a739bf0a3921417",9Gem [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/718431438?ticket=ABC6F60E7A24D5D0F9204FA17DC740FD4036EA4C&profile=pass 
-#EXTINF:-1 tvg-id="dff64df3b37f6d4f74984ee8595fa95b",9Go! [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1934489311?ticket=5981AC7E3ED1DCFFB49E5575B7BC076AEAB26CD8&profile=pass 
-#EXTINF:-1 tvg-id="5bae438cfc8a7a290402ad372694f35e",9Life [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/205762139?ticket=BA20A11377AEFEE768305B7F989B90983E1FAC8E&profile=pass 
-#EXTINF:-1 tvg-id="160054b1d569c02a454defd5acf0201c",Your Money [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/827588630?ticket=84DB54727CB490F0B97D12D7274DFBEA5673A246&profile=pass 
-#EXTINF:-1 tvg-id="2942a0da4068af492341c9e05391dc14",9Go! [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1520452137?ticket=3C3F1DF114E484E2333BD993F1B4274284778C32&profile=pass 
-#EXTINF:-1 tvg-id="90437b205e92cfa69bf8808034d7a1d6",Double J [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/544949136?ticket=AC1A860C84BDA09926D1C3C3F6AD9FD0FD8B95E9&profile=pass 
-#EXTINF:-1 tvg-id="68bbf07d37774ebb8117b74c3ea6e57f",ABC Jazz [OPTUS]
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/2112928616?ticket=22F11038CD1F373BDFB62A1B0803B89D8E547EF2&profile=pass 
+#EXTM3U
+#EXTINF:-1,10 BOLD [AU]
+http://pi:pi@61.245.136.112:9981/stream/channelid/1137583125
+#EXTINF:-1,ABC HD [AU]
+http://pi:pi@61.245.136.112:9981/stream/channelid/593353883
+#EXTINF:-1,SBS ONE HD [AU]
+http://pi:pi@61.245.136.112:9981/stream/channelid/254308460
+#EXTINF:-1,7HD Perth [AU]
+http://pi:pi@61.245.136.112:9981/stream/channelid/1779554768
+#EXTINF:-1,9HD Perth [AU]
+http://pi:pi@61.245.136.112:9981/stream/channelid/1561645102
+#EXTINF:-1,10 HD [AU]
+http://pi:pi@61.245.136.112:9981/stream/channelid/992044492
+#EXTINF:-1,10 Peach [AU]
+http://pi:pi@61.245.136.112:9981/stream/channelid/2060637848
+#EXTINF:-1,TVSN [AU]
+http://pi:pi@61.245.136.112:9981/stream/channelid/525424920
+#EXTINF:-1,SpreeTV [AU]
+http://pi:pi@61.245.136.112:9981/stream/channelid/1166400076
+#EXTINF:-1,ABCComedy/Kids [AU]
+http://pi:pi@61.245.136.112:9981/stream/channelid/212214229
+#EXTINF:-1,ABC ME [AU]
+http://pi:pi@61.245.136.112:9981/stream/channelid/667814131
+#EXTINF:-1,ABC NEWS [AU]
+http://pi:pi@61.245.136.112:9981/stream/channelid/2001896357
+#EXTINF:-1,SBS VICELAND HD [AU]
+http://pi:pi@61.245.136.112:9981/stream/channelid/800307286
+#EXTINF:-1,SBS Food [AU]
+http://pi:pi@61.245.136.112:9981/stream/channelid/1456689075
+#EXTINF:-1,NITV [AU]
+http://pi:pi@61.245.136.112:9981/stream/channelid/2069718429
+#EXTINF:-1,7TWO Perth [AU]
+http://pi:pi@61.245.136.112:9981/stream/channelid/288966652
+#EXTINF:-1,7mate Perth [AU]
+http://pi:pi@61.245.136.112:9981/stream/channelid/1172233693
+#EXTINF:-1,7food network [AU]
+http://pi:pi@61.245.136.112:9981/stream/channelid/366134101
+#EXTINF:-1,7flix Perth [AU]
+http://pi:pi@61.245.136.112:9981/stream/channelid/769612626
+#EXTINF:-1,RACING.COM [AU]
+http://pi:pi@61.245.136.112:9981/stream/channelid/1048198394
+#EXTINF:-1,9Gem Perth [AU]
+http://pi:pi@61.245.136.112:9981/stream/channelid/1778234094
+#EXTINF:-1,9Go! Perth [AU]
+http://pi:pi@61.245.136.112:9981/stream/channelid/508833473
+#EXTINF:-1,9Life Perth [AU]
+http://pi:pi@61.245.136.112:9981/stream/channelid/1228089624
+#EXTINF:-1,9Gem HD Perth [AU]
+http://pi:pi@61.245.136.112:9981/stream/channelid/1133680133
+#EXTINF:-1,Double J [AU]
+http://pi:pi@61.245.136.112:9981/stream/channelid/1233621214
+#EXTINF:-1,ABC Jazz [AU]
+http://pi:pi@61.245.136.112:9981/stream/channelid/86706540
