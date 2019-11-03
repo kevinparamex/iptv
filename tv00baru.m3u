@@ -211,3 +211,7 @@ http://5.158.60.160:9981/stream/channelid/852865364?ticket=E79FFCB5189797067AEE1
 http://5.158.60.160:9981/stream/channelid/1472687497?ticket=6916D61DB1F4F1E1C86715E9129B52EC6EC2B90B&profile=pass
 #EXTINF:-1,Sports tv 5
 http://5.158.60.160:9981/stream/channelid/537751237?ticket=25F31BA8E42AD7059B4A1365D7D9C0C862311807&profile=pass
+#EXTINF:-1,True Premier 1 HD
+http://119.59.116.83:8081/4k/t1/playlist.m3u8
+#EXTINF:-1,True Premier 2 HD
+http://119.59.116.83:8081/4k/t2/playlist.m3u8
