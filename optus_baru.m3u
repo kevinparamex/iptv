@@ -1,55 +1,51 @@
 #EXTM3U
-#EXTINF:-1,SBS ONE [Optus]
-http://ben:ben@203.214.120.94:9981/stream/channelid/1909207756
-#EXTINF:-1,ABC HD [Optus]
-http://ben:ben@203.214.120.94:9981/stream/channelid/1542313290
-#EXTINF:-1,ABC [Optus]
-http://ben:ben@203.214.120.94:9981/stream/channelid/339165255
-#EXTINF:-1,ABCComedy/Kids [Optus]
-http://ben:ben@203.214.120.94:9981/stream/channelid/925398889
-#EXTINF:-1,ABC ME [Optus]
-http://ben:ben@203.214.120.94:9981/stream/channelid/635821635
-#EXTINF:-1,ABC NEWS [Optus]
-http://ben:ben@203.214.120.94:9981/stream/channelid/1420194301
-#EXTINF:-1,SBS ONE HD [Optus]
-http://ben:ben@203.214.120.94:9981/stream/channelid/920013600
-#EXTINF:-1,SBS VICELAND HD [Optus]
-http://ben:ben@203.214.120.94:9981/stream/channelid/923618709
-#EXTINF:-1,SBS World Movies [Optus]
-http://ben:ben@203.214.120.94:9981/stream/channelid/855024137
-#EXTINF:-1,SBS Food [Optus]
-http://ben:ben@203.214.120.94:9981/stream/channelid/591281489
-#EXTINF:-1,NITV [Optus]
-http://ben:ben@203.214.120.94:9981/stream/channelid/178911424
-#EXTINF:-1,9HD Canberra [Optus]
-http://ben:ben@203.214.120.94:9981/stream/channelid/533693972
-#EXTINF:-1,9Gem [Optus]
-http://ben:ben@203.214.120.94:9981/stream/channelid/75171404
-#EXTINF:-1,9Go! [Optus]
-http://ben:ben@203.214.120.94:9981/stream/channelid/2114277654
-#EXTINF:-1,9Life [Optus]
-http://ben:ben@203.214.120.94:9981/stream/channelid/707433581
-#EXTINF:-1,PRIME7 HD Canberra [Optus]
-http://ben:ben@203.214.120.94:9981/stream/channelid/1537683792
-#EXTINF:-1,PRIME7 Canberra [Optus]
-http://ben:ben@203.214.120.94:9981/stream/channelid/126984406
-#EXTINF:-1,7TWO Canberra [Optus]
-http://ben:ben@203.214.120.94:9981/stream/channelid/875943998
-#EXTINF:-1,7mate Canberra [Optus]
-http://ben:ben@203.214.120.94:9981/stream/channelid/1285730819
-#EXTINF:-1,7flix [Optus]
-http://ben:ben@203.214.120.94:9981/stream/channelid/1684455207
-#EXTINF:-1,RACING.COM [Optus]
-http://ben:ben@203.214.120.94:9981/stream/channelid/1859052800
-#EXTINF:-1,WIN HD Canberra [Optus]
-http://ben:ben@203.214.120.94:9981/stream/channelid/991593101
-#EXTINF:-1,BOLD Canberra [Optus]
-http://ben:ben@203.214.120.94:9981/stream/channelid/938881154
-#EXTINF:-1,PEACH Canberra [Optus]
-http://ben:ben@203.214.120.94:9981/stream/channelid/1693085378
-#EXTINF:-1,Sky News on WIN [Optus]
-http://ben:ben@203.214.120.94:9981/stream/channelid/1377421064
-#EXTINF:-1,TVSN [Optus]
-http://ben:ben@203.214.120.94:9981/stream/channelid/63479580
-#EXTINF:-1,Double J [Optus]
-http://ben:ben@203.214.120.94:9981/stream/channelid/684973423
+#EXTINF:-1 logo="http://121.45.206.100:9981/imagecache/114" tvg-id="d1e7f31358871c97bebff5a29e72b2aa" tvg-chno="20",ABC HD
+http://kodi:kodi@121.45.206.100:9981/stream/channelid/334751697?profile=pass
+#EXTINF:-1 logo="http://121.45.206.100:9981/imagecache/112" tvg-id="00358312dc864a00540616a843480dc4" tvg-chno="22",ABCComedy/Kids
+http://kodi:kodi@121.45.206.100:9981/stream/channelid/310588672?profile=pass
+#EXTINF:-1 logo="http://121.45.206.100:9981/imagecache/130" tvg-id="c7052def0d4fa9b57c3fb8637583cf7f" tvg-chno="23",ABC ME
+http://kodi:kodi@121.45.206.100:9981/stream/channelid/1865221575?profile=pass
+#EXTINF:-1 logo="http://121.45.206.100:9981/imagecache/131" tvg-id="ca42e7701eb486dfc390fdf0300f86af" tvg-chno="24",ABC NEWS
+http://kodi:kodi@121.45.206.100:9981/stream/channelid/1894204106?profile=pass
+#EXTINF:-1 logo="http://121.45.206.100:9981/imagecache/113" tvg-id="33e386935dfe6f120b2713960235467f" tvg-chno="30",SBS ONE HD
+http://kodi:kodi@121.45.206.100:9981/stream/channelid/327607091?profile=pass
+#EXTINF:-1 logo="http://121.45.206.100:9981/imagecache/125" tvg-id="b31da6cf0e8e31e2d573a2fbad0a108a" tvg-chno="31",SBS VICELAND HD
+http://kodi:kodi@121.45.206.100:9981/stream/channelid/1336286643?profile=pass
+#EXTINF:-1 logo="http://121.45.206.100:9981/imagecache/116" tvg-id="ed595b155572ae6480cf932ec8328284" tvg-chno="32",SBS World Movies
+http://kodi:kodi@121.45.206.100:9981/stream/channelid/358308333?profile=pass
+#EXTINF:-1 logo="http://121.45.206.100:9981/imagecache/110" tvg-id="d2633c84ba003469b6f5c9619b3e32c1" tvg-chno="33",SBS Food
+http://kodi:kodi@121.45.206.100:9981/stream/channelid/71066578?profile=pass
+#EXTINF:-1 logo="http://121.45.206.100:9981/imagecache/115" tvg-id="4225659427e6c47fa499f204b9bf9e22" tvg-chno="34",NITV
+http://kodi:kodi@121.45.206.100:9981/stream/channelid/342172994?profile=pass
+#EXTINF:-1 logo="http://121.45.206.100:9981/imagecache/126" tvg-id="374e3158cb6a7495c1f73a71cce73c3d" tvg-chno="39",SBS Chill
+http://kodi:kodi@121.45.206.100:9981/stream/channelid/1479626295?profile=pass
+#EXTINF:-1 logo="http://121.45.206.100:9981/imagecache/118" tvg-id="338bfd1ff514b02ec613f79f5060e69a" tvg-chno="50",9HD Canberra
+http://kodi:kodi@121.45.206.100:9981/stream/channelid/536709939?profile=pass
+#EXTINF:-1 logo="http://121.45.206.100:9981/imagecache/122" tvg-id="60388e2e26e5132c13f22ff95d88a23b" tvg-chno="52",9Gem
+http://kodi:kodi@121.45.206.100:9981/stream/channelid/781072480?profile=pass
+#EXTINF:-1 logo="http://121.45.206.100:9981/imagecache/117" tvg-id="782f6d97cfccca75e1b1d9480022c07f" tvg-chno="53",9Go!
+http://kodi:kodi@121.45.206.100:9981/stream/channelid/393031544?profile=pass
+#EXTINF:-1 logo="http://121.45.206.100:9981/imagecache/128" tvg-id="96f2fd632f3e862b993912ec5e84e6c7" tvg-chno="54",9Life
+http://kodi:kodi@121.45.206.100:9981/stream/channelid/1677587094?profile=pass
+#EXTINF:-1 logo="http://121.45.206.100:9981/imagecache/123" tvg-id="398fbeb143a28ea9a7a2a99af082cb3f" tvg-chno="60",PRIME7 HD Canberra
+http://kodi:kodi@121.45.206.100:9981/stream/channelid/834572089?profile=pass
+#EXTINF:-1 logo="http://121.45.206.100:9981/imagecache/129" tvg-id="5c8f79eec89f6accd5f41a26062bd895" tvg-chno="62",7TWO Canberra
+http://kodi:kodi@121.45.206.100:9981/stream/channelid/1853460316?profile=pass
+#EXTINF:-1 logo="http://121.45.206.100:9981/imagecache/132" tvg-id="09fd9ffd9dbd3e618f672469766dbdd6" tvg-chno="63",7mate Canberra
+http://kodi:kodi@121.45.206.100:9981/stream/channelid/2107637001?profile=pass
+#EXTINF:-1 logo="http://121.45.206.100:9981/imagecache/124" tvg-id="5398ddc2aba1a6034ef5fccd5680ece1" tvg-chno="66",7flix
+http://kodi:kodi@121.45.206.100:9981/stream/channelid/1121818707?profile=pass
+#EXTINF:-1 logo="http://121.45.206.100:9981/imagecache/121" tvg-id="e9c0db2dc19ef38fbbe8603378b9f1ad" tvg-chno="68",RACING.COM
+http://kodi:kodi@121.45.206.100:9981/stream/channelid/769376489?profile=pass
+#EXTINF:-1 logo="http://121.45.206.100:9981/imagecache/111" tvg-id="37957911af77996ecb2f53484261f9f1" tvg-chno="80",WIN HD Canberra
+http://kodi:kodi@121.45.206.100:9981/stream/channelid/293180727?profile=pass
+#EXTINF:-1 logo="http://121.45.206.100:9981/imagecache/133" tvg-id="3c8109ff51d6fe1f5e6330ab105cd1d9" tvg-chno="81",BOLD Canberra
+http://kodi:kodi@121.45.206.100:9981/stream/channelid/2131329340?profile=pass
+#EXTINF:-1 logo="http://121.45.206.100:9981/imagecache/120" tvg-id="6499c32cc9f39b8eca82ea2edfda8dcf" tvg-chno="82",PEACH Canberra
+http://kodi:kodi@121.45.206.100:9981/stream/channelid/751016292?profile=pass
+#EXTINF:-1 logo="http://121.45.206.100:9981/imagecache/109" tvg-id="a757fc01335907d3f9fc15d071727e8a" tvg-chno="83",Sky News on WIN
+http://kodi:kodi@121.45.206.100:9981/stream/channelid/33314727?profile=pass
+#EXTINF:-1 logo="http://121.45.206.100:9981/imagecache/119" tvg-id="5185aa2aea5c55479b530134e868d572" tvg-chno="200",Double J
+http://kodi:kodi@121.45.206.100:9981/stream/channelid/715818321?profile=pass
+#EXTINF:-1 logo="http://121.45.206.100:9981/imagecache/127" tvg-id="0a53a7deba6341f99c2a76e6c4bf0dbe" tvg-chno="201",ABC Jazz
+http://kodi:kodi@121.45.206.100:9981/stream/channelid/1588024074?profile=pass
