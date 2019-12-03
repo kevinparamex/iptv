@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,SPOTV [KOREA]
+http://139.99.136.95:2306/spotv/video.m3u8
+#EXTINF:-1,SPOTV 2 [KOREA]
+http://139.99.136.95:2306/spotv2/video.m3u8
+#EXTINF:-1,SBS SPORTS [KOREA]
+http://139.99.136.95:2306/sbssports/video.m3u8
+#EXTINF:-1,IB SPORTS [KOREA]
+http://139.99.136.95:2306/ibsports/video.m3u8
+#EXTINF:-1,MBC SPORTS [KOREA]
+http://139.99.136.95:2306/mbcsports/video.m3u8
+#EXTINF:-1,KBSN SPORTS [KOREA]
+http://139.99.136.95:2306/kbsnsports/video.m3u8
+#EXTINF:-1,SKY SPORTS [KOREA]
+http://139.99.136.95:2306/skysports/video.m3u8
+#EXTINF:-1,SBS GOLF [KOREA]
+http://139.99.136.95:2306/sbsgolf/video.m3u8
+#EXTINF:-1,JTBC 3 [KOREA]
+http://139.99.136.95:2306/jtbc3/video.m3u8
+#EXTINF:-1,JTBC GOLF [KOREA]
+http://139.99.136.95:2306/jtbcgolf/video.m3u8
