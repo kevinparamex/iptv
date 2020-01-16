@@ -1,53 +1,83 @@
 #EXTM3U
-#EXTINF:-1,10 BOLD [AU]
-http://pi:pi@61.245.136.112:9981/stream/channelid/1137583125
-#EXTINF:-1,ABC HD [AU]
-http://pi:pi@61.245.136.112:9981/stream/channelid/593353883
-#EXTINF:-1,SBS ONE HD [AU]
-http://pi:pi@61.245.136.112:9981/stream/channelid/254308460
-#EXTINF:-1,7HD Perth [AU]
-http://pi:pi@61.245.136.112:9981/stream/channelid/1779554768
-#EXTINF:-1,9HD Perth [AU]
-http://pi:pi@61.245.136.112:9981/stream/channelid/1561645102
-#EXTINF:-1,10 HD [AU]
-http://pi:pi@61.245.136.112:9981/stream/channelid/992044492
-#EXTINF:-1,10 Peach [AU]
-http://pi:pi@61.245.136.112:9981/stream/channelid/2060637848
-#EXTINF:-1,TVSN [AU]
-http://pi:pi@61.245.136.112:9981/stream/channelid/525424920
-#EXTINF:-1,SpreeTV [AU]
-http://pi:pi@61.245.136.112:9981/stream/channelid/1166400076
-#EXTINF:-1,ABCComedy/Kids [AU]
-http://pi:pi@61.245.136.112:9981/stream/channelid/212214229
-#EXTINF:-1,ABC ME [AU]
-http://pi:pi@61.245.136.112:9981/stream/channelid/667814131
-#EXTINF:-1,ABC NEWS [AU]
-http://pi:pi@61.245.136.112:9981/stream/channelid/2001896357
-#EXTINF:-1,SBS VICELAND HD [AU]
-http://pi:pi@61.245.136.112:9981/stream/channelid/800307286
-#EXTINF:-1,SBS Food [AU]
-http://pi:pi@61.245.136.112:9981/stream/channelid/1456689075
-#EXTINF:-1,NITV [AU]
-http://pi:pi@61.245.136.112:9981/stream/channelid/2069718429
-#EXTINF:-1,7TWO Perth [AU]
-http://pi:pi@61.245.136.112:9981/stream/channelid/288966652
-#EXTINF:-1,7mate Perth [AU]
-http://pi:pi@61.245.136.112:9981/stream/channelid/1172233693
-#EXTINF:-1,7food network [AU]
-http://pi:pi@61.245.136.112:9981/stream/channelid/366134101
-#EXTINF:-1,7flix Perth [AU]
-http://pi:pi@61.245.136.112:9981/stream/channelid/769612626
-#EXTINF:-1,RACING.COM [AU]
-http://pi:pi@61.245.136.112:9981/stream/channelid/1048198394
-#EXTINF:-1,9Gem Perth [AU]
-http://pi:pi@61.245.136.112:9981/stream/channelid/1778234094
-#EXTINF:-1,9Go! Perth [AU]
-http://pi:pi@61.245.136.112:9981/stream/channelid/508833473
-#EXTINF:-1,9Life Perth [AU]
-http://pi:pi@61.245.136.112:9981/stream/channelid/1228089624
-#EXTINF:-1,9Gem HD Perth [AU]
-http://pi:pi@61.245.136.112:9981/stream/channelid/1133680133
-#EXTINF:-1,Double J [AU]
-http://pi:pi@61.245.136.112:9981/stream/channelid/1233621214
-#EXTINF:-1,ABC Jazz [AU]
-http://pi:pi@61.245.136.112:9981/stream/channelid/86706540
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/96" tvg-id="a9ce4cb8046ee73506593199f7f56295",ABC
+http://test:test@167.179.136.33:9981/stream/channelid/944557737?ticket=EA6B5AA112127C4CD4C1D44390FEEC271E257A06&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/99" tvg-id="a4c88dc09ef68c9437bdd8c67e03aa32",SBS ONE
+http://test:test@167.179.136.33:9981/stream/channelid/1083033764?ticket=AC376C5D82EC04F9142AF224236D3170AF168D4C&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/120" tvg-id="85a44cf4ee94a650b2a4af559c6be974",9 Bendigo
+http://test:test@167.179.136.33:9981/stream/channelid/1951179909?ticket=E021D1B881036E84B079BE1826B5A9FA532028C6&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/89" tvg-id="ece4c1164ecf2b9fbbf0a668aa4b4dc2",PRIME7 Bendigo
+http://test:test@167.179.136.33:9981/stream/channelid/381805804?ticket=FB9636FEBB974B7BFD429C7317BA170D56B5D992&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/104" tvg-id="ce62efca1e6e704bad8b5738564d7376",WIN Bendigo
+http://test:test@167.179.136.33:9981/stream/channelid/1257202382?ticket=C0F1E9BDDD224219316509C9320276CAE63F75E1&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/81" tvg-id="6fe46b863e60e0295cd857e7a9bd3699",ABC HD
+http://test:test@167.179.136.33:9981/stream/channelid/107734127?ticket=9A3A319679742B9C1B101573A746BC087BDDAE1E&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/114" tvg-id="fa0e0cedc121602d2c2f00d7c629fbf3",ABC
+http://test:test@167.179.136.33:9981/stream/channelid/1829506810?ticket=60EF2D1F346392A8A2135C8F2140A39BE8D6ECEF&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/97" tvg-id="911808bcb27ba64c53a83e5609463831",ABCComedy/Kids
+http://test:test@167.179.136.33:9981/stream/channelid/1007163537?ticket=D51715858DAA6E909237A5F40517BE231AF19640&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/103" tvg-id="cc6a74c9ded1f9b719d921cc5adbdcd1",ABC ME
+http://test:test@167.179.136.33:9981/stream/channelid/1232366284?ticket=29F4F18EDA823757A3DBFC0DF21D6B203B1B1440&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/92" tvg-id="d0fa3e9ca1506cdf49c5c7c1c4750c93",ABC NEWS
+http://test:test@167.179.136.33:9981/stream/channelid/473889488?ticket=3EE0792BD78616A09C307D885B3F53792F602581&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/100" tvg-id="af6044c1e7fdf3951bdce048ff4c24db",SBS ONE HD
+http://test:test@167.179.136.33:9981/stream/channelid/1095000239?ticket=04B4C64965663770E123ECCA19AB7170B377E88E&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/106" tvg-id="13e9ae53965ac73586b47f09ddaafbc2",SBS VICELAND HD
+http://test:test@167.179.136.33:9981/stream/channelid/1403971859?ticket=939B94666CBA4FD7415B4892AFA2743C16268AB0&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/105" tvg-id="11713a502cf7762a5403277e41b7edae",SBS VICELAND
+http://test:test@167.179.136.33:9981/stream/channelid/1346007313?ticket=3F30645C4DBE3ABD529C77A703E09C3FAD51323B&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/93" tvg-id="7579579e76430fcdfbe954022d11d5dd",SBS Food
+http://test:test@167.179.136.33:9981/stream/channelid/509049205?ticket=4A56366472487EEB21927FEDE2AE66D406DA90F8&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/119" tvg-id="f61510f4f97a3bd9d1ccc2815c8c8429",NITV
+http://test:test@167.179.136.33:9981/stream/channelid/1947211254?ticket=963602390F9FBE376F48D747D49BDD4195F8284F&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/118" tvg-id="e87df672e47a2612c49c1d6e013d2538",SBS Arabic24
+http://test:test@167.179.136.33:9981/stream/channelid/1928756712?ticket=D3F3C718162F4D21D648D0E58FD4C0292194C41C&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/121" tvg-id="983192f46c2beee0f78bc0843c4bd6bc",SBS Radio 1
+http://test:test@167.179.136.33:9981/stream/channelid/1955738008?ticket=E2029D4105182E4EB1D7B63026E9ED126A39D645&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/124" tvg-id="c15e6c7a54e42731277ee19a17aaa98f",SBS Radio 2
+http://test:test@167.179.136.33:9981/stream/channelid/2053922497?ticket=082BBF822879509B84FDD4383302F9E04104C904&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/86" tvg-id="3564f211cf1ddf7c9c299a65a9d6d360",SBS Chill
+http://test:test@167.179.136.33:9981/stream/channelid/301098037?ticket=EDF326D49818BA55F88BE6E6DAFF96B1A1A617D7&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/83" tvg-id="2b393f0a1d32c1a88e6a8e3595310ce0",9HD Bendigo
+http://test:test@167.179.136.33:9981/stream/channelid/171915563?ticket=CF24F13C6847F3003758F69E3861BBEBD81EC2BF&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/101" tvg-id="a67db04251c123c22910307966924353",9 Bendigo
+http://test:test@167.179.136.33:9981/stream/channelid/1118862758?ticket=5DC6698CC09A30E0002040F645302C913BA4CD20&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/94" tvg-id="870c4f3046d250b4f16429f0d3445746",9Gem
+http://test:test@167.179.136.33:9981/stream/channelid/810486919?ticket=C1735B997B873FC7E5EE85C9686D4FE166CF3550&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/102" tvg-id="d7bba148ae675d48d8edfded33515c3a",9Go!
+http://test:test@167.179.136.33:9981/stream/channelid/1218558935?ticket=08386A93A489073E51B1D63B2A258F8C43F5C12B&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/82" tvg-id="825a21875f7a334c89a88de6ebae93cf",9Life
+http://test:test@167.179.136.33:9981/stream/channelid/119626370?ticket=ABFE824E62C3B67AB455562B341712650485B577&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/117" tvg-id="cc4bc3721b2a1c573598def9da5308a0",SBN
+http://test:test@167.179.136.33:9981/stream/channelid/1925401548?ticket=41FE1BEFCB8629BDB7E9E074B9FB1421E44FC2B6&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/112" tvg-id="9d988c641b65deb4b36cd74b8161fb06",Aspire
+http://test:test@167.179.136.33:9981/stream/channelid/1686935709?ticket=55AC83FE2C3287694307CF9811A2AAB52AF4678F&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/84" tvg-id="97aace8e5d4cabd0e664a649187c23e1",PRIME7 HD Bendigo
+http://test:test@167.179.136.33:9981/stream/channelid/248425111?ticket=1BC76166A1F4B3DEBFF7B6C47EF98F5FC4B8F6A0&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/88" tvg-id="c5fe15960a77bffbed653406e59f2dbc",PRIME7 Bendigo
+http://test:test@167.179.136.33:9981/stream/channelid/370540229?ticket=B3E5069AECB011073FE728B823584444BB043141&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/113" tvg-id="8c009ce8091c8e852d142c3c8019eb96",7TWO Bendigo
+http://test:test@167.179.136.33:9981/stream/channelid/1755054220?ticket=DE168FD38E9C540895B7E33CC44F71A7354B281F&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/109" tvg-id="0004b9df32a9134246fe9a23609eb8dc",7mate Bendigo
+http://test:test@167.179.136.33:9981/stream/channelid/1605960704?ticket=650075C933D6CBBA32970DB02351F9F036826F1C&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/91" tvg-id="5a2ab619a568f9fa4b8aa79236463d0f",ishoptv
+http://test:test@167.179.136.33:9981/stream/channelid/431368794?ticket=6654DB20C114C8E7760E53433AF56D666C66F9F6&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/95" tvg-id="932d2035a30722246868883b689fc3ab",7flix
+http://test:test@167.179.136.33:9981/stream/channelid/891301267?ticket=21106DE702FB962D6CC7AB5F33CA9FDE809E7531&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/126" tvg-id="7360a37bfd36707cf486e50514031cc8",RACING.COM
+http://test:test@167.179.136.33:9981/stream/channelid/2074304627?ticket=D60E747EAD001D056412FBA2331CB6321A2AB898&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/115" tvg-id="f48d9170042f8633323305088b0960ef",WIN HD Bendigo
+http://test:test@167.179.136.33:9981/stream/channelid/1888587252?ticket=5B6A7788213A626CFBC1C7FD16B1CA6B76C342D3&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/125" tvg-id="edde94fb9ccc7ba4a34c4af44144a63b",BOLD Bendigo
+http://test:test@167.179.136.33:9981/stream/channelid/2073353965?ticket=06E9C1664ADEFDBB933D800D84AAFDB8CDF1AD34&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/98" tvg-id="376f36bdf378c47d42e4d73a7fe13175",PEACH Bendigo
+http://test:test@167.179.136.33:9981/stream/channelid/1026977591?ticket=59276453542AC5DD7365E4AD833EB1DB44107947&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/111" tvg-id="0fdd5be283af7563cecb2d983acac232",Sky News on WIN
+http://test:test@167.179.136.33:9981/stream/channelid/1650187535?ticket=F98CA75518CA38643C4D30B06407152081954E1D&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/79" tvg-id="8a37e1026d6b074e8b9a90de77dd62ff",TVSN
+http://test:test@167.179.136.33:9981/stream/channelid/48314250?ticket=AD4C99CB6EC20AE8EC0C5496BBD1EF6CD2CA77EE&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/80" tvg-id="f4aa44051b9f9fcb9751703382aa29d0",GOLD
+http://test:test@167.179.136.33:9981/stream/channelid/88386292?ticket=FAF9A46C284E22DB75B839A119AD855F7D1D05DA&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/123" tvg-id="8c3df1f986137e3e50ffc77a05eed742",Double J
+http://test:test@167.179.136.33:9981/stream/channelid/2045853068?ticket=13C7A6154B7A4A757F082FB745FABD6B2E5548E9&profile=pass
+#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/107" tvg-id="bf47ea57f862f044154eb4301c7eda5c",ABC Jazz
+http://test:test@167.179.136.33:9981/stream/channelid/1474971583?ticket=190C436D42B1ABFFB7A9D6377A431CD190C778A5&profile=pass
