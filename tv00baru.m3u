@@ -215,3 +215,15 @@ http://5.158.60.160:9981/stream/channelid/537751237?ticket=25F31BA8E42AD7059B4A1
 http://119.59.116.83:8081/4k/t1/playlist.m3u8
 #EXTINF:-1,True Premier 2 HD
 http://119.59.116.83:8081/4k/t2/playlist.m3u8
+#EXTINF:-1,MTV HD [Server 2]
+http://iptvhit.live/jalurlaut/123/999/213
+#EXTINF:-1,EURO SPORT [Server 2]
+http://iptvhit.live/jalurlaut/123/999/214
+#EXTINF:-1,EDGE SPORT [Server 2]
+http://iptvhit.live/jalurlaut/123/999/215
+#EXTINF:-1,FOX SPORTS 1 [Server 2]
+http://iptvhit.live/jalurlaut/123/999/216
+#EXTINF:-1,FOX SPORTS 2 [Server 2]
+http://iptvhit.live/jalurlaut/123/999/217
+#EXTINF:-1,FOX SPORTS 3 [Server 2]
+http://iptvhit.live/jalurlaut/123/999/218
