@@ -1,0 +1,561 @@
+#EXTM3U
+#EXTINF:-1,VTV1 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.249:30120
+#EXTINF:-1,VTV2 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.13:30120
+#EXTINF:-1,VTV3 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.247:30120
+#EXTINF:-1,VTV4 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.20:30120
+#EXTINF:-1,VTV5 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.131:30120
+#EXTINF:-1,VTV6 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.245:30120
+#EXTINF:-1,VTV7 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.96:30120
+#EXTINF:-1,VTV8 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.166:30120
+#EXTINF:-1,VTV9 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.128:30120
+#EXTINF:-1,AN VIÊN-BTV9
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.189:30120
+#EXTINF:-1,NCM _ BTV10
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.225:30120
+#EXTINF:-1,SAM _ BTV11
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.224:30120
+#EXTINF:-1,BTV6 2!IDOL _ VietTeen
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.223:30120
+#EXTINF:-1,VTC1 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.254:30120
+#EXTINF:-1,VTC2 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.202:30120
+#EXTINF:-1,VTC3 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.251:30120
+#EXTINF:-1,VTC4 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.200:30120
+#EXTINF:-1,VTC5 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.199:30120
+#EXTINF:-1,VTC6 HD https://iptv.live
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.198:30120
+#EXTINF:-1,VTC7-TodayTV
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.197:30120
+#EXTINF:-1,VTC8 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.196:30120
+#EXTINF:-1,VTC9 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.195:30120
+#EXTINF:-1,VTC10
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.194:30120
+#EXTINF:-1,VTC11-KidsTV
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.193:30120
+#EXTINF:-1,VTC12
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.51:30120
+#EXTINF:-1,VTC13 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.250:30120
+#EXTINF:-1,VTC14
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.88:30120
+#EXTINF:-1,VTC16
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.190:30120
+#EXTINF:-1,HTV1
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.180:30120
+#EXTINF:-1,HTV2 Vie Channel
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.193:30120
+#EXTINF:-1,HTV3 Dreams TV
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.178:30120
+#EXTINF:-1,HTV4 Keys
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.177:30120
+#EXTINF:-1,HTV7 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.192:30120
+#EXTINF:-1,HTV9 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.190:30120
+#EXTINF:-1,Thuần Việt SD
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.174:30120
+#EXTINF:-1,Thuần Việt HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.186:30120
+#EXTINF:-1,HTVC Phim HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.184:30120
+#EXTINF:-1,Du Lịch & Cuộc Sống HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.166:30120
+#EXTINF:-1,HTVC Gia Đình HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.170:30120
+#EXTINF:-1,HTV Thể Thao
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.165:30120
+#EXTINF:-1,HTV Coop
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.210:30120
+#EXTINF:-1,FBNC HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.182:30120
+#EXTINF:-1,TTXVN HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.43:30120
+#EXTINF:-1,VOV Vietnam Journey
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.171:30120
+#EXTINF:-1,Nhân Dân TV HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.91:30120
+#EXTINF:-1,ANTV HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.169:30120
+#EXTINF:-1,QUỐC HỘI HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.148:30120
+#EXTINF:-1,QPVN HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.217:30120
+#EXTINF:-1,THVL1 HD _ TH Vĩnh Long
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.155:30120
+#EXTINF:-1,THVL2 HD _ TH Vĩnh Long
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.154:30120
+#EXTINF:-1,THVL3 HD _ TH Vĩnh Long
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.235:30120
+#EXTINF:-1,NTV HD _ TH Nghệ An
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.183:30120
+#EXTINF:-1,ATV _ TH An Giang
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.173:30120
+#EXTINF:-1,BRT _ TH Bà Rịa Vũng Tàu
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.175:30120
+#EXTINF:-1,VP _ TH Vĩnh Phúc https://iptv.live
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.99:30120
+#EXTINF:-1,BLTV _ TH Bạc Liêu
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.61:30120
+#EXTINF:-1,BGTV _ TH Bắc Giang
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.164:30120
+#EXTINF:-1,BTV HD _ TH Bắc Ninh
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.40:30120
+#EXTINF:-1,THBT HD _ TH Bến Tre
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.156:30120
+#EXTINF:-1,BTV1 HD _ TH Bình Dương
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.150:30120
+#EXTINF:-1,BTV2 HD _ TH Bình Dương
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.149:30120
+#EXTINF:-1,BTV4 iMovie TV HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.30:30120
+#EXTINF:-1,LSTV _ TH Lạng Sơn
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.160:30120
+#EXTINF:-1,BPTV1 _ TH Bình Phước
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.23:30120
+#EXTINF:-1,BTV HD _ TH Bình Thuận
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.124:30120
+#EXTINF:-1,CTV HD _ TH Cà Mau
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.104:30120
+#EXTINF:-1,THTPCT _ TH Thành phố Cần Thơ
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.132:30120
+#EXTINF:-1,DaNangTV1 _ TH Thành phố Đà Nẵng
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.147:30120
+#EXTINF:-1,DaNangTV2 _ TH Thành phố Đà Nẵng
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.146:30120
+#EXTINF:-1,ĐNRTV1 HD _ TH Đồng Nai
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.152:30120
+#EXTINF:-1,ĐNRTV2 HD _ TH Đồng Nai
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.151:30120
+#EXTINF:-1,THĐT1 _ TH Đồng Tháp
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.163:30120
+#EXTINF:-1,DRT _ TH Đắk Lắk
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.64:30120
+#EXTINF:-1,THGL _ TH Gia Lai
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.176:30120
+#EXTINF:-1,HGTV _ TH Hà Giang
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.62:30120
+#EXTINF:-1,THHN _ TH Hà Nam
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.63:30120
+#EXTINF:-1,H1 HD _ TH Hà Nội
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.186:30120
+#EXTINF:-1,H2 HD _ TH Hà Nội
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.125:30120
+#EXTINF:-1,HTTV HD _ TH Hà Tĩnh
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.75:30120
+#EXTINF:-1,TRT _ TH Thừa Thiên Huế
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.161:30120
+#EXTINF:-1,THP HD _ TH Thành phố Hải Phòng
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.44:30120
+#EXTINF:-1,HBTV _ TH Hòa Bình
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.168:30120
+#EXTINF:-1,HGTV _ TH Hậu Giang
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.157:30120
+#EXTINF:-1,HY HD _ TH Hưng Yên
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.118:30120
+#EXTINF:-1,NTV _ TH Ninh Thuận
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.178:30120
+#EXTINF:-1,KTV _ TH Khánh Hòa
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.133:30120
+#EXTINF:-1,KG HD _ TH Kiên Giang
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.182:30120
+#EXTINF:-1,KRT _ TH Kon Tum
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.36:30120
+#EXTINF:-1,LTV _ TH Lâm Đồng
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.177:30120
+#EXTINF:-1,LA34 _ TH Long An
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.162:30120
+#EXTINF:-1,PTP _ TH Phú Yên
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.58:30120
+#EXTINF:-1,QRT _ TH Quảng Nam
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.50:30120
+#EXTINF:-1,PTQ _ TH Quảng Ngãi
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.174:30120
+#EXTINF:-1,QRTV _ TH Quảng Trị
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.117:30120
+#EXTINF:-1,STV1 HD _ TH Sóc Trăng
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.159:30120
+#EXTINF:-1,STV _ TH Sơn La
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.98:30120
+#EXTINF:-1,TBTV _ TH Thái Bình
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.99:30120
+#EXTINF:-1,TTV _ TH Thanh Hóa
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.184:30120
+#EXTINF:-1,TTV11 _ TH Tây Ninh
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.130:30120
+#EXTINF:-1,TN1 HD _ TH Thái Nguyên
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.179:30120
+#EXTINF:-1,THTG _ TH Tiền Giang
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.170:30120
+#EXTINF:-1,THTV _ TH Trà Vinh
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.172:30120
+#EXTINF:-1,YTV _ TH Yên Bái
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.39:30120
+#EXTINF:-1,TTV _ TH Tuyên Quang
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.188:30120
+#EXTINF:-1,THLC _ TH Lào Cai
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.119:30120
+#EXTINF:-1,Animal Planet
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.231:30120
+#EXTINF:-1,Asian Food Channel
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.198:30120
+#EXTINF:-1,AXN
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.225:30120
+#EXTINF:-1,Baby TV
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.146:30120
+#EXTINF:-1,BBC earth
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.24:30120
+#EXTINF:-1,BLUE ANT ENTERTAINMENT
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.203:30120
+#EXTINF:-1,BLUE ANT EXTREME
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.204:30120
+#EXTINF:-1,CARTOON NETWORK
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.231:30120
+#EXTINF:-1,[V] HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.188:30120
+#EXTINF:-1,Cinema World
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.142:30120
+#EXTINF:-1,Da Vinci Kids
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.197:30120
+#EXTINF:-1,Discovery Asia
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.223:30120
+#EXTINF:-1,Discovery Channel
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.238:30120
+#EXTINF:-1,Disney Channel
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.158:30120
+#EXTINF:-1,DW
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.46:30120
+#EXTINF:-1,Fashion TV
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.227:30120
+#EXTINF:-1,Fashion 4K
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.234:30120
+#EXTINF:-1,FOX HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.51:30120
+#EXTINF:-1,FOX life
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.237:30120
+#EXTINF:-1,FOX MOVIES
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.239:30120
+#EXTINF:-1,FOX SPORTS
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.229:30120
+#EXTINF:-1,FOX SPORTS 2
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.141:30120
+#EXTINF:-1,FOX SPORTS 3
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.242:30120
+#EXTINF:-1,HBO
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.233:30120
+#EXTINF:-1,KIX
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.144:30120
+#EXTINF:-1,MAX BY HBO
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.86:30120
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.235:30120
+#EXTINF:-1,NHK WORLD JAPAN
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.47:30120
+#EXTINF:-1,Outdoor Channel
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.215:30120
+#EXTINF:-1,RED BY HBO
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.93:30120
+#EXTINF:-1,TLC
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.236:30120
+#EXTINF:-1,WBTV
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.139:30120
+#EXTINF:-1,(DRM) K+1 HD (DRM)
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.5:30120
+#EXTINF:-1,K+NS HD (DRM)
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.6:30120
+#EXTINF:-1,(DRM) K+PM HD (DRM)
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.73:30120
+#EXTINF:-1,K+PC HD (DRM)
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.77:30120
+#EXTINF:-1,youTV _ Hanoicab2
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.207:30120
+#EXTINF:-1,MOV _ Hanoicab4
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.206:30120
+#EXTINF:-1,MTV
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.245:30120
+#EXTINF:-1,Vietnamnet
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.194:30120
+#EXTINF:-1,Dolife Hospital
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.127:30120
+#EXTINF:-1,The Mira Hotel
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.123:30120
+#EXTINF:-1,The Ocean Resort
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.121:30120
+#EXTINF:-1,FPT Giới Thiệu Chương Trình
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.2:30120
+#EXTINF:-1,FPT Giới Thiệu Dịch Vụ
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.137:30120
+#EXTINF:-1,FPT Mở Két
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.26:30120
+#EXTINF:-1,FPT Mở Két
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.97:30120
+#EXTINF:-1,FPT Thể Thao
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.252:30120
+#EXTINF:-1,FPT Feed
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.11:30120
+#EXTINF:-1,FPT Feed
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.100:30120
+#EXTINF:-1,FPT Feed
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.102:30120
+#EXTINF:-1,Unknown
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.30:30120
+#EXTINF:-1,HBO
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.90:30120
+#EXTINF:-1,Da Vinci
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.38:30120
+#EXTINF:-1,FOX life
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.32:30120
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.31:30120
+#EXTINF:-1,KBS WORLD
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.196:30120
+#EXTINF:-1,TV5 MONDE ASIE
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.200:30120
+#EXTINF:-1,VTV1 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.1:30120
+#EXTINF:-1,VTV2 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.2:30120
+#EXTINF:-1,VTV3 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.3:30120
+#EXTINF:-1,VTV4 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.4:30120
+#EXTINF:-1,VTV6 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.6:30120
+#EXTINF:-1,VTC3 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.42:30120
+#EXTINF:-1,VTC13 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.52:30120
+#EXTINF:-1,VTV5 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.5:30120
+#EXTINF:-1,VTV8 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.7:30120
+#EXTINF:-1,VTV9 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.8:30120
+#EXTINF:-1,VTC2
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.41:30120
+#EXTINF:-1,VTC4 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.43:30120
+#EXTINF:-1,VTC5
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.44:30120
+#EXTINF:-1,VTC6
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.45:30120
+#EXTINF:-1,VTC7
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.46:30120
+#EXTINF:-1,VTC8
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.47:30120
+#EXTINF:-1,VTC9
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.48:30120
+#EXTINF:-1,VTC10
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.49:30120
+#EXTINF:-1,VTC11
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.50:30120
+#EXTINF:-1,VTC14 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.53:30120
+#EXTINF:-1,VTC16
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.54:30120
+#EXTINF:-1,HTV1
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.55:30120
+#EXTINF:-1,HTV2 Vie Channel HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.56:30120
+#EXTINF:-1,HTV3 Dreams TV
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.57:30120
+#EXTINF:-1,HTV Keys
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.58:30120
+#EXTINF:-1,HTV THỂ THAO
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.60:30120
+#EXTINF:-1,HTV
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.68:30120
+#EXTINF:-1,HTVC Du Lịch và Cuộc Sống
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.67:30120
+#EXTINF:-1,FBNC
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.88:30120
+#EXTINF:-1,FBNC HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.70:30120
+#EXTINF:-1,HTVC Ca Nhạc
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.92:30120
+#EXTINF:-1,HTVC Gia Đình
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.64:30120
+#EXTINF:-1,HTVC Phim HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.63:30120
+#EXTINF:-1,HTVC Phụ Nữ
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.66:30120
+#EXTINF:-1,HTVC Thuần Việt
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.61:30120
+#EXTINF:-1,Thuần Việt HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.62:30120
+#EXTINF:-1,HTVC+
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.91:30120
+#EXTINF:-1,BTV10 NCM
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.83:30120
+#EXTINF:-1,QTV3 _ TH Quảng Ninh
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.86:30120
+#EXTINF:-1,BPTV2 _ HOME tv
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.80:30120
+#EXTINF:-1,BTV2 HD _ TH Bình Dương
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.81:30120
+#EXTINF:-1,BTV4 iMOVIE TV HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.82:30120
+#EXTINF:-1,BTV6
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.78:30120
+#EXTINF:-1,BTV11
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.84:30120
+#EXTINF:-1,ĐNRTV2 HD _ TH Đồng Nai
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.85:30120
+#EXTINF:-1,THVL2 HD _ TH Vĩnh Long
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.87:30120
+#EXTINF:-1,ABC AUSTRALIA
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.19:30120
+#EXTINF:-1,Asian Food Network HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.36:30120
+#EXTINF:-1,Animal Planet HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.27:30120
+#EXTINF:-1,arirang KOREA
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.74:30120
+#EXTINF:-1,AXN
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.9:30120
+#EXTINF:-1,Baby First HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.28:30120
+#EXTINF:-1,BBC earth HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.21:30120
+#EXTINF:-1,BBC lifestyle
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.23:30120
+#EXTINF:-1,BBC WORLD NEWS
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.22:30120
+#EXTINF:-1,BLOOMBERG
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.18:30120
+#EXTINF:-1,BOOMERANG
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.16:30120
+#EXTINF:-1,CARTOON NETWORK
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.13:30120
+#EXTINF:-1,cna
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.76:30120
+#EXTINF:-1,Cinema World HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.15:30120
+#EXTINF:-1,CNN
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.17:30120
+#EXTINF:-1,Discovery Asia HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.25:30120
+#EXTINF:-1,Discovery Channel HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.24:30120
+#EXTINF:-1,DW HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.75:30120
+#EXTINF:-1,FASHION TV HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.20:30120
+#EXTINF:-1,FOX HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.33:30120
+#EXTINF:-1,FOX MOVIES HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.34:30120
+#EXTINF:-1,FOX SPORTS HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.10:30120
+#EXTINF:-1,FOX SPORTS 2
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.11:30120
+#EXTINF:-1,FOX SPORTS 3 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.12:30120
+#EXTINF:-1,FRANCE 24
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.71:30120
+#EXTINF:-1,KBS WORLD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.69:30120
+#EXTINF:-1,KIX HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.40:30120
+#EXTINF:-1,NHK WORLD JAPAN HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.73:30120
+#EXTINF:-1,Outdoor Channel HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.37:30120
+#EXTINF:-1,TLC HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.26:30120
+#EXTINF:-1,TV5 MONDE ASIE
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.72:30120
+#EXTINF:-1,WBTV
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.14:30120
+#EXTINF:-1,QUỐC HỘI
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.148:30120
+#EXTINF:-1,VTVCab13 VTV Hyundai Homeshopping
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.79:30120
+#EXTINF:-1,HTVC VGS SHOP
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.89:30120
+#EXTINF:-1,QPVN
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.217:30120
+#EXTINF:-1,HTV7 HD (HD 4Mbps)
+http://fpthanhyen.ddns.net:1211/udp/225.1.4.59:30120
+#EXTINF:-1,HTVC Ca Nhạc
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.185:30120
+#EXTINF:-1,HTVC Phụ Nữ
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.171:30120
+#EXTINF:-1,HTVC+
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.181:30120
+#EXTINF:-1,SCTV2 AMC
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.234:30120
+#EXTINF:-1,ĐTV HD _ TH Điện Biên (HD 8Mbps)
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.74:30120
+#EXTINF:-1,PTV HD _ TH Phú Thọ (HD 8Mbps)
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.165:30120
+#EXTINF:-1,QTV1 HD _ TH Quảng Ninh (HD 8Mbps)
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.181:30120
+#EXTINF:-1,NTV HD _ TH Ninh Bình (HD 8Mbps)
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.185:30120
+#EXTINF:-1,BTV _ TH Bình Định (HD 8Mbps)
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.145:30120
+#EXTINF:-1,BTV3 HD _ TH Bình Dương (HD 8Mbps)
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.22:30120
+#EXTINF:-1,THVL4 HD _ TH Vĩnh Long (HD 8Mbps)
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.25:30120
+#EXTINF:-1,CRTV _ TH Cao Bằng
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.102:30120
+#EXTINF:-1,QTV3 _ TH Quảng Ninh
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.180:30120
+#EXTINF:-1,THD _ TH Hải Dương
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.158:30120
+#EXTINF:-1,NTV _ TH Nam Định
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.120:30120
+#EXTINF:-1,QBTV _ TH Quảng Bình
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.164:30120
+#EXTINF:-1,BPTV2 Home TV
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.38:30120
+#EXTINF:-1,Disney Junior (HD 8Mbps)
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.233:30120
+#EXTINF:-1,Arirang
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.201:30120
+#EXTINF:-1,ABC AUSTRALIA
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.21:30120
+#EXTINF:-1,BBC Lifestyle
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.52:30120
+#EXTINF:-1,BBC WORLD NEWS
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.74:30120
+#EXTINF:-1,CNA
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.202:30120
+#EXTINF:-1,CNBC
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.227:30120
+#EXTINF:-1,CNN
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.242:30120
+#EXTINF:-1,FRANCE 24 (English)
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.211:30120
+#EXTINF:-1,VTV1 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.239:30120
+#EXTINF:-1,VTV2 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.240:30120
+#EXTINF:-1,VTV3 HD
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.241:30120
+#EXTINF:-1,FPT Intro
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.103:30120
+#EXTINF:-1,VTVCab11 VGS SHOP
+http://fpthanhyen.ddns.net:1211/udp/225.1.2.167:30120
+#EXTINF:-1,VTVCab13 VTV Hyundai Homeshopping
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.122:30120
+#EXTINF:-1,HTVC VGS SHOP
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.172:30120
+#EXTINF:-1,BTV6 Quê Hương Homeshopping
+http://fpthanhyen.ddns.net:1211/udp/225.1.1.90:30120
